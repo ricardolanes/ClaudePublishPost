@@ -30,7 +30,13 @@ def host_image(image_path: str) -> str:
         )
     url = resp.text.strip()
     if not url.startswith("https://"):
-        raise RuntimeError(f"Falha no upload da imagem: {url}")
+        raise RuntimeError(
+            f"Falha no upload da imagem via catbox.moe: {url}\n"
+            "  catbox.moe costuma bloquear IPs de datacenter/proxy (comum em"
+            " ambientes de nuvem). Alternativa: faça commit da imagem no"
+            " repositorio e use a URL raw.githubusercontent.com como image_url"
+            " diretamente na chamada da Graph API."
+        )
     print(f"  Hospedada: {url}")
     return url
 
