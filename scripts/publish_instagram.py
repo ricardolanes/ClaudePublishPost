@@ -1,6 +1,8 @@
 """Publicação automática no Instagram via Meta Graph API."""
 import argparse
 import os
+import re
+import subprocess
 import sys
 import time
 from pathlib import Path
@@ -19,8 +21,43 @@ _HOST = "graph.instagram.com" if (PAGE_TOKEN or "").startswith("IGAA") else "gra
 BASE_URL = f"https://{_HOST}/{os.getenv('META_API_VERSION', 'v19.0')}"
 
 
+def _raw_github_url(image_path: str) -> str | None:
+    """Monta a URL raw.githubusercontent.com da imagem, se ela estiver commitada e a branch
+    atual publicada no GitHub. Retorna None quando a imagem não está sob controle de versão
+    ou o remoto não é o GitHub."""
+    repo_root = Path(__file__).resolve().parent.parent
+    try:
+        remote = subprocess.run(
+            ["git", "-C", str(repo_root), "remote", "get-url", "origin"],
+            capture_output=True, text=True, timeout=10,
+        ).stdout.strip()
+        branch = subprocess.run(
+            ["git", "-C", str(repo_root), "rev-parse", "--abbrev-ref", "HEAD"],
+            capture_output=True, text=True, timeout=10,
+        ).stdout.strip()
+        tracked = subprocess.run(
+            ["git", "-C", str(repo_root), "ls-files", "--error-unmatch", str(Path(image_path).resolve())],
+            capture_output=True, text=True, timeout=10,
+        ).returncode == 0
+    except (subprocess.SubprocessError, OSError):
+        return None
+    if not tracked or not branch:
+        return None
+    match = re.search(r"github\.com[:/]([^/]+)/([^/.]+?)(?:\.git)?$", remote)
+    if not match:
+        return None
+    owner, repo = match.groups()
+    rel_path = Path(image_path).resolve().relative_to(repo_root).as_posix()
+    return f"https://raw.githubusercontent.com/{owner}/{repo}/{branch}/{rel_path}"
+
+
 def host_image(image_path: str) -> str:
-    """Hospeda a imagem em uma URL pública via catbox.moe (a Graph API exige uma URL, não um arquivo local)."""
+    """Hospeda a imagem em uma URL pública (a Graph API exige uma URL, não um arquivo local).
+
+    Tenta catbox.moe primeiro; se o upload falhar (comum em IPs de datacenter/proxy de
+    ambientes de nuvem), cai para a URL raw.githubusercontent.com da imagem, desde que ela
+    já esteja commitada e a branch publicada no GitHub.
+    """
     with open(image_path, "rb") as f:
         resp = requests.post(
             "https://catbox.moe/user/api.php",
@@ -29,16 +66,24 @@ def host_image(image_path: str) -> str:
             timeout=60,
         )
     url = resp.text.strip()
-    if not url.startswith("https://"):
-        raise RuntimeError(
-            f"Falha no upload da imagem via catbox.moe: {url}\n"
-            "  catbox.moe costuma bloquear IPs de datacenter/proxy (comum em"
-            " ambientes de nuvem). Alternativa: faça commit da imagem no"
-            " repositorio e use a URL raw.githubusercontent.com como image_url"
-            " diretamente na chamada da Graph API."
-        )
-    print(f"  Hospedada: {url}")
-    return url
+    if url.startswith("https://"):
+        print(f"  Hospedada (catbox.moe): {url}")
+        return url
+
+    fallback_url = _raw_github_url(image_path)
+    if fallback_url is not None:
+        check = requests.head(fallback_url, timeout=15)
+        if check.status_code == 200:
+            print(f"  catbox.moe falhou ({url}); usando raw.githubusercontent.com: {fallback_url}")
+            return fallback_url
+
+    raise RuntimeError(
+        f"Falha no upload da imagem via catbox.moe: {url}\n"
+        "  catbox.moe costuma bloquear IPs de datacenter/proxy (comum em"
+        " ambientes de nuvem). Alternativa: faça commit da imagem e dê push da"
+        " branch atual no repositorio, para que a URL raw.githubusercontent.com"
+        " fique acessível como fallback automático."
+    )
 
 
 def create_media_container(image_path: str, caption: str, is_carousel_item: bool) -> str:
