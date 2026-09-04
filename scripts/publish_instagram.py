@@ -12,7 +12,11 @@ load_dotenv(Path(__file__).resolve().parent.parent / ".env")
 
 IG_ID = os.getenv("INSTAGRAM_BUSINESS_ID")
 PAGE_TOKEN = os.getenv("INSTAGRAM_ACCESS_TOKEN")
-BASE_URL = f"https://graph.facebook.com/{os.getenv('META_API_VERSION', 'v19.0')}"
+# Token type controls the API host: "IGAA..." tokens are Instagram Login tokens
+# and only work against graph.instagram.com; "EAA..." tokens are Facebook Page
+# tokens and use graph.facebook.com.
+_HOST = "graph.instagram.com" if (PAGE_TOKEN or "").startswith("IGAA") else "graph.facebook.com"
+BASE_URL = f"https://{_HOST}/{os.getenv('META_API_VERSION', 'v19.0')}"
 
 
 def host_image(image_path: str) -> str:

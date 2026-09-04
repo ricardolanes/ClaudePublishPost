@@ -46,3 +46,12 @@ python scripts/publish_instagram.py --images foto.png --caption "teste" --dry-ru
   contínuo (ex.: publicações agendadas), gere um token de longa duração —
   veja a etapa final da skill `setup-instagram`.
 - Nunca faça commit do arquivo `.env` (já está no `.gitignore`).
+- Existem dois tipos de token/API, e o `INSTAGRAM_BUSINESS_ID` é diferente
+  em cada um:
+  - Token começando com `EAA...` (fluxo via Página do Facebook) → API em
+    `graph.facebook.com`, ID vem de `me/accounts?fields=instagram_business_account`.
+  - Token começando com `IGAA...` (Instagram Login direto) → API em
+    `graph.instagram.com`, ID vem de `graph.instagram.com/me`.
+  O script detecta o host automaticamente pelo prefixo do token, mas o
+  `INSTAGRAM_BUSINESS_ID` no `.env` precisa ser o ID correto para o tipo
+  de token usado — confirme com uma chamada a `.../me` antes de publicar.
