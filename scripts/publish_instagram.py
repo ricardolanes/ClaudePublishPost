@@ -41,8 +41,16 @@ def host_image(image_path: str) -> str:
     return url
 
 
+def resolve_image_url(image: str) -> str:
+    """Aceita tanto um caminho local (que sera hospedado) quanto uma URL publica."""
+    if image.startswith(("http://", "https://")):
+        print(f"  URL informada: {image}")
+        return image
+    return host_image(image)
+
+
 def create_media_container(image_path: str, caption: str, is_carousel_item: bool) -> str:
-    data = {"access_token": PAGE_TOKEN, "image_url": host_image(image_path)}
+    data = {"access_token": PAGE_TOKEN, "image_url": resolve_image_url(image_path)}
     if is_carousel_item:
         data["is_carousel_item"] = "true"
     else:
@@ -131,8 +139,17 @@ def run(images: list, caption: str, dry_run: bool = False):
 
 if __name__ == "__main__":
     parser = argparse.ArgumentParser(description="Publica um post ou carrossel no Instagram via Meta Graph API.")
-    parser.add_argument("--images", nargs="+", required=True, help="Caminho de 1 a 10 imagens (PNG/JPG).")
-    parser.add_argument("--caption", required=True, help="Legenda do post, incluindo hashtags.")
+    parser.add_argument("--images", nargs="+", required=True,
+                        help="De 1 a 10 imagens: caminhos locais (serao hospedados)"
+                             " ou URLs publicas ja acessiveis (http/https).")
+    parser.add_argument("--caption", help="Legenda do post, incluindo hashtags.")
+    parser.add_argument("--caption-file", dest="caption_file",
+                        help="Le a legenda de um arquivo (util para acentos e emojis).")
     parser.add_argument("--dry-run", action="store_true", help="Valida tudo sem publicar de verdade.")
     args = parser.parse_args()
-    run(args.images, args.caption, args.dry_run)
+
+    if bool(args.caption) == bool(args.caption_file):
+        parser.error("informe exatamente um entre --caption e --caption-file.")
+    caption = (Path(args.caption_file).read_text(encoding="utf-8").strip()
+               if args.caption_file else args.caption)
+    run(args.images, caption, args.dry_run)
