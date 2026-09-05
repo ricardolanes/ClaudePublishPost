@@ -13,6 +13,10 @@ load_dotenv(Path(__file__).resolve().parent.parent / ".env")
 API_KEY = os.getenv("OPENAI_API_KEY")
 API_URL = "https://api.openai.com/v1/images/generations"
 SIZES = {"square": "1024x1024", "portrait": "1024x1536", "landscape": "1536x1024"}
+# Guarda a ultima cena sorteada para nao repetir a mesma no post seguinte.
+# Precisa ser commitado junto com a imagem: cada execucao agendada roda num
+# container novo, entao so o que estiver no git persiste entre posts.
+LAST_SCENE_FILE = Path(__file__).resolve().parent.parent / "assets" / "posts" / ".last_scene"
 
 
 def generate(prompt: str, out_path: str, size: str, quality: str):
@@ -59,8 +63,11 @@ if __name__ == "__main__":
 
     if args.random_scene:
         from scenes import pick_random_prompt
-        scene_name, prompt = pick_random_prompt()
-        print(f"Cena sorteada: {scene_name}")
+        last_scene = LAST_SCENE_FILE.read_text().strip() if LAST_SCENE_FILE.exists() else None
+        scene_name, prompt = pick_random_prompt(exclude=last_scene)
+        LAST_SCENE_FILE.parent.mkdir(parents=True, exist_ok=True)
+        LAST_SCENE_FILE.write_text(scene_name + "\n")
+        print(f"Cena sorteada: {scene_name}" + (f" (anterior: {last_scene})" if last_scene else ""))
     else:
         prompt = args.prompt or Path(args.prompt_file).read_text(encoding="utf-8").strip()
 

@@ -200,7 +200,8 @@ SCENES = [
 ]
 
 
-def pick_random_prompt() -> tuple[str, str]:
-    """Sorteia uma cena e devolve (nome_da_cena, prompt)."""
-    name, builder = random.choice(SCENES)
+def pick_random_prompt(exclude: str | None = None) -> tuple[str, str]:
+    """Sorteia uma cena (evitando repetir `exclude`, se houver mais de uma opção) e devolve (nome_da_cena, prompt)."""
+    choices = [s for s in SCENES if s[0] != exclude] if exclude else SCENES
+    name, builder = random.choice(choices or SCENES)
     return name, builder()
