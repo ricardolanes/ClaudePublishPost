@@ -1,0 +1,229 @@
+<!doctype html>
+<html lang="pt-BR">
+<head>
+<meta charset="utf-8">
+<style>
+  * { margin:0; padding:0; box-sizing:border-box; }
+  html,body { width:1080px; height:1080px; }
+  body {
+    font-family: "Liberation Sans", "DejaVu Sans", sans-serif;
+    background:#0d0f14;
+    overflow:hidden;
+  }
+  .stage { position:relative; width:1080px; height:1080px; }
+  svg { position:absolute; inset:0; }
+  .kicker {
+    position:absolute; left:74px; top:66px;
+    display:flex; align-items:center; gap:16px;
+    font-size:21px; font-weight:700; letter-spacing:7px;
+    color:rgba(255,255,255,.75); text-transform:uppercase;
+  }
+  .dot { width:13px; height:13px; border-radius:50%; background:#FF8A1F; box-shadow:0 0 18px 4px rgba(255,138,31,.65); }
+  .head {
+    position:absolute; left:74px; top:126px;
+    font-size:80px; font-weight:700; line-height:1.06;
+    letter-spacing:-2.5px; color:#F3F5FA;
+  }
+  .head em { font-style:normal; background:linear-gradient(92deg,#FFC061,#FF7317);
+    -webkit-background-clip:text; background-clip:text; color:transparent; }
+  .sub {
+    position:absolute; left:78px; top:310px;
+    font-size:26px; font-weight:400; letter-spacing:.4px; color:rgba(233,238,248,.62);
+  }
+  .rule { position:absolute; left:78px; bottom:112px; width:924px; height:1px; background:rgba(255,255,255,.14); }
+  .mark {
+    position:absolute; right:78px; bottom:52px;
+    font-size:30px; letter-spacing:4px; color:rgba(255,255,255,.78); font-weight:700;
+  }
+  .tagline {
+    position:absolute; left:78px; bottom:58px;
+    font-size:21px; letter-spacing:3.4px; color:rgba(255,255,255,.5); text-transform:uppercase;
+  }
+  .pills {
+    position:absolute; left:0; right:0; bottom:160px;
+    display:flex; justify-content:center; gap:18px;
+  }
+  .pill {
+    padding:13px 30px; border-radius:999px;
+    border:1.5px solid rgba(255,255,255,.16);
+    background:rgba(255,255,255,.045);
+    font-size:20px; font-weight:700; letter-spacing:3.6px;
+    color:rgba(255,255,255,.72);
+  }
+  .pill.hot { border-color:rgba(255,138,31,.55); color:#FFB061; background:rgba(255,138,31,.09); }
+</style>
+</head>
+<body>
+<div class="stage">
+<svg viewBox="0 0 1080 1080" width="1080" height="1080">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="0.35" y2="1">
+      <stop offset="0%" stop-color="#191E28"/>
+      <stop offset="52%" stop-color="#10141B"/>
+      <stop offset="100%" stop-color="#080A0E"/>
+    </linearGradient>
+    <radialGradient id="spot" cx="50%" cy="58%" r="50%">
+      <stop offset="0%" stop-color="#FF8A1F" stop-opacity=".30"/>
+      <stop offset="55%" stop-color="#FF6A00" stop-opacity=".08"/>
+      <stop offset="100%" stop-color="#FF6A00" stop-opacity="0"/>
+    </radialGradient>
+    <pattern id="grid" width="26" height="26" patternUnits="userSpaceOnUse">
+      <circle cx="1.6" cy="1.6" r="1.6" fill="#ffffff" fill-opacity=".05"/>
+    </pattern>
+    <pattern id="layers" width="10" height="9" patternUnits="userSpaceOnUse">
+      <rect y="7.2" width="10" height="1.8" fill="#000000" fill-opacity=".18"/>
+      <rect y="0" width="10" height="1" fill="#ffffff" fill-opacity=".11"/>
+    </pattern>
+
+    <linearGradient id="orange" x1="0" y1="0" x2="1" y2="0.6">
+      <stop offset="0%" stop-color="#FFC873"/>
+      <stop offset="42%" stop-color="#FF8A1F"/>
+      <stop offset="100%" stop-color="#D9490A"/>
+    </linearGradient>
+    <linearGradient id="orangeDark" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#C9450A" stop-opacity=".0"/>
+      <stop offset="100%" stop-color="#7E2704" stop-opacity=".85"/>
+    </linearGradient>
+    <linearGradient id="teal" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#8DF3E6"/>
+      <stop offset="50%" stop-color="#2ECBBA"/>
+      <stop offset="100%" stop-color="#0F8C86"/>
+    </linearGradient>
+    <linearGradient id="tealDark" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#12817C"/>
+      <stop offset="100%" stop-color="#0A5654"/>
+    </linearGradient>
+    <linearGradient id="violet" x1="0" y1="0" x2="0.8" y2="1">
+      <stop offset="0%" stop-color="#C3B2FF"/>
+      <stop offset="52%" stop-color="#7F66F2"/>
+      <stop offset="100%" stop-color="#4B36AE"/>
+    </linearGradient>
+    <linearGradient id="deck" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#2A313F"/>
+      <stop offset="100%" stop-color="#11141A"/>
+    </linearGradient>
+    <radialGradient id="floorGlow" cx="50%" cy="50%" r="50%">
+      <stop offset="0%" stop-color="#FF8A1F" stop-opacity=".26"/>
+      <stop offset="100%" stop-color="#FF8A1F" stop-opacity="0"/>
+    </radialGradient>
+    <filter id="soft" x="-50%" y="-50%" width="200%" height="200%">
+      <feGaussianBlur stdDeviation="13"/>
+    </filter>
+    <filter id="soft2" x="-50%" y="-50%" width="200%" height="200%">
+      <feGaussianBlur stdDeviation="30"/>
+    </filter>
+  </defs>
+
+  <rect width="1080" height="1080" fill="url(#bg)"/>
+  <rect width="1080" height="1080" fill="url(#grid)"/>
+  <rect width="1080" height="1080" fill="url(#spot)"/>
+
+  <g transform="translate(0,-34)">
+  <!-- shelf -->
+  <ellipse cx="540" cy="836" rx="470" ry="90" fill="url(#floorGlow)"/>
+  <rect x="86" y="824" width="908" height="14" rx="7" fill="url(#deck)"/>
+  <rect x="86" y="824" width="908" height="2.5" rx="1.25" fill="#ffffff" fill-opacity=".13"/>
+
+  <!-- ============ OBJECT 1: hexagonal planter (left) ============ -->
+  <g>
+    <ellipse cx="252" cy="828" rx="118" ry="20" fill="#000" fill-opacity=".5" filter="url(#soft)"/>
+    <!-- body: hexagonal prism, 3 visible facets -->
+    <path d="M156 636 L252 606 L252 826 L156 796 Z" fill="url(#orange)"/>
+    <path d="M252 606 L348 636 L348 796 L252 826 Z" fill="url(#orange)"/>
+    <path d="M252 606 L348 636 L348 796 L252 826 Z" fill="url(#orangeDark)"/>
+    <path d="M156 636 L252 606 L348 636 L348 796 L252 826 L156 796 Z" fill="url(#layers)"/>
+    <path d="M156 636 L252 606 L252 826 L156 796 Z" fill="#000" fill-opacity=".10"/>
+    <!-- rim -->
+    <path d="M156 636 L252 606 L348 636 L252 666 Z" fill="#FFD79A"/>
+    <path d="M182 636 L252 614 L322 636 L252 658 Z" fill="#2C1A0D"/>
+    <!-- succulent -->
+    <path d="M252 632 C230 604 230 574 248 556 C262 580 260 610 252 632 Z" fill="url(#teal)"/>
+    <path d="M256 634 C284 616 296 590 288 566 C266 582 254 608 256 634 Z" fill="url(#teal)" opacity=".85"/>
+    <path d="M248 636 C230 622 208 620 196 630 C214 644 234 646 248 636 Z" fill="url(#tealDark)"/>
+    <path d="M255 636 C276 646 298 642 306 630 C290 620 268 622 255 636 Z" fill="url(#tealDark)" opacity=".8"/>
+    <path d="M156 636 L252 606 L348 636" fill="none" stroke="#FFE7C2" stroke-opacity=".45" stroke-width="2"/>
+  </g>
+
+  <!-- ============ OBJECT 2: spiral vase (center hero) ============ -->
+  <g>
+    <ellipse cx="540" cy="832" rx="120" ry="22" fill="#000" fill-opacity=".55" filter="url(#soft)"/>
+    <path d="M478 824
+        C 452 764 444 700 470 646
+        C 494 596 500 552 470 496
+        C 462 480 466 466 482 456
+        L 598 456
+        C 614 466 618 480 610 496
+        C 580 552 586 596 610 646
+        C 636 700 628 764 602 824 Z"
+      fill="url(#orange)"/>
+    <path d="M540 456 L598 456 C614 466 618 480 610 496 C580 552 586 596 610 646 C636 700 628 764 602 824 L540 824 Z"
+      fill="url(#orangeDark)"/>
+    <path d="M478 824
+        C 452 764 444 700 470 646
+        C 494 596 500 552 470 496
+        C 462 480 466 466 482 456
+        L 598 456
+        C 614 466 618 480 610 496
+        C 580 552 586 596 610 646
+        C 636 700 628 764 602 824 Z"
+      fill="url(#layers)"/>
+    <!-- rim -->
+    <ellipse cx="540" cy="456" rx="70" ry="15" fill="#FFD79A"/>
+    <ellipse cx="540" cy="457" rx="53" ry="10.5" fill="#2C1A0D"/>
+    <!-- left highlight -->
+    <path d="M482 456 C466 466 462 480 470 496 C500 552 494 596 470 646 C444 700 452 764 478 824"
+      fill="none" stroke="#FFE7C2" stroke-opacity=".4" stroke-width="3"/>
+    <ellipse cx="540" cy="824" rx="62" ry="11" fill="#000" fill-opacity=".22"/>
+  </g>
+
+  <!-- ============ OBJECT 3: printed gear (right) ============ -->
+  <g transform="translate(846 700) rotate(-14)">
+    <ellipse cx="0" cy="128" rx="104" ry="18" fill="#000" fill-opacity=".5" filter="url(#soft)"/>
+    <g>
+      <rect x="-17" y="-126" width="34" height="42" rx="7" fill="url(#violet)"/>
+      <rect x="-17" y="-126" width="34" height="42" rx="7" fill="url(#violet)" transform="rotate(45)"/>
+      <rect x="-17" y="-126" width="34" height="42" rx="7" fill="url(#violet)" transform="rotate(90)"/>
+      <rect x="-17" y="-126" width="34" height="42" rx="7" fill="url(#violet)" transform="rotate(135)"/>
+      <rect x="-17" y="-126" width="34" height="42" rx="7" fill="url(#violet)" transform="rotate(180)"/>
+      <rect x="-17" y="-126" width="34" height="42" rx="7" fill="url(#violet)" transform="rotate(225)"/>
+      <rect x="-17" y="-126" width="34" height="42" rx="7" fill="url(#violet)" transform="rotate(270)"/>
+      <rect x="-17" y="-126" width="34" height="42" rx="7" fill="url(#violet)" transform="rotate(315)"/>
+    </g>
+    <circle cx="0" cy="0" r="96" fill="url(#violet)"/>
+    <circle cx="0" cy="0" r="96" fill="url(#layers)"/>
+    <circle cx="0" cy="0" r="62" fill="none" stroke="#000" stroke-opacity=".14" stroke-width="12"/>
+    <circle cx="0" cy="0" r="34" fill="#0D1015"/>
+    <circle cx="0" cy="0" r="34" fill="none" stroke="#241D3A" stroke-width="5"/>
+    <path d="M-96 0 A96 96 0 0 1 -20 -94" fill="none" stroke="#E3D9FF" stroke-opacity=".45" stroke-width="3"/>
+  </g>
+
+  <!-- ============ OBJECT 4: stacking box (front) ============ -->
+  <g transform="translate(676 784)">
+    <ellipse cx="0" cy="48" rx="76" ry="13" fill="#000" fill-opacity=".45" filter="url(#soft)"/>
+    <path d="M-66 -16 L0 -44 L66 -16 L66 24 L0 52 L-66 24 Z" fill="url(#teal)"/>
+    <path d="M0 -44 L66 -16 L66 24 L0 52 Z" fill="url(#tealDark)" opacity=".65"/>
+    <path d="M-66 -16 L0 -44 L66 -16 L0 12 Z" fill="#9DF6EB"/>
+    <path d="M-66 -16 L0 -44 L66 -16 L66 24 L0 52 L-66 24 Z" fill="url(#layers)"/>
+    <path d="M-44 -14 L0 -32 L44 -14 L0 4 Z" fill="#0C1418" fill-opacity=".6"/>
+    <path d="M-66 -16 L0 -44 L66 -16" fill="none" stroke="#CFFDF6" stroke-opacity=".35" stroke-width="2"/>
+  </g>
+
+  <ellipse cx="540" cy="720" rx="440" ry="190" fill="url(#floorGlow)" opacity=".5" filter="url(#soft2)"/>
+  </g>
+</svg>
+
+<div class="kicker"><span class="dot"></span>Impressão 3D</div>
+<div class="head">Da ideia à peça<br><em>na sua mesa.</em></div>
+<div class="sub">Modelou hoje, imprimiu hoje. Camada por camada.</div>
+<div class="pills">
+  <span class="pill hot">PLA</span>
+  <span class="pill">PETG</span>
+  <span class="pill">TPU</span>
+  <span class="pill">RESINA</span>
+</div>
+<div class="rule"></div>
+<div class="tagline">Feito no bico quente</div>
+<div class="mark">@bicoquente</div>
+</div>
+</body>
+</html>

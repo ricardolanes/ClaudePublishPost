@@ -41,8 +41,16 @@ def host_image(image_path: str) -> str:
     return url
 
 
+def resolve_image_url(image: str) -> str:
+    """Aceita uma URL publica pronta ou um caminho local (que sera hospedado)."""
+    if image.startswith("http://") or image.startswith("https://"):
+        print(f"  URL publica: {image}")
+        return image
+    return host_image(image)
+
+
 def create_media_container(image_path: str, caption: str, is_carousel_item: bool) -> str:
-    data = {"access_token": PAGE_TOKEN, "image_url": host_image(image_path)}
+    data = {"access_token": PAGE_TOKEN, "image_url": resolve_image_url(image_path)}
     if is_carousel_item:
         data["is_carousel_item"] = "true"
     else:
@@ -131,7 +139,11 @@ def run(images: list, caption: str, dry_run: bool = False):
 
 if __name__ == "__main__":
     parser = argparse.ArgumentParser(description="Publica um post ou carrossel no Instagram via Meta Graph API.")
-    parser.add_argument("--images", nargs="+", required=True, help="Caminho de 1 a 10 imagens (PNG/JPG).")
+    parser.add_argument("--images", nargs="+", required=True,
+                        help="De 1 a 10 imagens: caminho local (sera hospedado via catbox.moe)"
+                             " ou URL publica ja acessivel (http/https), que a Graph API baixa direto."
+                             " Em ambientes de nuvem, prefira a URL publica —"
+                             " ex.: raw.githubusercontent.com apontando para um commit deste repo.")
     parser.add_argument("--caption", required=True, help="Legenda do post, incluindo hashtags.")
     parser.add_argument("--dry-run", action="store_true", help="Valida tudo sem publicar de verdade.")
     args = parser.parse_args()
