@@ -49,7 +49,7 @@ def _finished_part() -> str:
     color = random.choice(PALETTE)
     obj = random.choice([
         "a mechanical gear", "a miniature dragon figurine", "a geometric vase",
-        "a phone stand", "a articulated toy", "a honeycomb-pattern desk organizer",
+        "a phone stand", "an articulated toy", "a honeycomb-pattern desk organizer",
     ])
     return (
         f"Studio product shot of {obj}, freshly 3D-printed in glossy {color} "
@@ -140,7 +140,12 @@ def _suportes_sendo_criados() -> str:
 def _peca_em_meio_processo() -> str:
     color = random.choice(PALETTE)
     obj = random.choice([
-        "a vase", "a helmet", "a robot figurine", "an architectural model",
+        "a vase",
+        "a plain unbranded full-face helmet shell (generic rounded shape, no"
+        " visor cutout, no franchise markings)",
+        "a generic humanoid robot figurine (original toy-like design, no"
+        " franchise likeness)",
+        "an architectural model",
     ])
     return (
         f"A 3D print of {obj} in glossy {color} filament, captured mid-process: "
