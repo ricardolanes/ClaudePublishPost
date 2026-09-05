@@ -41,8 +41,8 @@ def host_image(image_path: str) -> str:
     return url
 
 
-def create_media_container(image_path: str, caption: str, is_carousel_item: bool) -> str:
-    data = {"access_token": PAGE_TOKEN, "image_url": host_image(image_path)}
+def create_media_container(image: str, caption: str, is_carousel_item: bool, is_url: bool = False) -> str:
+    data = {"access_token": PAGE_TOKEN, "image_url": image if is_url else host_image(image)}
     if is_carousel_item:
         data["is_carousel_item"] = "true"
     else:
@@ -94,7 +94,7 @@ def publish(container_id: str) -> str:
     return result["id"]
 
 
-def run(images: list, caption: str, dry_run: bool = False):
+def run(images: list, caption: str, dry_run: bool = False, is_url: bool = False):
     if not IG_ID or not PAGE_TOKEN:
         print("ERRO: credenciais nao encontradas. Preencha o arquivo .env na raiz do projeto"
               " (veja .env.example) antes de publicar.")
@@ -111,13 +111,13 @@ def run(images: list, caption: str, dry_run: bool = False):
 
     if is_carousel:
         print("\nPasso 1/3 - Criando containers do carrossel...")
-        ids = [create_media_container(img, caption, is_carousel_item=True) for img in images]
+        ids = [create_media_container(img, caption, True, is_url) for img in images]
 
         print("\nPasso 2/3 - Montando carrossel...")
         creation_id = create_carousel(ids, caption)
     else:
         print("\nPasso 1/2 - Criando container do post...")
-        creation_id = create_media_container(images[0], caption, is_carousel_item=False)
+        creation_id = create_media_container(images[0], caption, False, is_url)
 
     print(f"\nPasso {'3/3' if is_carousel else '2/2'} - Publicando...")
     if not wait_ready(creation_id):
@@ -131,8 +131,15 @@ def run(images: list, caption: str, dry_run: bool = False):
 
 if __name__ == "__main__":
     parser = argparse.ArgumentParser(description="Publica um post ou carrossel no Instagram via Meta Graph API.")
-    parser.add_argument("--images", nargs="+", required=True, help="Caminho de 1 a 10 imagens (PNG/JPG).")
-    parser.add_argument("--caption", required=True, help="Legenda do post, incluindo hashtags.")
+    src = parser.add_mutually_exclusive_group(required=True)
+    src.add_argument("--images", nargs="+", help="Caminho de 1 a 10 imagens (PNG/JPG); sao hospedadas via catbox.moe.")
+    src.add_argument("--image-urls", nargs="+", help="URLs publicas ja hospedadas (ex.: raw.githubusercontent.com),"
+                     " usadas direto na Graph API — util quando o catbox.moe esta bloqueado.")
+    parser.add_argument("--caption", help="Legenda do post, incluindo hashtags.")
+    parser.add_argument("--caption-file", help="Arquivo de texto com a legenda (alternativa a --caption).")
     parser.add_argument("--dry-run", action="store_true", help="Valida tudo sem publicar de verdade.")
     args = parser.parse_args()
-    run(args.images, args.caption, args.dry_run)
+    if bool(args.caption) == bool(args.caption_file):
+        parser.error("informe exatamente um entre --caption e --caption-file")
+    caption = args.caption or Path(args.caption_file).read_text(encoding="utf-8").strip()
+    run(args.images or args.image_urls, caption, args.dry_run, is_url=bool(args.image_urls))
