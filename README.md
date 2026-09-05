@@ -38,7 +38,22 @@ python scripts/publish_instagram.py --images slide1.png slide2.png --caption "Le
 
 # Testar sem publicar de verdade
 python scripts/publish_instagram.py --images foto.png --caption "teste" --dry-run
+
+# A partir de uma URL pública (recomendado em sessões na nuvem)
+python scripts/publish_instagram.py \
+  --images "https://raw.githubusercontent.com/<user>/<repo>/<commit-sha>/assets/posts/foto.png" \
+  --caption "Legenda aqui"
 ```
+
+### Publicando de uma sessão na nuvem
+
+A Graph API baixa a imagem de uma URL pública — ela nunca recebe o arquivo
+local. O upload automático via catbox.moe costuma ser bloqueado a partir de
+IPs de datacenter, então o caminho que funciona é:
+
+1. commitar a imagem em `assets/posts/` e dar push;
+2. usar a URL `raw.githubusercontent.com` **do commit** (o SHA, não o nome do
+   branch — branches com `/` no nome nem sempre resolvem no raw) em `--images`.
 
 ## Importante
 
