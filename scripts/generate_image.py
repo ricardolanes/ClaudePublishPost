@@ -44,6 +44,9 @@ if __name__ == "__main__":
     src = parser.add_mutually_exclusive_group(required=True)
     src.add_argument("--prompt", help="Descrição da imagem a gerar.")
     src.add_argument("--prompt-file", help="Arquivo de texto com o prompt (alternativa a --prompt).")
+    src.add_argument("--random-scene", action="store_true",
+                      help="Sorteia o assunto do post (impressora, peça pronta, filamento etc.)"
+                           " em vez de usar um prompt fixo — ver scripts/scenes.py.")
     parser.add_argument("--out", required=True, help="Caminho do arquivo PNG de saída.")
     parser.add_argument("--size", default="square", choices=list(SIZES) + list(SIZES.values()),
                          help="square (1024x1024, padrão), portrait (1024x1536) ou landscape (1536x1024).")
@@ -54,6 +57,11 @@ if __name__ == "__main__":
         print("ERRO: OPENAI_API_KEY nao encontrada. Defina no .env ou como variavel de ambiente.")
         sys.exit(1)
 
-    prompt = args.prompt or Path(args.prompt_file).read_text(encoding="utf-8").strip()
+    if args.random_scene:
+        from scenes import pick_random_prompt
+        scene_name, prompt = pick_random_prompt()
+        print(f"Cena sorteada: {scene_name}")
+    else:
+        prompt = args.prompt or Path(args.prompt_file).read_text(encoding="utf-8").strip()
 
     generate(prompt, args.out, args.size, args.quality)
