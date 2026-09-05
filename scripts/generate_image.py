@@ -41,8 +41,9 @@ def generate(prompt: str, out_path: str, size: str, quality: str):
 
 if __name__ == "__main__":
     parser = argparse.ArgumentParser(description="Gera uma imagem via API da OpenAI (gpt-image-1).")
-    parser.add_argument("--prompt", required=True, help="Descrição da imagem a gerar.")
-    parser.add_argument("--prompt-file", help="Arquivo de texto com o prompt (alternativa a --prompt).")
+    src = parser.add_mutually_exclusive_group(required=True)
+    src.add_argument("--prompt", help="Descrição da imagem a gerar.")
+    src.add_argument("--prompt-file", help="Arquivo de texto com o prompt (alternativa a --prompt).")
     parser.add_argument("--out", required=True, help="Caminho do arquivo PNG de saída.")
     parser.add_argument("--size", default="square", choices=list(SIZES) + list(SIZES.values()),
                          help="square (1024x1024, padrão), portrait (1024x1536) ou landscape (1536x1024).")
@@ -53,8 +54,6 @@ if __name__ == "__main__":
         print("ERRO: OPENAI_API_KEY nao encontrada. Defina no .env ou como variavel de ambiente.")
         sys.exit(1)
 
-    prompt = args.prompt
-    if args.prompt_file:
-        prompt = Path(args.prompt_file).read_text(encoding="utf-8").strip()
+    prompt = args.prompt or Path(args.prompt_file).read_text(encoding="utf-8").strip()
 
     generate(prompt, args.out, args.size, args.quality)
