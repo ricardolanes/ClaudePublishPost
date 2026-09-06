@@ -20,7 +20,7 @@ BASE_URL = f"https://{_HOST}/{os.getenv('META_API_VERSION', 'v19.0')}"
 
 # Aviso de transparencia: nesta automacao tanto a imagem quanto o texto sao
 # gerados por IA, entao ele entra em toda legenda publicada pelo script.
-AI_DISCLOSURE = "🤖 Post gerado por IA — imagem e texto criados com Claude Code."
+AI_DISCLOSURE = "🤖 Gerado por IA: imagem (OpenAI) · texto (Claude Code)"
 
 
 def with_disclosure(caption: str) -> str:

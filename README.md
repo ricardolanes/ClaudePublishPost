@@ -43,8 +43,8 @@ python scripts/publish_instagram.py --images foto.png --caption "teste" --dry-ru
 ## Importante
 
 - Toda legenda publicada pelo script recebe automaticamente um aviso de
-  transparência ("Post gerado por IA — imagem e texto criados com Claude
-  Code."), inserido antes do bloco final de hashtags. Não é preciso escrevê-lo
+  transparência ("Gerado por IA: imagem (OpenAI) · texto (Claude Code)"),
+  inserido antes do bloco final de hashtags. Não é preciso escrevê-lo
   na legenda; se ele já estiver lá, o script não duplica. Para mudar o texto do
   aviso, edite `AI_DISCLOSURE` em `scripts/publish_instagram.py`.
 - A Graph API não permite editar a legenda de um post já publicado — o aviso só
