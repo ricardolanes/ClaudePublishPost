@@ -18,6 +18,23 @@ PAGE_TOKEN = os.getenv("INSTAGRAM_ACCESS_TOKEN")
 _HOST = "graph.instagram.com" if (PAGE_TOKEN or "").startswith("IGAA") else "graph.facebook.com"
 BASE_URL = f"https://{_HOST}/{os.getenv('META_API_VERSION', 'v19.0')}"
 
+# Aviso de transparencia: nesta automacao tanto a imagem quanto o texto sao
+# gerados por IA, entao ele entra em toda legenda publicada pelo script.
+AI_DISCLOSURE = "🤖 Post gerado por IA — imagem e texto criados com Claude Code."
+
+
+def with_disclosure(caption: str) -> str:
+    """Acrescenta o aviso de conteudo gerado por IA, antes do bloco final de hashtags."""
+    caption = caption.strip()
+    if AI_DISCLOSURE in caption:
+        return caption
+    blocks = caption.split("\n\n")
+    if len(blocks) > 1 and blocks[-1].lstrip().startswith("#"):
+        blocks.insert(-1, AI_DISCLOSURE)
+    else:
+        blocks.append(AI_DISCLOSURE)
+    return "\n\n".join(blocks)
+
 
 def host_image(image_path: str) -> str:
     """Hospeda a imagem em uma URL pública via catbox.moe (a Graph API exige uma URL, não um arquivo local)."""
@@ -103,8 +120,10 @@ def run(images: list, caption: str, dry_run: bool = False, is_url: bool = False)
         print("ERRO: maximo 10 imagens por post.")
         sys.exit(1)
 
+    caption = with_disclosure(caption)
     is_carousel = len(images) > 1
     print(f"\nPublicando {len(images)} imagem(ns) no Instagram...")
+    print(f"\nLegenda final:\n{caption}\n")
     if dry_run:
         print("[DRY RUN] Credenciais e imagens OK. Remova --dry-run para publicar de verdade.")
         return

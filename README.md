@@ -42,6 +42,13 @@ python scripts/publish_instagram.py --images foto.png --caption "teste" --dry-ru
 
 ## Importante
 
+- Toda legenda publicada pelo script recebe automaticamente um aviso de
+  transparência ("Post gerado por IA — imagem e texto criados com Claude
+  Code."), inserido antes do bloco final de hashtags. Não é preciso escrevê-lo
+  na legenda; se ele já estiver lá, o script não duplica. Para mudar o texto do
+  aviso, edite `AI_DISCLOSURE` em `scripts/publish_instagram.py`.
+- A Graph API não permite editar a legenda de um post já publicado — o aviso só
+  vale para publicações novas.
 - O token gerado pelo Graph API Explorer expira em 1 hora. Para uso
   contínuo (ex.: publicações agendadas), gere um token de longa duração —
   veja a etapa final da skill `setup-instagram`.
