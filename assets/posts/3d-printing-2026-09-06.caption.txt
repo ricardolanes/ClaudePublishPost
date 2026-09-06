@@ -1,0 +1,17 @@
+A impressão terminou? Então falta a melhor parte. 🛠️
+
+Ninguém mostra esse momento: a peça sai da mesa, ainda morna, e vem o trabalho fino — lima na mão, marca de suporte de um lado, poeirinha de PLA voando na luz da bancada. É aqui que a peça deixa de ser "impressa" e passa a ser bem feita.
+
+3 coisas que mudaram meu acabamento:
+
+🔹 Lima primeiro, lixa depois — a lima tira o volume da marca, a lixa só alisa. Fazer ao contrário é perder meia hora à toa.
+🔹 Lixa em ordem: 220 → 400 → 600. Pular etapa deixa risco que só aparece na hora da pintura.
+🔹 Toque leve e sempre no sentido das camadas. Pressão demais derrete o PLA em vez de remover material.
+
+O detalhe é que 90% do resultado final vem desses 10 minutos com a peça na mão. Modelagem boa e slicer afinado levam você até a porta — o acabamento é quem entra.
+
+E aí, você é do time que usa a peça direto da mesa ou do time que não entrega sem lixar? 👇 Conta nos comentários qual é o seu ritual de pós-processamento.
+
+Salva esse post pra lembrar da ordem das lixas na próxima peça! 🔖
+
+#impressao3d #impressora3d #print3d #pla #petg #maker #makerbrasil #modelagem3d #prototipagem #fabricacaodigital #diy #acabamento #posprocessamento #impressao3dbrasil #bambulab #3dprinting #3dprintingbrasil #oficina #handmade #tecnologia
