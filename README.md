@@ -47,6 +47,14 @@ python scripts/publish_instagram.py --images foto.png --caption "teste" --dry-ru
   inserido antes do bloco final de hashtags. Não é preciso escrevê-lo
   na legenda; se ele já estiver lá, o script não duplica. Para mudar o texto do
   aviso, edite `AI_DISCLOSURE` em `scripts/publish_instagram.py`.
+- Além do aviso na legenda, todo post é publicado com `is_ai_generated=true`, o
+  rótulo nativo de conteúdo gerado por IA da Meta. Em carrosséis esse parâmetro
+  só é aceito no container do carrossel — a API recusa se ele vier nos itens
+  individuais.
+- O `alt_text` (acessibilidade) é preenchido sozinho: `generate_image.py` grava
+  um arquivo `<imagem>.alt.txt` com a descrição da cena sorteada, e
+  `publish_instagram.py` o localiza pelo nome do arquivo — inclusive quando a
+  publicação é feita por `--image-urls`. Para sobrescrever, use `--alt-text`.
 - A Graph API não permite editar a legenda de um post já publicado — o aviso só
   vale para publicações novas.
 - O token gerado pelo Graph API Explorer expira em 1 hora. Para uso

@@ -62,13 +62,22 @@ if __name__ == "__main__":
         sys.exit(1)
 
     if args.random_scene:
-        from scenes import pick_random_prompt
+        from scenes import alt_text_for, pick_random_prompt
         last_scene = LAST_SCENE_FILE.read_text().strip() if LAST_SCENE_FILE.exists() else None
         scene_name, prompt = pick_random_prompt(exclude=last_scene)
         LAST_SCENE_FILE.parent.mkdir(parents=True, exist_ok=True)
         LAST_SCENE_FILE.write_text(scene_name + "\n")
         print(f"Cena sorteada: {scene_name}" + (f" (anterior: {last_scene})" if last_scene else ""))
     else:
+        alt_text_for, scene_name = (lambda _: None), None
         prompt = args.prompt or Path(args.prompt_file).read_text(encoding="utf-8").strip()
 
     generate(prompt, args.out, args.size, args.quality)
+
+    # Grava o texto alternativo ao lado da imagem; publish_instagram.py o
+    # encontra sozinho pelo nome do arquivo e envia como alt_text do post.
+    alt = alt_text_for(scene_name)
+    if alt:
+        alt_path = Path(args.out).with_suffix(".alt.txt")
+        alt_path.write_text(alt + "\n", encoding="utf-8")
+        print(f"Texto alternativo: {alt_path}")

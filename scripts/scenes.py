@@ -205,6 +205,63 @@ SCENES = [
 ]
 
 
+# Texto alternativo (acessibilidade) de cada cena, em pt-BR. Descreve o que
+# aparece na imagem, sem citar cor: a cor e sorteada a cada geracao.
+ALT_TEXTS = {
+    "carreteis_de_filamento":
+        "Quatro carreteis de filamento para impressao 3D lado a lado sobre uma superficie"
+        " escura e reflexiva, com um fio saindo do ultimo carretel em direcao ao bico"
+        " aquecido de uma impressora.",
+    "impressora_em_acao":
+        "Bico de uma impressora 3D deslizando sobre uma peca parcialmente impressa, com as"
+        " linhas de camada visiveis, dentro de uma oficina com iluminacao quente.",
+    "peca_pronta":
+        "Peca recem-impressa em 3D sobre uma superficie de madeira escura, com as linhas de"
+        " camada visiveis e uma oficina desfocada ao fundo.",
+    "macro_do_bico":
+        "Close extremo do bico de uma impressora 3D extrudando filamento derretido, com a"
+        " camada recem-depositada ainda brilhando.",
+    "flat_lay_de_pecas":
+        "Vista de cima de varios objetos impressos em 3D — engrenagens, uma miniatura, um"
+        " suporte de celular e um vaso — dispostos ao lado de um carretel de filamento.",
+    "mao_segurando_peca":
+        "Mao segurando uma peca recem-impressa em 3D contra a luz, examinando as linhas de"
+        " camada, com uma impressora desfocada ao fundo.",
+    "pecas_na_mesa":
+        "Bancada de madeira com varias pecas impressas em 3D de cores diferentes espalhadas"
+        " ao lado de um carretel de filamento e algumas ferramentas.",
+    "impressora_bambu_a1":
+        "Impressora 3D Bambu Lab A1, de estrutura aberta preta com detalhes laranja,"
+        " imprimindo uma peca sobre a mesa texturizada.",
+    "filamento_entrando_extrusora":
+        "Close extremo do filamento sendo puxado para dentro da extrusora de uma impressora"
+        " 3D, com as engrenagens tracionando o fio.",
+    "camada_inicial":
+        "Vista de cima da primeira camada de uma impressao 3D sendo depositada sobre a mesa"
+        " texturizada, com o bico deixando uma fita fina de plastico.",
+    "suportes_sendo_criados":
+        "Impressao 3D em andamento mostrando a trelica de suportes sendo construida sob uma"
+        " saliencia da peca.",
+    "peca_em_meio_processo":
+        "Peca impressa em 3D pela metade: a parte de baixo pronta com linhas de camada"
+        " nitidas e o topo ainda faltando, com a cabeca de impressao parada ao lado.",
+    "acabamento_manual":
+        "Maos fazendo o acabamento manual de uma peca impressa em 3D numa bancada, usando"
+        " uma lima pequena para alisar uma marca de suporte.",
+    "pintura_da_peca":
+        "Mao pintando uma miniatura impressa em 3D com um pincel fino, com paleta e pinceis"
+        " desfocados em primeiro plano.",
+    "bobina_de_filamento":
+        "Close de um unico carretel de filamento para impressao 3D em pe sobre uma"
+        " superficie escura e reflexiva, com luz de contorno destacando os fios enrolados.",
+}
+
+
+def alt_text_for(scene_name: str) -> str | None:
+    """Texto alternativo da cena, usado como alt_text do post no Instagram."""
+    return ALT_TEXTS.get(scene_name)
+
+
 def pick_random_prompt(exclude: str | None = None) -> tuple[str, str]:
     """Sorteia uma cena (evitando repetir `exclude`, se houver mais de uma opção) e devolve (nome_da_cena, prompt)."""
     choices = [s for s in SCENES if s[0] != exclude] if exclude else SCENES

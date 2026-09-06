@@ -5,10 +5,14 @@ import sys
 import time
 from pathlib import Path
 
+from urllib.parse import urlparse
+
 import requests
 from dotenv import load_dotenv
 
 load_dotenv(Path(__file__).resolve().parent.parent / ".env")
+
+POSTS_DIR = Path(__file__).resolve().parent.parent / "assets" / "posts"
 
 IG_ID = os.getenv("INSTAGRAM_BUSINESS_ID")
 PAGE_TOKEN = os.getenv("INSTAGRAM_ACCESS_TOKEN")
@@ -21,6 +25,10 @@ BASE_URL = f"https://{_HOST}/{os.getenv('META_API_VERSION', 'v19.0')}"
 # Aviso de transparencia: nesta automacao tanto a imagem quanto o texto sao
 # gerados por IA, entao ele entra em toda legenda publicada pelo script.
 AI_DISCLOSURE = "🤖 Gerado por IA: imagem (OpenAI) · texto (Claude Code)"
+
+# Rotulo nativo de conteudo gerado por IA da Meta. Em carrossel ele so vale no
+# container do carrossel; a API recusa o parametro nos itens individuais.
+AI_GENERATED = "true"
 
 
 def with_disclosure(caption: str) -> str:
@@ -58,12 +66,34 @@ def host_image(image_path: str) -> str:
     return url
 
 
-def create_media_container(image: str, caption: str, is_carousel_item: bool, is_url: bool = False) -> str:
+def resolve_alt_text(image: str, explicit: str | None) -> str | None:
+    """Texto alternativo: o informado na linha de comando ou o arquivo `.alt.txt`
+    gravado por generate_image.py ao lado da imagem (achado pelo nome do arquivo,
+    inclusive quando publicamos por URL)."""
+    if explicit:
+        return explicit
+    name = Path(urlparse(image).path if image.startswith("http") else image).name
+    for sidecar in (POSTS_DIR / name, Path(image)):
+        candidate = sidecar.with_suffix(".alt.txt")
+        if candidate.exists():
+            return candidate.read_text(encoding="utf-8").strip()
+    return None
+
+
+def create_media_container(image: str, caption: str, is_carousel_item: bool,
+                           is_url: bool = False, alt_text: str | None = None) -> str:
     data = {"access_token": PAGE_TOKEN, "image_url": image if is_url else host_image(image)}
+    alt = resolve_alt_text(image, alt_text)
+    if alt:
+        data["alt_text"] = alt
+        print(f"  Alt text: {alt[:70]}{'...' if len(alt) > 70 else ''}")
     if is_carousel_item:
+        # O rotulo de IA nao pode vir nos itens do carrossel — a API so o aceita
+        # no container do carrossel (ver create_carousel).
         data["is_carousel_item"] = "true"
     else:
         data["caption"] = caption
+        data["is_ai_generated"] = AI_GENERATED
     resp = requests.post(f"{BASE_URL}/{IG_ID}/media", data=data, timeout=60)
     result = resp.json()
     if "id" not in result:
@@ -78,6 +108,7 @@ def create_carousel(media_ids: list, caption: str) -> str:
         "media_type": "CAROUSEL",
         "children": ",".join(media_ids),
         "caption": caption,
+        "is_ai_generated": AI_GENERATED,
     }, timeout=30)
     result = resp.json()
     if "id" not in result:
@@ -111,7 +142,8 @@ def publish(container_id: str) -> str:
     return result["id"]
 
 
-def run(images: list, caption: str, dry_run: bool = False, is_url: bool = False):
+def run(images: list, caption: str, dry_run: bool = False, is_url: bool = False,
+        alt_text: str | None = None):
     if not IG_ID or not PAGE_TOKEN:
         print("ERRO: credenciais nao encontradas. Preencha o arquivo .env na raiz do projeto"
               " (veja .env.example) antes de publicar.")
@@ -130,13 +162,13 @@ def run(images: list, caption: str, dry_run: bool = False, is_url: bool = False)
 
     if is_carousel:
         print("\nPasso 1/3 - Criando containers do carrossel...")
-        ids = [create_media_container(img, caption, True, is_url) for img in images]
+        ids = [create_media_container(img, caption, True, is_url, alt_text) for img in images]
 
         print("\nPasso 2/3 - Montando carrossel...")
         creation_id = create_carousel(ids, caption)
     else:
         print("\nPasso 1/2 - Criando container do post...")
-        creation_id = create_media_container(images[0], caption, False, is_url)
+        creation_id = create_media_container(images[0], caption, False, is_url, alt_text)
 
     print(f"\nPasso {'3/3' if is_carousel else '2/2'} - Publicando...")
     if not wait_ready(creation_id):
@@ -156,9 +188,12 @@ if __name__ == "__main__":
                      " usadas direto na Graph API — util quando o catbox.moe esta bloqueado.")
     parser.add_argument("--caption", help="Legenda do post, incluindo hashtags.")
     parser.add_argument("--caption-file", help="Arquivo de texto com a legenda (alternativa a --caption).")
+    parser.add_argument("--alt-text", help="Texto alternativo (acessibilidade) da imagem. Se omitido, usa o"
+                        " arquivo .alt.txt gravado por generate_image.py ao lado da imagem.")
     parser.add_argument("--dry-run", action="store_true", help="Valida tudo sem publicar de verdade.")
     args = parser.parse_args()
     if bool(args.caption) == bool(args.caption_file):
         parser.error("informe exatamente um entre --caption e --caption-file")
     caption = args.caption or Path(args.caption_file).read_text(encoding="utf-8").strip()
-    run(args.images or args.image_urls, caption, args.dry_run, is_url=bool(args.image_urls))
+    run(args.images or args.image_urls, caption, args.dry_run,
+        is_url=bool(args.image_urls), alt_text=args.alt_text)
