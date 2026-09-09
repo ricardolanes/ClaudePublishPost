@@ -1,0 +1,18 @@
+Metade peça, metade promessa. 🥇
+
+Esse é o momento mais honesto da impressão 3D: a parte de baixo já existe, sólida, com as linhas de camada bem marcadas — e o topo ainda é só uma borda irregular esperando a próxima passada do bico. A cabeça de impressão parada do lado parece estar avaliando o serviço.
+
+O que dá pra ler nessa foto:
+
+🔸 A base conta a história da aderência. Aquela primeira camada esmagadinha, colada na chapa, é o que segurou tudo o que veio depois. Peça alta que descola no meio do caminho quase sempre já dava sinal lá embaixo.
+🔸 A luz rasante denuncia as camadas. Em filamento silk/dourado o brilho corre pela superfície e transforma cada camada num anel de luz — bonito de olhar e ótimo pra flagrar subextrusão ou uma parede fininha demais.
+🔸 A borda serrilhada no topo é normal. É o perímetro em construção: enquanto a peça não fecha, a camada mais nova sempre parece "quebrada". Só julgue o acabamento com a impressão terminada e fria.
+🔸 Curva grande = teste de cooling. Nas partes que avançam pra fora, a ventoinha é quem congela o filete antes que ele escorra. Pouca refrigeração aqui vira aquele efeito "derretido" na barriga da peça.
+
+E tem o principal: nada substitui a sensação de olhar pra bancada e ver um objeto existindo aos poucos, camada por camada, onde antes tinha só um arquivo. ✨
+
+Qual foi a peça mais demorada que você já deixou na impressora? Conta o tempo aí nos comentários! ⏱️👇
+
+Salva esse post pra lembrar de checar a primeira camada antes de sair pra uma impressão longa. 🔖
+
+#impressao3d #impressora3d #print3d #pla #filamentosilk #maker #makerbrasil #oficina #prototipagem #modelagem3d #fabricacaodigital #diy #impressao3dbrasil #bambulab #3dprinting #3dprintingbrasil #tecnologia #peçasimpressas #hotend #camadaporcamada
