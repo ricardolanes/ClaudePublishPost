@@ -1,0 +1,18 @@
+É aqui que a impressão 3D realmente começa. 🟢
+
+Todo mundo posta a peça pronta, mas o trabalho pesado acontece nesse pedacinho de 2 centímetros: a engrenagem tracionadora mordendo o filamento e empurrando ele pra dentro do hotend, milímetro por milímetro, por horas seguidas.
+
+O que esse close revela:
+
+🔸 A engrenagem tem dentes por um motivo. Ela precisa de mordida suficiente pra empurrar o fio contra a pressão do bico — mas sem esmagar. Tensão apertada demais deforma o filamento e ele trava lá na frente.
+🔸 Aquele pozinho preto na extrusora é normal (até certo ponto). É filamento raspado. Se estiver acumulando muito rápido, o problema quase nunca é a engrenagem: é entupimento no bico ou temperatura baixa demais.
+🔸 A curva do filamento importa. Fio muito tensionado vindo da bobina cria arrasto e vira subextrusão lá em cima da peça. Aquela camada falhada no meio da impressão? Às vezes a culpa está aqui, não no slicer.
+🔸 Filamento úmido escorrega. PLA que ficou meses fora do saco fica quebradiço e frágil justamente nesse ponto de tração. Sílica na caixa, sempre. 💧
+
+Moral da história: quando a impressão falha, olhe o caminho inteiro do filamento — da bobina até o bico. O erro geralmente está antes de onde você está procurando. 🔍
+
+Você já teve problema de extrusão? Conta nos comentários qual foi o vilão: umidade, tensão ou entupimento! 👇
+
+Salva esse post pra lembrar de checar a extrusora antes de culpar o slicer. 🔖
+
+#impressao3d #impressora3d #print3d #extrusora #hotend #pla #petg #filamento #maker #makerbrasil #oficina #prototipagem #modelagem3d #fabricacaodigital #diy #impressao3dbrasil #bambulab #3dprinting #3dprintingbrasil #manutencao
