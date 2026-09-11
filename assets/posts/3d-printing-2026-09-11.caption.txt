@@ -1,0 +1,19 @@
+Ninguém tira foto dos suportes. Mas é por causa deles que a peça existe. 🏗️
+
+Essa treliça fininha embaixo da rampa vai direto pro lixo quando a impressão acabar — e ainda assim ela é a parte mais estratégica do print. Sem esse andaime, o bico estaria extrudando plástico no ar.
+
+O que esse close mostra na prática:
+
+🔸 Suporte é estrutura descartável. Repare que ele toca a peça só na pontinha: contato mínimo pra segurar a camada e sair depois sem arrancar acabamento junto.
+🔸 A regra dos 45°. Acima desse ângulo, cada camada se apoia o suficiente na anterior e o suporte vira desperdício. Abaixo dele, sem apoio, a extrusão cai. Orientar a peça na mesa resolve mais que aumentar suporte.
+🔸 Padrão em X existe por economia. Treliça gasta pouco filamento, imprime rápido e quebra fácil na hora de remover — é resistência suficiente pra segurar, fraca o bastante pra soltar.
+🔸 Aquele fiozinho pendurado no bico? Stringing. Retração mal calibrada ou temperatura alta demais. Não estraga a peça, mas suja a superfície e é sinal de perfil pedindo ajuste. 🌡️
+🔸 Distância Z do suporte é ouro. Perto demais gruda e marca a peça; longe demais deixa a camada cair. 0,1–0,2 mm costuma ser o ponto certo no PLA.
+
+Moral da história: metade do sucesso de uma impressão é decidida antes dela começar — na hora de girar a peça no slicer. ⚙️
+
+E você: prefere brigar com suporte ou gira a peça até não precisar de nenhum? Conta aí nos comentários! 👇
+
+Salva esse post pra consultar antes do próximo fatiamento. 🔖
+
+#impressao3d #impressora3d #print3d #suportes #overhang #slicer #pla #petg #filamento #maker #makerbrasil #oficina #prototipagem #modelagem3d #fabricacaodigital #diy #impressao3dbrasil #bambulab #3dprinting #3dprintingbrasil
