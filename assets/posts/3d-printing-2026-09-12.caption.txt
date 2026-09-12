@@ -1,0 +1,20 @@
+Uma bobina bem enrolada é meio caminho pra uma impressão sem susto. 🔴
+
+Parece só um carretel vermelho bonito na penumbra — mas esse enrolamento certinho, fio ao lado de fio, é exatamente o que separa uma noite de impressão tranquila de um print abortado às 3 da manhã.
+
+O que dá pra ler numa bobina só de olhar:
+
+🔸 Enrolamento paralelo é sinal de qualidade. Fios cruzados e sobrepostos são o começo de um nó: o filamento passa por cima de si mesmo, prende no meio da impressão e o extrusor começa a patinar. 😖
+🔸 Nunca solte a ponta. Aquele segundo de desatenção com a ponta escapando pro lado da bobina é o clássico "enrosco" — prenda sempre no furinho da lateral ou com um clipe.
+🔸 Umidade é o inimigo silencioso. PLA sofre, PETG sofre mais e nylon é dramático. Filamento úmido dá estalos no bico, bolhas na superfície e camadas fracas. Saco selado + sílica ou secadora resolvem.
+🔸 Anote o peso vazio do carretel. Sabendo a tara (geralmente 180–250 g), a balança de cozinha vira medidor de quanto filamento ainda te resta — muito mais confiável que o chute no olho. ⚖️
+🔸 Tolerância de diâmetro importa. Um filamento 1,75 mm ±0,02 mm extruda constante; ±0,05 mm já aparece como variação de brilho e parede irregular na peça.
+🔸 Bobina pesada precisa girar leve. Se o suporte trava, o extrusor puxa demais, subextruda e marca a peça. Rolamento bom vale mais que muita gente imagina. ⚙️
+
+No fim, filamento é insumo e também é armazenamento: como você guarda hoje define como imprime daqui a três meses. 📦
+
+E aí, qual cor não pode faltar na sua prateleira? Conta nos comentários! 👇
+
+Salva esse post pra lembrar na hora de guardar a próxima bobina. 🔖
+
+#impressao3d #impressora3d #print3d #filamento #pla #petg #bobina #carretel #maker #makerbrasil #oficina #prototipagem #modelagem3d #fabricacaodigital #diy #impressao3dbrasil #bambulab #3dprinting #3dprintingbrasil #filamento3d
