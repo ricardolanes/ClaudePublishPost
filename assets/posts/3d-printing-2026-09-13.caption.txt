@@ -1,0 +1,20 @@
+Aquele momento de levantar a peça contra a luz e conferir camada por camada. 💜
+
+Suporte recém-saído da mesa, ainda morno, e a primeira coisa que a gente faz é girar na mão procurando defeito. É quase um ritual — e é também o controle de qualidade mais barato que existe na oficina.
+
+O que dá pra descobrir só olhando a peça contra a luz:
+
+🔸 Linhas de camada uniformes = extrusão constante. Se aparecer faixa mais clara ou mais grossa em alguma altura, desconfie de filamento úmido, tensão de bobina ou temperatura oscilando. 🌡️
+🔸 Furos são o teste de fogo. Furo na horizontal quase sempre sai menor e meio oval por causa do elephant foot e do encolhimento — projete com folga ou já deixe pra passar o alargador/broca depois.
+🔸 Olhe a luz atravessando as paredes. Se passa luz onde deveria ser sólido, faltou perímetro ou o infill não colou nas paredes. Mais perímetros resolvem mais que aumentar o preenchimento. 💡
+🔸 Passe o dedo nos cantos. Rebarba embaixo é elephant foot (baixe um pouco o bico ou ative a compensação); canto levantado é warping pedindo mais aderência e menos corrente de ar.
+🔸 Peça funcional pede orientação certa. A camada é o ponto fraco: monte a peça de forma que o esforço não tente separar as camadas, e sim atravessá-las. ⚙️
+🔸 Ainda quente, ainda ajustável. Empenou de leve? Um pouco de calor e uma superfície plana resolvem muito antes de você reimprimir tudo do zero. 🔥
+
+Inspecionar leva trinta segundos e salva horas de reimpressão. Vale o hábito. ✅
+
+Me conta: qual foi a última peça funcional que você imprimiu pra resolver um problema em casa ou na oficina? 👇
+
+Salva esse post pra usar como checklist na próxima peça que sair da mesa. 🔖
+
+#impressao3d #impressora3d #print3d #pecaimpressa #filamento #pla #petg #maker #makerbrasil #oficina #prototipagem #modelagem3d #fabricacaodigital #diy #impressao3dbrasil #bambulab #3dprinting #3dprintingbrasil #pecafuncional #engenharia
