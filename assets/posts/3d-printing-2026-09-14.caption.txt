@@ -1,0 +1,20 @@
+PLA, PETG ou TPU? A peça decide por você. 🎯
+
+Três carretéis lado a lado e um único bico quente esperando: a escolha do filamento é a primeira decisão do projeto — e é a que mais explica por que a peça deu certo ou quebrou na primeira semana de uso.
+
+Um resumo honesto de cada um:
+
+🔸 PLA é o mais fácil e o mais bonito. Imprime frio (190–210 °C), quase não empena, pega detalhe fino e aceita tinta bem. O problema é calor: deixou no carro no sol, deformou. Perfeito pra protótipo, decoração, miniatura e peça de bancada. 🌡️
+🔸 PETG é o meio-termo dos funcionais. Mais resistente ao impacto e à temperatura, não trinca fácil e aguenta ambiente externo. Em troca pede 230–250 °C, mesa em 70–80 °C e cobra caro por umidade — filamento úmido dá estalo no bico e fio de teia por toda a peça. Seque antes. 💧
+🔸 TPU é flexível e teimoso. Faz capa, pé de apoio, vedação, amortecedor — coisa que precisa entortar e voltar. Mas exige velocidade baixa (20–30 mm/s), retração quase zero e, de preferência, extrusor direct drive: em bowden ele dobra dentro do tubo como espaguete. 🐍
+🔸 Dureza tem número. TPU vem em shore A: 95A é mais durinho e fácil de imprimir, 85A é bem mole e bem mais chato de acertar. Olhe esse dado antes de comprar.
+🔸 Camada é o ponto fraco de todos. Nenhum filamento salva orientação errada: monte a peça pra que o esforço atravesse as camadas, nunca tente separá-las. ⚙️
+🔸 Trocou de material, recalibre. Temperatura, fluxo e retração mudam de um pro outro — e o primeiro print depois da troca é sempre o teste, não a peça final. ✅
+
+Resumindo: PLA pra ver bonito, PETG pra usar de verdade, TPU pra entortar e voltar. 🔧
+
+E aí, qual desses três vive na sua impressora? Conta nos comentários qual você usa mais! 👇
+
+Salva esse post pra consultar na hora de escolher o filamento do próximo projeto. 🔖
+
+#impressao3d #impressora3d #print3d #filamento #pla #petg #tpu #filamentoflexivel #maker #makerbrasil #oficina #prototipagem #modelagem3d #fabricacaodigital #diy #impressao3dbrasil #bambulab #3dprinting #3dprintingbrasil #pecafuncional
