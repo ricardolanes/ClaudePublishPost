@@ -1,0 +1,20 @@
+O parafuso não entrou? A culpa quase nunca é da peça. 🔧
+
+Peça funcional impressa raramente sai da mesa pronta pra montar: sobra uma rebarba na saída do suporte, o furo fecha uns décimos, o encaixe raspa. Dois minutos de lima resolvem o que meia hora de reimpressão não resolve — e essa foto é exatamente esse momento, com a peça na mão e a poeirinha de plástico voando na luz da bancada.
+
+O que olhar antes de sair limando:
+
+🔩 Furo impresso sempre sai menor. O plástico encolhe ao esfriar e a parede interna "invade" o furo — um furo de 5 mm costuma chegar em 4,7/4,8. Passe uma broca ou uma lima redonda até o parafuso entrar com folga, ou já modele o furo 0,2–0,3 mm maior.
+🔩 Rebarba mora onde o suporte encostou. Passe o dedo na superfície de baixo: o que engancha na pele vai engatar na montagem. Lima chata, movimento único, sem vai-e-vem.
+🔩 Chanfro de 0,5 mm na boca do furo vale ouro. É o que faz o parafuso e o pino se guiarem sozinhos em vez de morderem a borda.
+🔩 Teste a seco, sempre. Monte tudo sem cola e sem apertar de verdade antes de dar o aperto final — peça funcional quebra muito mais na montagem forçada do que em uso.
+🔩 Lima corta na ida. Levantar na volta mantém o dente limpo e evita arrastar plástico derretido pela superfície. 🌡️
+🔩 Marcou demais? Lixa 400 rapidinho e segue. Em peça de uso, função vence estética — ninguém vai olhar a peça, vão usar ela. ⚙️
+
+Acabamento em peça decorativa é capricho. Em peça funcional é o que faz ela montar. ✅
+
+E você, mede o furo antes ou vai direto na lima? Conta nos comentários! 👇
+
+Salva esse post pra consultar na próxima peça que não encaixou de primeira. 🔖
+
+#impressao3d #impressora3d #print3d #pla #petg #acabamento #posprocessamento #pecafuncional #maker #makerbrasil #oficina #prototipagem #modelagem3d #fabricacaodigital #diy #tolerancia #impressao3dbrasil #bambulab #3dprinting #3dprintingbrasil
