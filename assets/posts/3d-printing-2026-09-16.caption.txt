@@ -1,0 +1,20 @@
+Metade pronta, metade ainda no forno. 🏛️
+
+Essa é a hora mais bonita de uma impressão 3D — e a mais perigosa pra sua ansiedade. A maquete já mostra o embasamento, as colunas e a cúpula saindo camada por camada, mas o telhado ainda é uma laje flutuando no ar com o bico parado logo acima. É nesse ponto que a gente descobre se o preparo foi bom ou se a peça vai virar espaguete nas próximas duas horas.
+
+O que olhar quando a peça está pela metade:
+
+🏗️ Camada aderindo na anterior, não empilhando. Se você vê linha separando ou brilho irregular no meio da parede, a temperatura caiu ou o ventilador está forte demais pra esse filamento.
+🏗️ Detalhe fino é o primeiro a sofrer. Coluna, moldura e janela nessa escala vivem de fluxo estável — filamento úmido estoura justamente aqui e deixa a superfície peluda.
+🏗️ Saliência acima de 45° pede suporte ou ponte bem calibrada. Aquele telhado avançando no vazio só fica reto se a ponte estiver ajustada; sem isso ele desaba e leva a peça junto.
+🏗️ Escute a impressora. Clique seco no extrusor = entupimento nascendo. Melhor parar agora do que descobrir com 80% de material gasto.
+🏗️ Peça alta balança. Maquete com cúpula tem centro de massa subindo o tempo todo — reduza a aceleração no topo se a mesa for de eixo móvel. 🌡️
+🏗️ Não abra a tampa pra "ver melhor". Corrente de ar fria no meio da impressão é a origem de metade dos descolamentos que a gente jura que foi culpa da mesa. ❄️
+
+Impressão 3D não é botar pra rodar e sair. É saber a hora de deixar quieto. ⚙️
+
+E você, fica olhando a impressão até o fim ou sai de perto pra não surtar? Conta aí nos comentários! 👇
+
+Salva esse post pra revisar na próxima peça longa que você colocar pra rodar. 🔖
+
+#impressao3d #impressora3d #print3d #pla #petg #maquete #maquete3d #arquitetura #modelagem3d #prototipagem #maker #makerbrasil #oficina #fabricacaodigital #diy #impressao3dbrasil #bambulab #3dprinting #3dprintingbrasil #arquitetura3d
