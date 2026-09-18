@@ -1,0 +1,20 @@
+O ponto mais ignorado da impressora 3D é esse aqui. 🔴
+
+Zoom na engrenagem tracionadora mordendo o filamento vermelho na entrada da extrusora. Todo mundo olha pro bico, pra mesa, pro slicer — mas é aqui, nesses dentinhos, que a impressão nasce ou morre. Se a engrenagem não puxa direito, não existe temperatura ou perfil que salve. ⚙️
+
+O que acontece nesse milímetro:
+
+⚙️ Tensão da mola é tudo. Frouxa demais, o fio patina e você toma subextrusão no meio da peça. Apertada demais, a engrenagem esmaga o filamento, deforma o fio e entope o caminho. O ponto certo é aquele em que você consegue segurar o filamento com a mão e sentir a engrenagem raspando, sem travar.
+⚙️ Pó branco na engrenagem = alerta vermelho. Aquele farelinho preso entre os dentes é filamento moído. Escova de dente velha, ar comprimido e pronto — dente sujo escorrega e a peça sai com falha de camada.
+⚙️ Filamento moído nunca é o problema, é o sintoma. Se está moendo, tem algo travando lá na frente: bico entupido, carretel enroscado, temperatura baixa demais pra velocidade. Limpar a engrenagem sem achar a causa é enxugar gelo.
+⚙️ Calibra o E-step / flow. Manda extrudar 100 mm e mede com o paquímetro. Saiu 93? Sua peça inteira está 7% mais magra do que você projetou.
+⚙️ Corta o filamento em ponta antes de inserir. Ponta chanfrada entra lisa no tubo; ponta amassada engancha e vira entupimento na hora do troca-cor.
+⚙️ Direct drive x bowden muda a regra. No direct o caminho é curto e perdoa TPU; no bowden você precisa de retração maior e filamento bem seco pra compensar o tubo.
+
+Uma engrenagem limpa e bem ajustada resolve mais problema de qualidade do que meia dúzia de perfis novos no slicer. 🧰
+
+Me conta: você já abriu a extrusora da sua impressora pra limpar, ou ela nunca viu uma escova na vida? 👇
+
+Salva esse post pra checar a tração antes da próxima impressão longa. 🔖
+
+#impressao3d #impressora3d #print3d #extrusora #filamento #pla #petg #abs #tpu #maker #makerbrasil #oficina #manutencao #prototipagem #modelagem3d #fabricacaodigital #diy #impressao3dbrasil #bambulab #3dprinting
