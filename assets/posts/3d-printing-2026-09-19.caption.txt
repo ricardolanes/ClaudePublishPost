@@ -1,0 +1,21 @@
+PLA, ABS ou PETG? A resposta certa depende da peça — não do preço. 🧵
+
+Três carretéis alinhados na bancada e um único fio seguindo pro bico aquecido. Essa é a decisão que você toma antes de qualquer configuração de slicer, e é a que mais derruba impressão por aqui. Material errado não se conserta com perfil bom. 🔥
+
+Como eu escolho na prática:
+
+🔴 PLA — o padrão pra 90% das peças. Imprime fácil a 200-210 °C, quase não empena, aceita mesa fria ou 60 °C e sai com acabamento lindo. Ponto fraco: calor. Deixou dentro do carro num dia de sol? A peça entorta. Ótimo pra protótipo, decoração, suporte de bancada, miniatura.
+
+🟢 ABS — resistente ao calor e ao impacto, aguanta parafuso e porrada. Em troca, exige mesa a 100 °C, câmara fechada e paciência: sem isso, delamina e descola nos cantos. Só encara se a peça vai sofrer de verdade — engrenagem, carcaça de motor, coisa que fica perto de fonte de calor.
+
+🟣 PETG — o meio-termo que virou meu favorito pra peça funcional. Tem quase a facilidade do PLA e quase a resistência do ABS, não empena e ainda é resistente à umidade e a produtos químicos. O preço é a tendência a formar teia: retração menor, velocidade menor e Z-hop ligado resolvem. Perfeito pra suporte, clipe, vaso, peça de uso externo.
+
+⚙️ Dica que vale por todas: a peça certa é a que você não precisa reimprimir. Antes de mandar imprimir, pergunta onde ela vai viver — pega sol? leva peso? encosta em motor? A resposta escolhe o filamento sozinha.
+
+💧 E lembra: qualquer um dos três estraga se o carretel ficar largado tomando umidade. Caixa hermética e sílica valem mais que trocar de marca.
+
+Me conta aqui embaixo: qual desses três vive na sua impressora no dia a dia? E qual você ainda tem medo de encarar? 👇
+
+Salva esse post pra consultar na hora de comprar o próximo rolo. 🔖
+
+#impressao3d #impressora3d #print3d #filamento #pla #petg #abs #tpu #filamento3d #maker #makerbrasil #oficina #prototipagem #modelagem3d #fabricacaodigital #diy #impressao3dbrasil #bambulab #3dprinting #3dprintingbrasil
