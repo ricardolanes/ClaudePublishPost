@@ -1,0 +1,20 @@
+A peça pela metade conta mais verdade que a peça pronta. 🏛️
+
+Essa maquete parou no meio do caminho: a fachada com as colunas já saiu inteira, o bloco de trás ainda está pela metade e a cabeça de impressão está logo ali, parada ao lado da última camada. É nesse momento que dá pra ver se a impressão vai prestar — depois de pronta, a peça esconde tudo. 🔍
+
+O que eu olho com a impressão no meio:
+
+🏗️ Topo da camada atual. Tem que estar liso e uniforme, sem fiapo nem bolha. Topo áspero é subextrusão ou temperatura baixa demais pra velocidade escolhida.
+🏗️ Paredes contra a luz. Gire a luminária de lado: camada irregular denuncia Z-wobble ou correia frouxa. Em maquete isso salta aos olhos, porque tudo é reto.
+🏗️ Cantos levantando da mesa. Se levantou, a peça já está torta — não espera o fim. Para, limpa a mesa com álcool, sobe 5 °C na primeira camada e recomeça. Perder 40 minutos é melhor que jogar 8 horas fora.
+🏗️ Detalhe fino. Coluna, frontão, moldura: com bico 0,4 mm você perde tudo isso. Pra maquete eu vou de 0,2 mm e camada de 0,12 mm, e aceito o tempo maior. Detalhe não se conserta na lixa.
+🏗️ Arrefecimento. Coluna estreita é camada minúscula: sem ventoinha a 100% ela derrete antes de endurecer e vira borrão. PLA aqui ganha fácil do PETG.
+🏗️ E a melhor parte do meio da impressão: é aqui que você pausa de propósito. Quer esconder um ímã, uma porca ou um LED dentro da peça? Programa a pausa na camada certa no slicer, encaixa e deixa a impressão fechar por cima. Fica invisível. ✨
+
+Acompanhar a peça nascendo não é ansiedade — é controle de qualidade. 🧰
+
+Me conta aqui embaixo: você fica olhando a impressão ou manda imprimir e some até o fim? 👇
+
+Salva esse post pra usar de checklist na próxima impressão longa. 🔖
+
+#impressao3d #impressora3d #print3d #maquete #arquitetura #maquetearquitetonica #filamento #pla #petg #maker #makerbrasil #oficina #prototipagem #modelagem3d #fabricacaodigital #diy #impressao3dbrasil #bambulab #3dprinting #3dprintingbrasil
