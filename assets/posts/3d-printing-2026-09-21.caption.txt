@@ -1,0 +1,19 @@
+Um carretel. Uma tarde. Tudo isso aqui saiu dele. ⚙️
+
+Engrenagem, miniatura, suporte de celular, vaso geométrico e o estilete de sempre ali do lado. Parece pouco, mas cada peça dessa mesa pede um ajuste diferente no slicer — e é por isso que muita gente acha que "a impressora não presta" quando o problema é só o perfil errado pra peça errada. 🧠
+
+O que eu mudo pra cada tipo de peça:
+
+⚙️ Engrenagem: dente é encaixe, então tolerância manda. Camada de 0,16 mm, 4 paredes e 40% de preenchimento. Folga de 0,2 mm no furo central — ou você vai passar a tarde lixando eixo.
+🛡️ Miniatura: aqui é bico de 0,2 mm e camada de 0,08 mm, sem pressa. Velocidade baixa nas paredes e ventoinha no talo, senão rosto e mão viram borrão. Suporte só onde precisa, nunca automático em tudo.
+📱 Suporte de celular: peça funcional aguenta peso, então preenchimento 25% em giroide e 5 paredes. Deitado na mesa, com a força atravessando as camadas — em pé ele racha na primeira queda.
+🏺 Vaso geométrico: modo vaso, parede única, 0% de preenchimento. Bico maior (0,6 mm) dá parede mais grossa e imprime em metade do tempo. Facetado esconde imperfeição melhor que curva lisa.
+🔪 Estilete: não é enfeite na foto. É a primeira ferramenta que você pega — pra tirar a saia, raspar a bolinha da primeira camada e limpar a borda antes de mostrar pra alguém. Acabamento é 10% do trabalho e 90% da impressão.
+
+Mesmo filamento, mesma impressora, cinco perfis diferentes. Máquina boa não salva perfil ruim. 🎯
+
+Qual dessas cinco você imprimiria primeiro? Me conta aqui embaixo. 👇
+
+Salva pra consultar na hora de configurar a próxima. 🔖
+
+#impressao3d #impressora3d #print3d #filamento #pla #maker #makerbrasil #oficina #prototipagem #modelagem3d #fabricacaodigital #diy #impressao3dbrasil #bambulab #slicer #engrenagem #miniatura #3dprinting #3dprintingbrasil #facavocemesmo
