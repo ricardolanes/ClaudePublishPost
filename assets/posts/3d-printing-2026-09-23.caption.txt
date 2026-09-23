@@ -1,0 +1,20 @@
+Toda bancada de maker tem essa mesa. 🧰
+
+Engrenagem, cantoneira, suporte de celular, um robozinho laranja, peças soltas, o carretel ali do lado e a espátula que já viu de tudo. Parece bagunça, mas cada peça dessa foi impressa pra resolver um problema diferente — e o erro mais comum de quem começa é imprimir tudo com o mesmo filamento. 🎯
+
+O material certo pra cada peça:
+
+⚙️ Engrenagem que gira de verdade: PETG. Desliza melhor, aguenta atrito e não vira pó no primeiro esforço. PLA até funciona, mas dente de PLA desgasta rápido em uso contínuo.
+🔩 Cantoneira e suporte de parede: PLA resolve e é barato — desde que fique dentro de casa. Se vai na janela, na varanda ou no carro, vai de PETG ou ASA. PLA começa a amolecer perto dos 60 °C, e um dia de sol no painel entorta a peça.
+📱 Suporte de celular: PLA com 4 paredes dá conta. É peça de mesa, não sofre calor nem carga pesada. Aqui não precisa gastar filamento caro.
+🤖 Miniatura e boneco: PLA sempre. Imprime mais fácil, capta detalhe fino melhor e aceita lixa e tinta sem drama. PETG em miniatura é sofrimento — fia e borra justo onde o detalhe importa.
+🔧 Peça que precisa dobrar ou apertar: TPU. É o único que flexiona sem quebrar: capa, pé antiderrapante, vedação. Imprime devagar (20–30 mm/s) e de preferência em extrusora direta.
+🩹 E a fita azul da foto não é enfeite. Mesa suja é o motivo nº 1 de peça descolando no meio da impressão. Uma passada de álcool isopropílico antes de imprimir vale mais que meia hora mexendo no slicer.
+
+Filamento errado não aparece na hora da impressão. Aparece três semanas depois, quando a peça falha justo no dia em que você precisava dela. ⏳
+
+Qual dessas peças você já imprimiu? Me conta aqui embaixo 👇
+
+Salva esse post pra consultar na hora de escolher o filamento da próxima. 🔖
+
+#impressao3d #impressora3d #print3d #filamento #pla #petg #tpu #asa #maker #makerbrasil #oficina #prototipagem #modelagem3d #fabricacaodigital #diy #impressao3dbrasil #bambulab #pecasimpressas #3dprinting #3dprintingbrasil #facavocemesmo
