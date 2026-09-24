@@ -1,0 +1,25 @@
+Se a sua peça sai com a superfície peluda, o problema começou aqui. 🎯
+
+Esse é o instante em que o filamento é mordido pela engrenagem e puxado pra dentro da extrusora. Parece só um fio entrando num buraco — mas é nesse milímetro que a impressora descobre se o seu filamento passou os últimos meses bem guardado ou tomando umidade na bancada. 💧
+
+Filamento úmido é o problema mais comum da impressão 3D e o menos diagnosticado. O plástico absorve água do ar; quando chega nos 200 °C no bico, essa água vira vapor e explode. O resultado você já viu:
+
+🔊 Estalinho durante a impressão. Não é a impressora "trabalhando" — é bolha de vapor estourando no bico. Filamento seco imprime em silêncio.
+🕸️ Fiapo e teia entre as peças. Antes de mexer na retração do slicer, seca o filamento. Metade dos ajustes de retração do mundo é tentativa de consertar filamento molhado.
+🫧 Superfície fosca e áspera onde devia ser lisa.
+💥 Fio que quebra sozinho no carretel — PLA muito úmido fica quebradiço.
+
+Como resolver:
+
+🌡️ Secar é barato e funciona. PLA: 45–55 °C por 4 a 6 horas. PETG: 60–65 °C. TPU e Nylon: 70 °C e mais tempo — esses dois bebem água que é uma beleza.
+📦 Guardar é mais importante que secar. Caixa hermética com sílica gel resolve 90% dos casos. Sílica saturada não seca nada: se mudou de cor, troca ou regenera.
+🧪 Teste rápido: extruda 10 cm com a impressora parada. Saiu liso e brilhante, tá seco. Saiu com bolha, estalo ou ondulando, tá molhado.
+⏳ Nylon e TPU absorvem em horas, não em meses. Tira da caixa na hora de imprimir — não na véspera.
+
+O filamento é a única parte da impressora que piora sozinha, parada, sem ninguém usar. ⚠️
+
+Me conta aqui embaixo: seu filamento vive em caixa fechada ou pendurado na bancada? 👇
+
+Salva esse post pra consultar quando a próxima peça sair peluda. 🔖
+
+#impressao3d #impressora3d #print3d #filamento #extrusora #pla #petg #tpu #filamentoumido #maker #makerbrasil #oficina #manutencao #prototipagem #modelagem3d #fabricacaodigital #diy #impressao3dbrasil #bambulab #3dprinting #3dprintingbrasil #facavocemesmo
