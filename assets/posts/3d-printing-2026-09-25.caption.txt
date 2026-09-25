@@ -1,0 +1,27 @@
+Esse vaso tem uma parede só. E é exatamente por isso que ele fica bonito. 🏺
+
+A foto é o meio do processo: o bico acabou de fechar a boca da peça, a luz bate de lado e cada volta do espiral aparece. Isso aqui é vase mode (ou spiralize outer contour) — o modo em que a impressora esquece o zigue-zague e sobe girando, num traço contínuo do começo ao fim. 🌀
+
+Por que vale a pena conhecer:
+
+🚫 Sem costura. Não existe ponto onde o bico para e recomeça, então some aquela cicatriz vertical que denuncia peça impressa.
+⚡ É rápido. Uma parede, zero preenchimento, zero topo. Um vaso que levaria 6 horas sai em 1h30.
+💜 As camadas viram textura. Em vez de defeito, a linha de camada vira acabamento — principalmente em cor clara com luz rasante, como nessa.
+🪶 Gasta pouco filamento. Dá pra fazer peça grande sem torrar meio carretel.
+
+Os segredos pra acertar de primeira:
+
+📏 Aumenta a largura de extrusão. Bico de 0,4 mm configurado pra 0,6–0,8 mm de parede: a peça deixa de ser frágil e ganha corpo.
+🐌 Devagar ganha. 30–40 mm/s. Em vase mode a peça inteira é a parede externa — pressa aqui aparece em todas as voltas.
+❄️ Ventoinha no máximo (em PLA). Cada camada precisa estar firme antes da próxima chegar.
+🧊 Camada mais alta ajuda. 0,25–0,3 mm dá textura marcada de propósito e ainda corta o tempo.
+💧 Vaso de verdade? Vase mode não é estanque. Põe um copo de vidro dentro, ou passa resina epóxi por dentro.
+🎨 Filamento silk brilha nesse modo: a espiral espalha o brilho sem interrupção.
+
+Detalhe que quase ninguém conta: modelo com furo, alça ou detalhe fechado não funciona em vase mode. Tem que ser um contorno único, do primeiro ao último milímetro. Se a peça falhar logo na subida, é quase sempre isso. ⚠️
+
+Me conta: você já imprimiu em vase mode ou ainda tá com medo de parede única? 👇
+
+Salva aí pra configurar na próxima peça decorativa. 🔖
+
+#impressao3d #impressora3d #print3d #vasemode #vaso #filamento #pla #silkpla #maker #makerbrasil #oficina #decoracao #prototipagem #modelagem3d #fabricacaodigital #diy #impressao3dbrasil #bambulab #3dprinting #3dprintingbrasil #facavocemesmo #designdeproduto
