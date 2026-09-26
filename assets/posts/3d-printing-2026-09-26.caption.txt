@@ -1,0 +1,25 @@
+Toda peça que você já imprimiu passou por um furo de 0,4 mm. 🔍
+
+Esse é o bico no instante da extrusão: o filamento roxo saindo derretido e se deitando sobre a camada anterior, ainda com brilho de plástico quente. A impressora é grande e cheia de motor — mas o trabalho de verdade acontece num furo menor que a ponta de um alfinete. 🔥
+
+O que está acontecendo aí:
+
+🌡️ O plástico não derrete no bico — amolece no caminho. A zona de fusão começa centímetros acima; na ponta já está pastoso. Por isso extrudar rápido demais entope: falta tempo de calor.
+🔗 A camada não é colada, é soldada. O filamento sai a ~200 °C e reaquece o topo da camada de baixo, fundindo as duas. Temperatura baixa = peça que descama na mão.
+📏 A linha sai mais larga que o furo. Bico de 0,4 mm deposita traço de ~0,45 mm, porque o plástico é esmagado contra a camada anterior. Esse esmagamento é o que dá resistência.
+
+Cuidados que quase ninguém tem:
+
+🧽 Limpa a quente, nunca a frio. Aquece a 200 °C e passa escova de latão. Raspar bico frio arranca o revestimento.
+🔧 Aperta com o bico quente. Latão dilata; apertado frio, afrouxa quente e vaza plástico por cima do bloco — é daí que vem aquela bola preta queimada que goteja na peça.
+⏳ Latão é peça de consumo. 300 a 500 horas de PLA e o furo vira oval: a peça perde precisão sem motivo aparente.
+💎 Filamento abrasivo pede bico de aço endurecido. Fibra de carbono, glow in the dark, madeira e brilho metálico comem latão em poucas horas.
+🧊 Cold pull resolve entupimento parcial. Aquece, empurra filamento na mão, esfria até 90 °C e puxa firme: sai um molde do canal com a sujeira presa.
+
+O bico custa alguns reais e é a peça que mais influencia o resultado final. Trocar bico gasto é o upgrade mais barato que existe. 🛠️
+
+Me conta aqui embaixo: há quantas horas você não troca o seu bico? 👇
+
+Salva esse post pra fazer a próxima manutenção direito. 🔖
+
+#impressao3d #impressora3d #print3d #bico #nozzle #extrusora #filamento #pla #petg #manutencao #maker #makerbrasil #oficina #prototipagem #modelagem3d #fabricacaodigital #diy #impressao3dbrasil #bambulab #3dprinting #3dprintingbrasil #facavocemesmo
