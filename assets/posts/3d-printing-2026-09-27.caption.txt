@@ -1,0 +1,24 @@
+Uma bancada assim conta a história inteira de quem imprime. 🧰
+
+Engrenagens, cantoneiras, um suporte de celular, peças de fixação e um bonequinho verde perdido no meio. Tudo saiu da mesma impressora, em dias diferentes, por motivos diferentes — e cada uma dessas peças ensinou alguma coisa. 🔩
+
+O que cada peça da mesa te ensina:
+
+⚙️ Engrenagem é aula de tolerância. Furo desenhado com 5 mm sai com 4,7 mm: o plástico é esmagado contra a camada anterior e o furo fecha. Deixa 0,2–0,4 mm de folga no modelo ou vai passar a vida alargando furo com broca.
+🔩 Cantoneira e suporte dependem da orientação. Peça impressa é forte no plano da camada e fraca entre camadas. Se a força vem de cima, deita a peça. Suporte que quebrou "do nada" quase sempre foi impresso na direção errada.
+📱 Suporte de celular vive de primeira camada. Peça baixa e larga é onde o warping aparece primeiro — base grudada é metade do trabalho.
+🧍 O bonequinho é o coringa. Peça pequena pra testar cor, temperatura e filamento novo antes de queimar 6 horas numa peça grande.
+
+E as ferramentas do canto valem tanto quanto:
+
+🔪 Espátula afiada tira a peça sem arrancar pedaço da mesa. Espera a chapa esfriar: o plástico contrai e a peça solta quase sozinha.
+🔵 Fita azul ainda salva. Em mesa lisa ou filamento difícil, é o truque mais barato de aderência.
+🎞️ Carretel aberto é carretel envelhecendo. O que está fora da caixa hoje é a peça frágil de amanhã.
+
+O detalhe que quase ninguém faz: anota no fundo da peça a cor, a temperatura e a velocidade que usou. Daqui a três meses, quando precisar imprimir outra igual, você vai agradecer. ✍️
+
+Me conta aqui embaixo: qual é a peça da sua bancada que você mais reimprimiu? 👇
+
+Salva esse post pra consultar antes da próxima leva. 🔖
+
+#impressao3d #impressora3d #print3d #filamento #pla #petg #engrenagem #pecas3d #maker #makerbrasil #oficina #bancada #prototipagem #modelagem3d #fabricacaodigital #diy #impressao3dbrasil #bambulab #3dprinting #3dprintingbrasil #facavocemesmo #designdeproduto
