@@ -1,0 +1,23 @@
+Repara na cintura desse vaso: ali é onde a impressora mostra se sabe imprimir. 🏺
+
+A peça está em pé, roxa, ainda quente, e o bico acabou de fechar mais uma volta. A parte fácil é a subida reta. O problema começa quando a parede se abre pra fora e cada camada nova precisa se apoiar num plástico que ainda não esfriou direito. 🔥
+
+Por que curva pra fora é a parte difícil:
+
+📐 A regra dos 45°. Até 45° de inclinação, cada camada ainda apoia metade da largura na camada de baixo e se sustenta sozinha. Passou disso, a linha começa a nascer no ar — e aparece aquela borda caída e áspera.
+🌬️ Ventoinha é estrutura, não conforto. Naquela ventoinha preta do lado do bico mora metade do resultado. Em PLA, 100% de ventilação nessa região. Em PETG, 40–60%: vento demais descola a peça.
+🐢 Velocidade é o outro ajuste. 20–30 mm/s nas paredes externas dá tempo ao plástico de firmar. Muita gente aumenta a ventilação, esquece a velocidade e continua com o mesmo defeito.
+🔄 A curva perdoa, o degrau não. Parede curva muda de ângulo aos poucos, por isso sai limpa sem suporte. Se o modelo tem uma aba que sai de repente em 90°, nenhuma ventoinha resolve: ali é chanfro no desenho ou suporte mesmo.
+
+Duas coisas que melhoram qualquer peça curva:
+
+🎯 Gira a peça antes de fatiar. Deitar ou virar o modelo de cabeça pra baixo às vezes transforma um balanço de 70° num de 30°. Orientação é o ajuste mais barato — e o mais ignorado.
+🧊 Peça sozinha na mesa esquenta demais. Camada pequena volta rápido ao mesmo ponto e não dá tempo de esfriar. Imprime duas de uma vez: o bico dá a volta maior e a camada chega firme.
+
+Peça bonita quase nunca é filamento caro. É camada que esfriou na hora certa. ❄️
+
+Me conta aqui embaixo: qual foi o balanço mais fechado que a sua impressora deu conta sem suporte? 👇
+
+Salva esse post pra ajustar a ventilação antes da próxima peça curva. 🔖
+
+#impressao3d #impressora3d #print3d #filamento #pla #petg #vaso #overhang #ventilacao #resfriamento #camadas #maker #makerbrasil #oficina #prototipagem #modelagem3d #fabricacaodigital #diy #impressao3dbrasil #bambulab #3dprinting #3dprintingbrasil #facavocemesmo
