@@ -1,0 +1,29 @@
+Esse brilho na linha recém-saída dura menos de um segundo. 🔥
+
+Bico de latão, filamento coral saindo pastoso e se deitando ao lado da volta anterior. A peça inteira é decidida aqui — não no modelo, não no slicer: nesse cordãozinho que precisa ter a largura certa e soldar na linha vizinha antes de esfriar. 🧵
+
+Como ler uma linha de extrusão:
+
+🫧 Linha redonda e separada da vizinha = pouco fluxo. Sobra vão entre as linhas e a peça fica porosa, translúcida e quebra na mão.
+🧱 Linha achatada encostando na de cima e na do lado = fluxo certo. Repara na foto: o cordão é esmagado contra a camada de baixo. Esse esmagamento é o que solda tudo num bloco só.
+🍚 Sobra nas quinas e topo rugoso = fluxo demais. Aparece aquela "casquinha" nas bordas e o bico junta sujeira que depois cai queimada na peça.
+
+A calibração que resolve (20 minutos):
+
+📦 Imprime um cubo oco de parede única: 1 perímetro, 0 de preenchimento, 0 de topo.
+📏 Mede a parede com paquímetro em quatro alturas e compara com a largura de extrusão configurada — normalmente 0,42 mm pra bico de 0,4.
+🧮 Mediu 0,38? Fluxo baixo. Mediu 0,46? Fluxo alto. Corrige a porcentagem na mesma proporção e reimprime pra conferir.
+🌡️ Só depois mexe na temperatura: mesmo fluxo com 10 °C a mais se espalha diferente.
+
+E por que a curva da foto é traiçoeira:
+
+↩️ Em curva e quina o bico desacelera, mas a pressão dentro dele não cai junto. Sobra material entrando no canto e falta na saída: quinas estufadas e paredes onduladas.
+⚙️ O ajuste chama pressure advance (ou linear advance). É um teste de 15 minutos que limpa todas as quinas da peça.
+
+Filamento caro, bico novo, modelo lindo — se o fluxo está errado, nada disso aparece. 📉
+
+Me conta aqui embaixo: você já calibrou o fluxo da sua impressora ou ainda está no padrão de fábrica? 👇
+
+Salva esse post pra calibrar no fim de semana. 🔖
+
+#impressao3d #impressora3d #print3d #bico #nozzle #extrusao #calibracao #fluxo #filamento #pla #petg #maker #makerbrasil #oficina #prototipagem #modelagem3d #fabricacaodigital #diy #impressao3dbrasil #bambulab #3dprinting #3dprintingbrasil #facavocemesmo
