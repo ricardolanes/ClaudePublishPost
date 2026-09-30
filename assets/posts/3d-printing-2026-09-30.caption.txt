@@ -1,0 +1,30 @@
+Metade pronta, metade ainda no ar. É aqui que você decide se deixa rolar ou cancela. ⏸️
+
+Capacete em filamento prateado, paredes já fechadas, a viseira vencida e o bico parado logo acima esperando a próxima camada. Faltam horas — e é exatamente agora que dá pra saber se elas valem a pena. 🔎
+
+Checklist de 30 segundos numa peça pela metade:
+
+🧲 Olha os cantos da base. Borda levantada da mesa (warping) só piora daqui pra frente. Se a peça descolou num canto, cancela: o resto vai sair torto.
+📐 Passa o olho na lateral procurando um degrau. Camada deslocada (layer shift) é correia frouxa ou peça batendo no bico — e não tem como consertar depois.
+🕳️ Parede com furinhos = subextrusão ou bico entupindo. Se começou agora, piora conforme a peça sobe.
+
+A viseira é uma ponte — e ponte é o teste de verdade:
+
+🌉 Naquele vão o bico atravessa no ar, esticando a linha de um lado ao outro sem nada embaixo pra apoiar.
+🌬️ Ventoinha em 100% (PLA) na hora da ponte. A linha precisa endurecer no meio do caminho ou cai.
+🐢 Velocidade de ponte baixa, 30–50 mm/s. A linha esticada devagar fica reta; rápida demais, vira barriga.
+🔗 A primeira camada da ponte é a que importa. Se ela cair, todas as de cima copiam o erro.
+
+Prateado brilhante não perdoa nada:
+
+🪞 O acabamento metálico reflete a luz como espelho: cada micro-defeito vira um risco bem visível.
+🌡️ Filamento silk pede uns 5–10 °C a mais que o PLA comum pra colar direito entre camadas.
+🧱 E ele é mais frágil na união das camadas. Pra peça decorativa, perfeito. Pra peça que leva esforço, escolhe outro.
+
+Peça grande não falha no fim. Ela falha na camada 3 e você só descobre na camada 300. 😵‍💫
+
+Me conta aqui embaixo: você cancela na hora que vê o defeito ou deixa terminar só pra ver no que dá? 👇
+
+Salva esse post pra rodar o checklist na próxima impressão longa. 🔖
+
+#impressao3d #impressora3d #print3d #filamento #pla #silk #ponte #bridging #camadas #layershift #warping #maker #makerbrasil #oficina #prototipagem #modelagem3d #fabricacaodigital #diy #impressao3dbrasil #bambulab #3dprinting #3dprintingbrasil #facavocemesmo
