@@ -1,0 +1,29 @@
+Esse é o ponto da impressora onde quase todo problema começa — e ninguém olha pra ele. ⚙️
+
+Macro da entrada da extrusora: a engrenagem tracionadora mordendo o filamento branco perolado e empurrando ele rumo ao bico. É aqui que a impressão é decidida. Se o fio não entra do jeito certo, não tem perfil nem bico novo que salve. 🔧
+
+O que essa mordida faz:
+
+🦷 Os dentinhos cravam no filamento e empurram com força constante. Toda a precisão do print depende disso.
+🔁 A mola do braço tensor define a pressão. Frouxa, a engrenagem patina. Apertada demais, esmaga e deforma o fio.
+📏 Filamento achatado ou com marca de dente funda = pressão errada. Olha o pedaço que sobra na troca de bobina, ele conta a história toda.
+
+Os 3 barulhos que a extrusora faz quando pede socorro:
+
+🔊 Tec-tec-tec ritmado: a engrenagem está pulando. Ou o bico entupiu, ou a temperatura está baixa pro filamento derreter na velocidade que você pediu.
+🌀 Pó branco embaixo da extrusora: ela está moendo o fio no mesmo ponto. Cancela, corta o pedaço mastigado e limpa os dentes antes de recomeçar.
+💥 Estalinho de pipoca no bico: isso não é a extrusora, é umidade. O filamento absorveu água e ela virou vapor. Secador por 4–6 h resolve.
+
+3 hábitos que evitam quase tudo isso:
+
+✂️ Corta a ponta do filamento em diagonal antes de carregar. Ponta reta ou com rebarba trava na entrada do tubo.
+🧹 Limpa os dentes da engrenagem a cada troca de bobina. 10 segundos e acabou a patinada.
+🪢 Nunca solta a ponta do filamento na bobina. Ele se enrosca por baixo das voltas, trava de madrugada e você acorda com 8 horas perdidas.
+
+A impressora não começa no bico. Começa aqui, nesse dentinho segurando o fio. 🎯
+
+Me conta aqui embaixo: já perdeu impressão por filamento moído ou nó na bobina? 👇
+
+Salva pra consultar na próxima vez que ouvir o tec-tec-tec. 🔖
+
+#impressao3d #impressora3d #print3d #filamento #extrusora #pla #petg #manutencao #maker #makerbrasil #oficina #prototipagem #modelagem3d #fabricacaodigital #diy #impressao3dbrasil #bambulab #3dprinting #facavocemesmo #dicasmaker
