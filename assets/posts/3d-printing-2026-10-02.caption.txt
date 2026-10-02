@@ -1,0 +1,24 @@
+Escolher o filamento errado é o jeito mais caro de perder 9 horas de impressão. 🎞️
+
+Quatro bobinas lado a lado — dourado, preto, verde-água e roxo — com as etiquetas PLA, ABS e TPU embaixo e o fio roxo já descendo pro bico quente. Na prateleira parecem iguais. Na mesa de impressão, não são. 🔥
+
+O que cada uma faz de melhor:
+
+🟡 PLA — o mais fácil. Imprime a 200–210 °C, quase não empena e sai liso. Ótimo pra protótipo e decoração. Ponto fraco: amolece lá pelos 55 °C. Carro fechado no sol derrete sua peça.
+⚫ ABS — aguenta 95 °C e pancada. Peça de carro, suporte de ferramenta. Em troca pede mesa a 100 °C, câmara fechada e ambiente ventilado: empena com qualquer corrente de ar fria.
+🟢 TPU — o flexível. Dobra, estica e volta: capinha, pé de borracha, gaxeta. Pede 20–30 mm/s e extrusora direct drive — no bowden ele enrola dentro do tubo em vez de empurrar.
+🟣 PETG — o meio-termo que quase ninguém cita. Quase tão fácil quanto o PLA, mas aguenta sol, água e esforço. Peça pra área externa? É ele.
+
+3 erros que custam caro antes de apertar "imprimir":
+
+💧 Guardar bobina aberta na prateleira. PETG, TPU e nylon sugam umidade em dias. Estalinho no bico e parede fofa = filamento molhado. Saco zip + sílica resolve.
+🌡️ Reaproveitar o perfil do PLA pra outro material. Cada um tem sua temperatura, sua retração e sua ventoinha. Perfil errado entope bico e descola peça.
+🏷️ Confiar só na cor. Anota o material na bobina assim que abrir: dourado brilhante pode ser PLA silk ou PETG, e você só descobre no meio da impressão.
+
+A pergunta certa não é "qual filamento é o melhor". É "onde essa peça vai viver". ☀️🧊💪
+
+Me conta aqui embaixo: qual material você usa mais — e qual ainda não teve coragem de encarar? 👇
+
+Salva pra consultar na hora de escolher a próxima bobina. 🔖
+
+#impressao3d #impressora3d #print3d #filamento #pla #abs #petg #tpu #filamentoflexivel #maker #makerbrasil #oficina #prototipagem #modelagem3d #fabricacaodigital #diy #impressao3dbrasil #bambulab #3dprinting #facavocemesmo #dicasmaker
