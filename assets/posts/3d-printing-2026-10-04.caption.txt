@@ -1,13 +1,13 @@
 Toda impressão tem um ponto onde ela se decide. Não é no começo — é aqui, no meio. 🎯
 
-Casco de capacete em magenta, cúpula ainda pela metade, as camadas do topo em pleno ar e o bico parado do lado. Essa foto é o momento mais honesto de qualquer print. 🔥
+Casco de capacete em magenta, cúpula ainda pela metade, as camadas do topo em pleno ar e o bico parado do lado. O momento mais honesto de qualquer print. 🔥
 
 O que olhar numa peça em meio processo (antes de perder 6 horas):
 
-🔍 A parede lateral — brilho uniforme e camadas paralelas? Então vazão e temperatura estão certas. Faixa opaca alternando com brilhante é oscilação de temperatura no bico.
-🌉 A curva do topo — num casco assim, cada camada avança alguns décimos pra fora. Se o canto estiver enrolando pra cima, é resfriamento fraco: ventoinha pra 100% e reduz a velocidade das camadas externas.
+🔍 A parede lateral — brilho uniforme e camadas paralelas? Vazão e temperatura estão certas. Faixa opaca alternando com brilhante é oscilação no bico.
+🌉 A curva do topo — num casco assim, cada camada avança alguns décimos pra fora. Canto enrolando pra cima é resfriamento fraco: ventoinha a 100% e menos velocidade nas camadas externas.
 🧊 O som — chiado seco é normal. Estalo é umidade virando vapor dentro do bico.
-📏 A altura — mede com paquímetro o que já saiu e compara com o fatiador. Diferença de mais de 0,3mm em 100mm de altura é passo perdido no eixo Z.
+📏 A altura — mede com paquímetro o que já saiu e compara com o fatiador. Acima de 0,3mm de diferença em 100mm é passo perdido no eixo Z.
 
 Quando CANCELAR em vez de torcer:
 
@@ -17,15 +17,15 @@ Quando CANCELAR em vez de torcer:
 
 E quando NÃO cancelar:
 
-✅ Marca de costura alinhada numa linha vertical — é estética, some com lixa ou muda no fatiador depois.
-✅ Pequeno fio solto entre partes — stringing. Feio, mas a peça está íntegra.
+✅ Marca de costura alinhada numa linha vertical — é estética, some com lixa.
+✅ Fio solto entre partes — stringing. Feio, mas a peça está íntegra.
 ✅ Topo levemente fosco — só a ventoinha trabalhando mais nas últimas camadas.
 
-O erro mais caro: ✋ ficar sentado olhando a impressora as 6 horas inteiras. As primeiras 3 camadas definem 80% do resultado. Se a base está perfeita e a parede está uniforme aos 20%, pode ir viver a vida.
+O erro mais caro: ✋ ficar sentado olhando a impressora as 6 horas inteiras. As primeiras 3 camadas definem 80% do resultado. Se a base está perfeita e a parede uniforme aos 20%, pode ir viver a vida.
 
 Peça no meio do caminho não é peça inacabada. É um relatório em tempo real — se você souber ler. 📖
 
-Me conta aqui embaixo: qual foi o print que você cancelou achando que ia dar errado e hoje acha que teria dado certo? 👇
+Me conta aqui embaixo: qual print você cancelou achando que ia dar errado e hoje acha que teria dado certo? 👇
 
 Salva pra consultar na próxima impressão longa. 🔖
 
