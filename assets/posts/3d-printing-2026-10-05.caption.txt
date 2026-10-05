@@ -1,0 +1,25 @@
+Magenta que não pede licença. 💜🔥
+
+Um carretel sozinho, luz de contorno batendo de lado, e cada volta do filamento virando uma linha brilhante. Parece simples — mas é justamente esse enrolamento certinho que decide se a sua impressão vai dormir tranquila ou acordar você com um "clec" no extrusor às 3 da manhã.
+
+Três coisas que esse close esconde e que fazem toda diferença:
+
+🌀 Enrolamento é tudo
+Fio cruzado por cima de outro = travamento no meio da impressão. Quando trocar a bobina, prenda sempre a ponta no furinho da lateral. Filamento solto dentro do carretel é tragédia anunciada.
+
+💧 Umidade é o inimigo silencioso
+PLA e principalmente PETG e Nylon chupam umidade do ar. O sintoma? Estalinho no bico, superfície opaca, camada sem brilho. Secador de filamento ou pote hermético com sílica resolvem. Se já estalou, 4h a 45-50 °C costuma trazer a bobina de volta.
+
+⚖️ Peso ≠ metros restantes
+Anote a tara do carretel vazio. Dá pra saber quanto filamento sobrou só pesando — e evitar aquele final de peça impresso no ar.
+
+E tem o lado que ninguém fala: a cor muda a percepção da peça. Magenta, vermelho e tons escuros escondem camada e disfarçam imperfeição. Branco e cinza claro entregam cada detalhe — ótimos pra protótipo, cruéis pra peça final sem acabamento.
+
+Aqui no ateliê cada bobina tem nome, data de abertura e um caderninho de temperatura. Pode parecer exagero, mas quando a impressão de 14 horas sai perfeita de primeira, você entende o porquê. 😌
+
+Agora me conta 👇
+Qual cor de filamento você NUNCA deixa acabar no estoque? E qual já te decepcionou feio?
+
+Comenta aí — leio todos e respondo um por um. Se curtiu, salva esse post pra consultar na próxima troca de bobina e marca aquele amigo que deixa filamento fora do pote. 🙃
+
+#impressao3d #impressora3d #filamento #pla #petg #printing3d #3dprinting #maker #makerbrasil #prototipagem #fabricacaodigital #modelagem3d #tecnologia #diy #façavocemesmo #impressao3dbrasil #3dprintlife #filamentopla #bobinadefilamento #projetos3d
