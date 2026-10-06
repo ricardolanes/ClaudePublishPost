@@ -1,0 +1,26 @@
+3 da manhã, luz apagada, e só o zumbido do ventilador. 🔥🧡
+
+Essa é a parte que vicia: o bico passeando por cima do vaso, cada volta somando uma camada de 0,2 mm, e aquele laranja pôr do sol brilhando sob a fita de LED. Parece mágica — mas é só física bem ajustada.
+
+O que está acontecendo nesse exato frame:
+
+🌡️ Temperatura certa = brilho certo
+Aquele acabamento acetinado nas paredes não vem da cor, vem do calor. PLA quente demais borra o contorno e deixa fio de teia; frio demais racha entre camadas. Comece em 205 °C e suba de 5 em 5 até a parede ficar lisa sem deformar.
+
+🌀 O ventilador é o escultor invisível
+É ele que congela o material no instante certo. Em peça curva como essa, 100% de cooling a partir da segunda camada mantém a silhueta. Sem ele, o vaso incha na barriga e some a definição.
+
+🧱 Vaso é modo traiçoeiro
+Parede única (vase mode) imprime rápido e bonito, mas não perdoa: qualquer vibração da mesa vira ondulação permanente. Aperte as correias, baixe a aceleração para ~2000 mm/s² e deixe a impressora em superfície firme — nada de mesa que balança.
+
+✨ Camada visível não é defeito
+É assinatura. Dá pra esconder com lixa e primer, mas tem gente (eu incluso) que prefere a textura: ela conta que a peça foi construída linha por linha, não moldada numa fábrica.
+
+Esse vaso levou algumas horas e eu fiquei espiando pela janelinha como quem vê pão crescer no forno. Impressão 3D ensina paciência na marra. 😌
+
+Me conta aí 👇
+Você é do time que fica assistindo a impressora trabalhar ou do time que sai de casa e torce para dar certo?
+
+Comenta que eu respondo um por um. Se curtiu, salva pra consultar na próxima peça curva e marca aquele amigo que ainda imprime com cooling no 30%. 🙃
+
+#impressao3d #impressora3d #filamento #pla #printing3d #3dprinting #maker #makerbrasil #prototipagem #fabricacaodigital #modelagem3d #tecnologia #diy #façavocemesmo #impressao3dbrasil #3dprintlife #vasemode #vaso3d #projetos3d #impressaoemandamento
