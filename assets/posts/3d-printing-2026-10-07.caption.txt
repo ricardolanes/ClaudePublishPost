@@ -1,0 +1,29 @@
+A impressora terminou. O trabalho, não. 🛠️💜
+
+Essa é a etapa que ninguém filma: peça na mão esquerda, lima na direita, e aquela marquinha de suporte que insiste em denunciar que a peça saiu de uma máquina. Dez minutos aqui separam um protótipo "ok" de uma peça que parece comprada pronta.
+
+Como eu faço o acabamento sem estragar nada:
+
+🧽 Comece pelo suporte, não pela lixa
+Remova o suporte com alicate de corte, nunca puxando com a mão — puxar arranca fibra da parede e deixa cratera. Sobrou aquele dentinho? Lima fina, movimento só de ida, pressão leve.
+
+📐 Lima agradece peça firme
+Segure apoiando o dedo logo atrás do ponto que está limando. Peça solta vibra, e vibração arredonda canto que deveria ser vivo — principalmente em furo e aba fina como esses aí.
+
+💨 Pó de PLA é traiçoeiro
+Aquele pozinho entra em tudo e some na hora de pintar — aí reaparece embaixo da tinta. Sopro não resolve: pano úmido ou álcool isopropílico antes de qualquer primer.
+
+🪜 Lixa é progressão, não atalho
+220 → 400 → 600, sempre molhada. Pular etapa é o erro clássico: o risco grosso da 220 continua lá, embaixo do brilho da 600, só esperando a luz certa pra aparecer.
+
+🔁 O melhor acabamento é o que você não precisa fazer
+Antes de lixar meia hora, pergunte: dava pra girar a peça no slicer? Mudar o ângulo em 45° às vezes elimina o suporte inteiro. Acabamento manual é remendo — orientação é projeto.
+
+Confesso: já passei mais tempo lixando peça do que imprimindo. Tem algo meio terapêutico em sentir a superfície ficando lisa embaixo do dedo. 😌
+
+Me conta 👇
+Você é do time que lixa até virar espelho ou do time "saiu da mesa, tá bom assim"?
+
+Comenta aí que eu respondo um por um. Salva esse post pra consultar no próximo acabamento e marca aquele amigo que arranca suporte com a unha. 🙃
+
+#impressao3d #impressora3d #filamento #pla #printing3d #3dprinting #maker #makerbrasil #prototipagem #fabricacaodigital #modelagem3d #tecnologia #diy #façavocemesmo #impressao3dbrasil #3dprintlife #acabamento #posprocessamento #projetos3d #lixamento
