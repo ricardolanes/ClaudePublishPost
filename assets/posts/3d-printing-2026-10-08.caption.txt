@@ -1,0 +1,29 @@
+Tudo nessa foto saiu do mesmo carretel. ⚙️🏺
+
+Engrenagem, miniatura, suporte de celular, vaso facetado — mesma cor, mesmo filamento, mesma máquina. O que muda é o ajuste. E é aí que mora a diferença entre "imprimiu" e "ficou bom".
+
+O que cada peça dessas exige de diferente:
+
+⚙️ Engrenagem vive de folga
+Dente com dente não pode nascer colado. Deixe 0.2 mm de folga no projeto e lembre: furo sempre sai menor do que você desenhou. Se o eixo não entra, o problema raramente é a impressora — é a compensação que faltou no modelo.
+
+🧙 Miniatura é camada fina, não bico fino
+Antes de comprar bico 0.2, baixe a altura de camada pra 0.12 com o 0.4 que você já tem. Rosto e dobra de tecido aparecem muito mais. Imprima devagar: miniatura boa é teste de paciência, não de velocidade.
+
+📱 Peça plana só depende da primeira camada
+Suporte de celular é área grande colada na mesa — qualquer desnível vira descolamento no canto. Nivele, limpe a mesa com álcool isopropílico e use brim se a peça for fina. Sem isso, warping na certa.
+
+🏺 Vaso pede vase mode
+Parede única, espiral contínua, zero preenchimento. Sai mais rápido, gasta menos filamento e some com a cicatriz da costura. Para facetado como esse, é o modo que mais valoriza o resultado.
+
+🔪 A ferramenta ao lado não é enfeite
+Estilete de acabamento é o que separa a peça da bancada da peça da foto. Rebarba de borda e bolinha de escorrimento saem em segundos — e ninguém mais percebe que aquilo veio de uma máquina.
+
+O mais legal da impressão 3D é isso: um rolo de plástico vira ferramenta, decoração, brinquedo e protótipo na mesma semana. 🤎
+
+Me conta 👇
+Qual dessas você imprimiria primeiro: engrenagem, miniatura ou vaso?
+
+Comenta aí que eu respondo um por um. Salva esse post pra consultar na hora de ajustar o slicer e marca aquele amigo que só imprime calibration cube. 🙃
+
+#impressao3d #impressora3d #filamento #pla #printing3d #3dprinting #maker #makerbrasil #prototipagem #fabricacaodigital #modelagem3d #tecnologia #diy #façavocemesmo #impressao3dbrasil #3dprintlife #miniaturas #vasemode #engrenagem #projetos3d
