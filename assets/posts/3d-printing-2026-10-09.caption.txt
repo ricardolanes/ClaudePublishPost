@@ -1,0 +1,32 @@
+Uma parede só. Uma espiral contínua. Zero preenchimento. 🏺🧡
+
+Esse vaso torcido saindo da A1 é uma das impressões que mais impressiona e, ironicamente, uma das mais fáceis de acertar. O bico não para em momento nenhum: sobe em espiral, sem costura, sem retração, sem camada "começando" e "terminando". É o vase mode.
+
+Por que vale tanto a pena:
+
+🏺 Sem cicatriz de costura
+Na impressão normal cada camada fecha num ponto — e aquele pontinho vertical fica marcado na peça inteira. Em espiral não existe fechamento, então a superfície sai limpa de cima a baixo.
+
+⏱️ Rápido e econômico de verdade
+Parede única e nada de infill: um vaso desse tamanho sai em poucas horas e gasta uma fração do filamento.
+
+🌀 A torção não é só enfeite
+Nervura em espiral esconde imperfeição muito melhor que um cilindro liso: a luz bate de lado e a sombra das ondas disfarça variação de camada.
+
+🖤 A mesa texturizada faz metade do trabalho
+O granulado preto da A1 não é estética: crava a primeira camada sem cola e ainda carimba um fundo fosco bonito. Com a chapa fria a peça solta sozinha — não force nunca.
+
+Três ajustes que mudam o resultado:
+
+▪️ Aumente a largura de extrusão (0.6–0.8 mm com bico 0.4). Parede única fina racha fácil; mais grossa, o vaso ganha corpo.
+▪️ Camada de 0.2 a 0.28 mm. Aqui camada alta é aliada: marca mais as ondas e acelera o trabalho.
+▪️ O modelo precisa ser fechado e sem ilhas. Vase mode não imprime duas paredes separadas — se tem alça, não rola.
+
+E o detalhe que quase ninguém comenta: vaso em PLA não segura água. Para uso real, coloque um tubo de vidro por dentro. Flor seca e pincel, aí sim, direto. 🌿
+
+Me conta 👇
+Você já imprimiu em vase mode ou ainda tá no modo "preenchimento 20% em tudo"?
+
+Comenta aí que eu respondo um por um. Salva pra consultar na hora de configurar o slicer e marca quem precisa parar de desperdiçar filamento. 🙂
+
+#impressao3d #impressora3d #bambulab #bambulaba1 #vasemode #filamento #pla #printing3d #3dprinting #maker #makerbrasil #prototipagem #fabricacaodigital #modelagem3d #tecnologia #diy #impressao3dbrasil #3dprintlife #vaso #projetos3d
