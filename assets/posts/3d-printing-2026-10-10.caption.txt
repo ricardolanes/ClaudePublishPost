@@ -1,0 +1,29 @@
+0,4 mm. É tudo que separa um rolo de plástico de uma peça pronta. 🔥🧡
+
+Esse é o lugar onde a impressão 3D realmente acontece: a ponta do bico, a 210 °C, deixando um cordão de filamento ainda incandescente na mesa. Tudo que você ajusta no slicer termina aqui, nesse fio de menos de meio milímetro.
+
+O que dá pra ver nessa foto:
+
+🔥 O cordão não sai redondo
+Ele sai achatado. O bico passa raspando e "esmaga" o material contra a camada de baixo — é essa pressão que cola uma camada na outra. Bico alto demais? O fio fica redondo, sem adesão. Essa é a origem de 90% das peças que descolam.
+
+🧡 O brilho dura um piscar
+Aquele laranja vivo some em menos de um segundo. O PLA sai mole e endurece quase instantaneamente — por isso ventoinha de peça é sagrada no PLA e quase proibida no ABS.
+
+⚙️ O latão é consumível
+Bico de latão é macio. Com PLA comum ele dura meses, mas filamento com carga (fibra de carbono, glow, madeira, metálico) devora a ponta em poucos quilos. Furo gasto = extrusão irregular, e você culpando o modelo.
+
+Três coisas que resolvem a maioria dos problemas aqui:
+
+▪️ Calibre o Z offset com a folha de papel. Deve raspar, não prender.
+▪️ Escove o bico ainda quente, com escova de latão. Plástico queimado grudado vira risco preto na peça.
+▪️ Filamento abrasivo pede bico de aço endurecido. Não é frescura, é desgaste mesmo.
+
+E o erro clássico: bico entupido quase nunca está entupido de verdade. Na maioria das vezes é temperatura baixa demais ou filamento úmido chiando lá dentro. Antes de desmontar tudo, suba 10 °C e seque o rolo. 😉
+
+Me conta 👇
+Qual bico você usa hoje: 0,4 padrão ou já migrou pro 0,6 pra ganhar tempo?
+
+Comenta aí que eu respondo um por um. Salva esse post pra lembrar na hora da manutenção e marca aquele amigo que vive brigando com entupimento. 🙂
+
+#impressao3d #impressora3d #bico #nozzle #filamento #pla #primeiracamada #printing3d #3dprinting #maker #makerbrasil #prototipagem #fabricacaodigital #manutencao #tecnologia #diy #impressao3dbrasil #3dprintlife #macro #projetos3d
