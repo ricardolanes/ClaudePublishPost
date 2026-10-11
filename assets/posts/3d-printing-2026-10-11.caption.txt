@@ -1,0 +1,29 @@
+Tem coisa mais hipnotizante que ver a peça nascendo camada por camada? 🖨️🧡
+
+Essa é a cena que todo maker conhece: a A1 trabalhando sozinha na bancada, o cabeçote indo e voltando e uma caixinha de paredes lisas subindo na mesa texturizada. Nenhuma mágica — só mecânica bem calibrada repetindo o mesmo movimento centenas de vezes.
+
+O que está acontecendo nessa foto:
+
+⚙️ Extrusora direct drive
+O motor está em cima do bico, empurrando o filamento no ponto onde ele derrete. Menos caminho = mais controle sobre retração e fim de linha. É o que permite imprimir flexível (TPU) sem drama.
+
+🧱 Mesa texturizada PEI
+Aquela superfície granulada não é enfeite: ela cria microancoragem na primeira camada e devolve a peça sozinha quando a mesa esfria. Espátula só em último caso.
+
+🌀 Paredes lisas de verdade
+Aquele acabamento uniforme vem de parede externa impressa mais devagar que o resto. No slicer é um parâmetro só e muda completamente a aparência final.
+
+Três ajustes que mudam seu resultado hoje:
+
+▪️ Limpe a mesa com álcool isopropílico, não com o dedo. Gordura da pele é a campeã de peça descolando.
+▪️ Imprima a parede externa entre 50 e 80 mm/s, mesmo que o resto voe a 200. O olho vê a casca, não o miolo.
+▪️ Acelerou tudo e apareceu "fantasma" nas quinas? Não é falta de qualidade da máquina, é vibração. Baixe a aceleração antes de culpar o modelo.
+
+E o lembrete que ninguém gosta de ouvir: impressora rápida não perdoa filamento úmido. Se o seu rolo está aberto há semanas, seque antes de reclamar do resultado. 😉
+
+Me conta 👇
+Você é time "deixo imprimindo e vou dormir" ou fica olhando as 3 primeiras camadas até ter certeza?
+
+Comenta aí que eu respondo um por um. Salva pra consultar na próxima impressão e marca aquele amigo que ainda imprime tudo na velocidade padrão. 🙂
+
+#impressao3d #impressora3d #bambulab #bambulaba1 #filamento #pla #primeiracamada #3dprinting #printing3d #maker #makerbrasil #prototipagem #fabricacaodigital #tecnologia #diy #impressao3dbrasil #3dprintlife #projetos3d #faavocemesmo #oficina
