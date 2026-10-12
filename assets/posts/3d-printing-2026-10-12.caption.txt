@@ -1,0 +1,29 @@
+PLA, ABS ou TPU? A escolha do rolo decide a peça antes do slicer. 🧵🧡
+
+Três carretéis lado a lado, o fio saindo do último direto pro bico aquecido. Parece só uma foto bonita de bancada, mas tem aí a decisão que mais afeta o resultado final — e que muita gente pula no automático.
+
+O que cada um faz melhor:
+
+🪻 PLA — o padrão por um bom motivo
+Imprime fácil, quase não empena, aceita mesa fria e sai bonito. Perfeito pra protótipo, decoração e miniatura. Fraqueza: carro fechado no sol amassa o seu trabalho. A partir de uns 60 ºC ele amolece.
+
+🔵 ABS — resistência com temperamento
+Aguenta calor e impacto bem melhor, lixa e cola com acetona. Em troca pede mesa quente (100 ºC), bico perto de 250 ºC e, principalmente, câmara fechada. Em corrente de ar ele racha entre camadas e descola da mesa na metade da impressão.
+
+🤍 TPU — o flexível
+Capa, pezinho antiderrapante, vedação. Imprime devagar (20–40 mm/s) e odeia retração longa. Direct drive ajuda muito, porque o caminho curto entre motor e bico evita que o filamento enrosque no meio do trajeto.
+
+Três ajustes que mudam seu resultado hoje:
+
+▪️ Trocou de material? Troque a temperatura de verdade, não só o perfil. Vale fazer uma torre de temperatura — 20 minutos de teste salvam horas.
+▪️ ABS perto de janela aberta é empenamento garantido. Se não tem câmara fechada, improvise com uma caixa plástica por cima.
+▪️ TPU e PLA puxam umidade rápido. Rolo estalando e peça com bolinha na superfície não é defeito da impressora, é água no filamento. Seca 4h a 45–50 ºC e tenta de novo.
+
+E o lembrete que vale pra todo mundo: não existe filamento "melhor", existe filamento certo pra função da peça. Decida primeiro onde ela vai viver — depois escolha o rolo. 😉
+
+Me conta 👇
+Qual é o seu filamento do dia a dia e qual você ainda tem medo de encarar?
+
+Comenta aí que eu respondo um por um. Salva pra consultar na hora de comprar o próximo rolo e marca aquele amigo que imprime tudo em PLA e depois reclama que quebrou. 🙂
+
+#impressao3d #impressora3d #filamento #pla #abs #tpu #bambulab #bambulaba1 #3dprinting #printing3d #maker #makerbrasil #prototipagem #fabricacaodigital #modelagem3d #tecnologia #diy #impressao3dbrasil #3dprintlife #projetos3d
