@@ -1,6 +1,6 @@
 PLA, ABS ou TPU? A escolha do rolo decide a peça antes do slicer. 🧵🧡
 
-Três carretéis lado a lado, o fio saindo do último direto pro bico aquecido. Parece só uma foto bonita de bancada, mas tem aí a decisão que mais afeta o resultado final — e que muita gente pula no automático.
+Três carretéis lado a lado, o fio saindo do último direto pro bico aquecido. Parece só foto bonita de bancada, mas aí está a decisão que mais afeta o resultado — e que muita gente pula no automático.
 
 O que cada um faz melhor:
 
@@ -16,14 +16,14 @@ Capa, pezinho antiderrapante, vedação. Imprime devagar (20–40 mm/s) e odeia 
 Três ajustes que mudam seu resultado hoje:
 
 ▪️ Trocou de material? Troque a temperatura de verdade, não só o perfil. Vale fazer uma torre de temperatura — 20 minutos de teste salvam horas.
-▪️ ABS perto de janela aberta é empenamento garantido. Se não tem câmara fechada, improvise com uma caixa plástica por cima.
-▪️ TPU e PLA puxam umidade rápido. Rolo estalando e peça com bolinha na superfície não é defeito da impressora, é água no filamento. Seca 4h a 45–50 ºC e tenta de novo.
+▪️ ABS perto de janela aberta é empenamento garantido. Sem câmara fechada, improvise com uma caixa plástica por cima.
+▪️ TPU e PLA puxam umidade rápido. Bolinha na superfície não é defeito da impressora, é água no filamento. Seca 4h a 45–50 ºC e tenta de novo.
 
 E o lembrete que vale pra todo mundo: não existe filamento "melhor", existe filamento certo pra função da peça. Decida primeiro onde ela vai viver — depois escolha o rolo. 😉
 
 Me conta 👇
 Qual é o seu filamento do dia a dia e qual você ainda tem medo de encarar?
 
-Comenta aí que eu respondo um por um. Salva pra consultar na hora de comprar o próximo rolo e marca aquele amigo que imprime tudo em PLA e depois reclama que quebrou. 🙂
+Comenta aí que eu respondo um por um. Salva pra consultar na hora de comprar o próximo rolo e marca quem imprime tudo em PLA e depois reclama que quebrou. 🙂
 
 #impressao3d #impressora3d #filamento #pla #abs #tpu #bambulab #bambulaba1 #3dprinting #printing3d #maker #makerbrasil #prototipagem #fabricacaodigital #modelagem3d #tecnologia #diy #impressao3dbrasil #3dprintlife #projetos3d
