@@ -1,0 +1,29 @@
+Um carretel vermelho, bem enrolado, sob a luz certa. Simples assim — e é aqui que 90% das impressões falhas começam. 🔴🧵
+
+Esse close mostra uma coisa que passa batido: os fios paralelos, encostados, sem cruzar. Carretel enrolado assim não embaraça. Carretel enrolado torto trava no meio de uma peça de 14 horas.
+
+Três coisas que esse rolo pode te entregar — ou te roubar:
+
+💧 Umidade é o inimigo silencioso
+PLA puxa água do ar em dias. O sintoma? Estalinho no bico, superfície opaca, fio quebradiço. Não é a impressora, é o filamento. Secador de filamento ou caixa hermética com sílica resolve — e dá pra recuperar rolo velho secando a 50 °C por 6 horas.
+
+🔒 Nunca solte a ponta
+Aquele segundo de distração em que você larga o fio solto no carretel é o que cria o nó que só aparece na camada 400. Prenda SEMPRE no furinho da borda ou com um clipe.
+
+⚖️ Pese antes de começar
+Carretel vazio pesa uns 200 g. Balança de cozinha, peso total menos a tara, e você sabe se tem filamento pra peça inteira.
+
+E o detalhe que quase ninguém checa: a tolerância de diâmetro. Filamento bom fica em 1,75 mm ± 0,02. Acima disso, a extrusão varia de camada pra camada e aquelas listras na parede não saem por mais que você mexa no slicer. Está escrito na caixa — vale olhar antes de comprar o mais barato. 😉
+
+Resumindo o que fazer hoje:
+
+▪️ Guarde o rolo aberto em caixa com sílica, não na prateleira.
+▪️ Prenda a ponta toda vez que tirar da impressora.
+▪️ Anote a marca e o lote que funcionaram bem.
+
+Me conta 👇
+Qual marca de filamento nunca te decepcionou? E qual você não compra mais nem de graça?
+
+Comenta aí que eu respondo um por um. Salva esse post pra lembrar na próxima compra e marca aquele amigo que tem 12 rolos abertos jogados na bancada. 🙂
+
+#impressao3d #impressora3d #filamento #pla #petg #filamento3d #bambulab #3dprinting #printing3d #maker #makerbrasil #modelagem3d #prototipagem #diy #impressao3dbrasil #projetos3d #tecnologia #fabricacaodigital #hobby #manutencao
