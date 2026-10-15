@@ -1,0 +1,24 @@
+Um vaso vermelho facetado, saído da impressora assim, inteiro. Sem lixa, sem massa, sem acabamento nenhum. 🔺🏺
+
+Esse tipo de peça quase sempre sai em modo vaso (vase mode / espiral) — e é o truque mais subestimado da impressão 3D. Em vez de imprimir camada por camada e dar um passinho pra cima, o bico sobe numa espiral contínua, numa parede só, sem parar nunca. O resultado:
+
+✨ Zero costura vertical. Aquela cicatriz feia que desce pela lateral da peça simplesmente não existe, porque o bico nunca para pra recomeçar a camada.
+⚡ Rápido demais. Uma parede só, 0% de preenchimento, sem topo. Esse vaso sai em 3-4 horas, contra 12+ no modo normal.
+💪 Mais forte do que parece. As facetas funcionam como nervuras: o formato low-poly enrijece a parede fina.
+
+Três ajustes que separam um vaso bonito de um fiasco:
+
+▪️ Aumente a largura de extrusão. Deixe o bico de 0,4 mm extrudando 0,6-0,8 mm. A parede engrossa e a peça para de ser frágil.
+▪️ Camada mais alta. 0,28-0,3 mm. No modo vaso a camada alta quase não aparece, e você corta o tempo pela metade.
+▪️ Deixe o ventilador no máximo. Parede fina sem nada atrás pra sustentar precisa solidificar na hora.
+
+E o detalhe que faz a diferença nessa foto: repare como a luz bate diferente em cada face. As linhas de camada não são defeito — viraram textura. Em peça facetada, cada ângulo pega a luz de um jeito, e é exatamente isso que dá o brilho acetinado. Por isso vermelho, preto e dourado funcionam tão bem aqui: cor sólida e opaca realça as facetas. 😉
+
+⚠️ Só não esqueça: modo vaso faz peça de parede única. Ela NÃO é estanque pra líquido. Se for usar com água, põe um copo de vidro ou plástico dentro — ou passa resina epóxi por dentro.
+
+Me conta 👇
+Você já imprimiu em modo vaso? Qual foi a peça que mais te surpreendeu pelo tempo que economizou?
+
+Comenta aí que eu respondo um por um! Salva esse post pra testar os 3 ajustes na próxima impressão e marca aquele amigo que ainda imprime tudo com 20% de preenchimento. 🙂
+
+#impressao3d #impressora3d #modovaso #vasemode #filamento #pla #petg #bambulab #3dprinting #printing3d #maker #makerbrasil #modelagem3d #prototipagem #design #impressao3dbrasil #projetos3d #tecnologia #fabricacaodigital #decoracao
