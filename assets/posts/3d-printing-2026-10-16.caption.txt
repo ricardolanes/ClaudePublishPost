@@ -1,0 +1,25 @@
+Esse é o ponto da impressora que ninguém fotografa — e é o que decide se a sua peça vai sair perfeita ou virar sucata. 🔥🧡
+
+O que você vê aqui é o filamento laranja sendo mordido pela engrenagem tracionadora do extrusor. Aqueles dentes serrilhados são os únicos responsáveis por empurrar o fio até o bico com força pra vencer a resistência do plástico derretido. Se a mordida falha, tudo que vem depois falha junto.
+
+Os 4 sintomas de um extrusor em apuros 👇
+
+▪️ Clique-clique ritmado. O motor tenta empurrar, não consegue e pula. Quase sempre é bico entupido ou temperatura baixa — não é defeito do motor.
+▪️ Subextrusão. Camadas com falhas e paredes com vão entre elas. O fio está escorregando na engrenagem em vez de avançar.
+▪️ Pó de plástico no compartimento. Sinal clássico de filamento moído: a engrenagem cavou um sulco no fio e agora só gira em falso.
+▪️ Peça que para no meio. O trecho moído fica fino demais pra ser tracionado e a alimentação morre.
+
+3 cuidados que resolvem quase tudo 🛠️
+
+1. Limpe os dentes da engrenagem. Plástico acumulado ali tira a mordida. Escovinha de aço e 30 segundos, a cada troca de carretel.
+2. Ajuste a tensão da mola. Frouxa escorrega; apertada demais amassa o fio e cria atrito no tubo. O meio-termo é o certo.
+3. Antes de culpar o extrusor, suba 5 °C. Boa parte dos cliques é plástico frio e viscoso demais, especialmente em PETG e em impressão rápida.
+
+E tem o filamento úmido, o vilão silencioso: ele incha, estala no bico e exige mais força pra ser empurrado. PLA guardado solto há meses é candidato garantido a moer — caixa fechada com sílica resolve. 💧
+
+Me conta aqui embaixo 👇
+Seu extrusor é direct drive ou bowden? E qual foi a última vez que você abriu ele pra limpar?
+
+Comenta que eu respondo um por um! Salva pra consultar no próximo clique e marca aquele amigo que jura que a culpa é sempre do filamento. 🙂
+
+#impressao3d #impressora3d #extrusor #filamento #pla #petg #bambulab #manutencao #3dprinting #printing3d #maker #makerbrasil #impressao3dbrasil #prototipagem #fabricacaodigital #modelagem3d #projetos3d #tecnologia #diy #oficina
