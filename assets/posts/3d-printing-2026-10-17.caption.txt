@@ -1,0 +1,23 @@
+Uma peça laranja nascendo camada por camada numa impressora de estrutura aberta. É por isso que esse tipo de máquina virou a porta de entrada da impressão 3D. 🧡🖨️
+
+Olha o que essa foto mostra sobre impressora aberta (open frame) 👇
+
+▪️ Dissipa calor naturalmente. Sem caixa fechada, o ar ambiente resfria a peça rápido. Pra PLA e PETG é vantagem pura: cantos definidos e menos deformação em saliências.
+▪️ Acesso total. Trocar bico, limpar a mesa e tirar a peça sem abrir porta nenhuma: manutenção de 2 minutos em vez de 20.
+▪️ Mais leve e mais barata. Menos material na estrutura, preço menor — e cabe em qualquer canto de mesa.
+▪️ Mas tem o outro lado: ABS e ASA sofrem. Sem câmara aquecida, esses materiais encolhem desigual e descolam ou racham no meio da impressão.
+
+3 ajustes que fazem a aberta render o máximo 🛠️
+
+1. Proteja da corrente de ar. Não precisa fechar a máquina: só tire ela da frente do ventilador, da janela e da porta. Vento lateral é a causa nº 1 de peça descolando.
+2. Mesa texturizada + nível em dia. Aquela superfície granulada da foto segura a primeira camada sem cola. Se mesmo assim escapa, o problema é altura do bico, não a mesa.
+3. Use o ventilador a favor. PLA pede 100% depois da primeira camada. PETG prefere 30-50%, senão as camadas não colam entre si.
+
+E a peça em si: esse formato de U é suporte funcional, não enfeite. Esse é o verdadeiro superpoder da impressão 3D — resolver o problema que nenhuma loja tem na prateleira. Suporte de fone, apoio de monitor, aquela peça que quebrou e não se fabrica mais. ⚙️
+
+Me conta aqui embaixo 👇
+Sua impressora é aberta ou fechada? E qual foi a peça mais útil que você já imprimiu pra resolver um problema de casa?
+
+Comenta que eu respondo um por um! Salva esse post pra consultar os 3 ajustes e marca aquele amigo que ainda acha que impressora 3D só serve pra fazer bonequinho. 🙂
+
+#impressao3d #impressora3d #bambulab #bambulaba1 #openframe #filamento #pla #petg #3dprinting #printing3d #maker #makerbrasil #impressao3dbrasil #prototipagem #fabricacaodigital #modelagem3d #projetos3d #tecnologia #diy #faavocemesmo
