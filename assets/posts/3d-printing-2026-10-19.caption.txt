@@ -1,0 +1,23 @@
+Essa bancada conta a história toda da impressão 3D. Engrenagens, suportes, um bonequinho e um apoio de celular — tudo saiu da mesma máquina, no mesmo rolo de filamento. 🟡🔵🟠
+
+Olha o que essa mesa bagunçada ensina 👇
+
+▪️ Engrenagem é teste de precisão. Se os dentes encaixam sem lixar, seu fluxo (flow) e seu diâmetro de bico estão calibrados. Dente gordo demais = superextrusão. É o melhor termômetro grátis da sua impressora.
+▪️ Suporte em L e em U aguenta peso de verdade. Peça funcional pede parede mais grossa (3 a 4 perímetros) e 40% de preenchimento. O segredo não é imprimir cheio: é engrossar a casca.
+▪️ O boneco é o controle de qualidade do detalhe. Rosto e mão denunciam na hora se a camada está alta demais. 0,12 mm muda tudo num modelo pequeno.
+▪️ Apoio de celular é a peça que converte gente. Imprime em 2 horas, custa menos de R$ 3 e resolve um problema real na mesa de quem ganhou.
+
+3 detalhes que todo mundo ignora nessa foto 🛠️
+
+1. A espátula. Peça fria sai sozinha — se você precisa fazer força, tirou cedo demais. Espera a mesa chegar perto da temperatura ambiente.
+2. A fita azul. Com mesa texturizada quase ninguém precisa dela, mas ela ainda salva ABS e peça de base pequena.
+3. A orientação na mesa. Toda peça dessa foto foi deitada de propósito. Camada deitada = força no sentido certo. Suporte impresso em pé quebra no primeiro aperto.
+
+E o melhor: nenhuma dessas peças veio de loja. Esse é o ponto da impressão 3D — você deixa de procurar a peça e passa a fabricar ela. ⚙️
+
+Me conta aqui embaixo 👇
+Qual dessas 4 você imprimiria primeiro: engrenagem, suporte, boneco ou apoio de celular? E quantas peças tem largadas na sua bancada agora? 😄
+
+Comenta que eu respondo um por um! Salva pra lembrar dos 3 detalhes e marca aquele amigo que vive falando que vai comprar uma impressora. 🙂
+
+#impressao3d #impressora3d #filamento #pla #petg #3dprinting #printing3d #maker #makerbrasil #impressao3dbrasil #prototipagem #fabricacaodigital #modelagem3d #projetos3d #pecas3d #engrenagem #bancadamaker #tecnologia #diy #facavocemesmo
