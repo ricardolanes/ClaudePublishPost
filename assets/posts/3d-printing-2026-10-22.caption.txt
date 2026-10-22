@@ -1,0 +1,23 @@
+Zoom máximo no bico: é aqui que o filamento vira peça. Plástico a 210 °C saindo por um furo de 0,4 mm e esfriando em menos de um segundo. 🔥🟡
+
+O que essa macro revela 👇
+
+▪️ O cordão é mais largo que o bico. Bico de 0,4 mm deposita linha de 0,45 a 0,48 mm, porque o material é esmagado contra a camada de baixo. Esse esmagamento é o que cola uma camada na outra.
+▪️ O brilho molhado dura 1 segundo. É o PLA ainda acima da temperatura de transição. Depois disso ele vira sólido — por isso ventoinha mal regulada arruína detalhe fino.
+▪️ Aquela crosta queimada no bico é problema. Plástico carbonizado grudado solta flocos escuros no meio da peça e atrapalha o fluxo. Limpa com o bico quente, usando pano de algodão e pinça.
+▪️ Cordão ondulado = superextrusão. Se a linha sai mais gorda que o espaço disponível, ela encaracola. Calibra o fluxo antes de culpar o modelo.
+
+3 ajustes que resolvem 90% dos problemas de bico 🛠️
+
+1. Calibre o E-step e o fluxo. Peça o extrusor empurrar 100 mm e meça quanto saiu de verdade. É a base de tudo — sem isso, nenhum outro ajuste funciona.
+2. Temperatura por torre de teste. Imprime a torre de temperatura do seu filamento: cada rolo pede um valor diferente, mesmo sendo da mesma marca.
+3. Troque o bico a cada 300 h. Latão desgasta e o furo abre. Com filamento com carga (madeira, fibra, brilho) esse prazo cai pela metade — vá de aço temperado.
+
+E o mais importante: bico entupido quase nunca é só entupimento. Na maioria das vezes é temperatura baixa, retração exagerada ou filamento com umidade. Seca o rolo antes de desmontar a máquina. ⚙️
+
+Me conta aqui embaixo 👇
+Qual bico você usa: 0,4 mm padrão, 0,2 mm pra detalhe ou 0,6 mm pra velocidade? E quando foi a última vez que você limpou o seu? 😅
+
+Comenta que eu respondo um por um! Salva pra lembrar dos 3 ajustes e marca aquele amigo que joga a peça fora achando que a impressora quebrou. 🙂
+
+#impressao3d #impressora3d #bico #nozzle #extrusora #filamento #pla #petg #3dprinting #printing3d #maker #makerbrasil #impressao3dbrasil #prototipagem #fabricacaodigital #calibracao #manutencao #pecas3d #bancadamaker #tecnologia #diy #facavocemesmo
