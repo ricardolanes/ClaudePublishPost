@@ -1,0 +1,23 @@
+Saiu da mesa assim: sem lixa, sem massa, sem retoque. Suporte de celular em PLA branco, pronto pra usar. 🤍📱
+
+O que faz uma peça sair limpa desse jeito 👇
+
+▪️ Orientação certa vale mais que qualquer ajuste fino. Essa peça foi impressa deitada, com a curva do apoio acompanhando o sentido das camadas. Resultado: zero suporte e nenhuma cicatriz de remoção.
+▪️ Aquelas linhas horizontais são acabamento, não defeito. Camada de 0,2 mm pega a luz e vira textura. Quer mais liso? 0,12 mm. Quer mais rápido? 0,28 mm — a um metro de distância ninguém nota.
+▪️ Balanço aguenta até 45°. Acima disso começa a cair. Repare que o gancho do apoio nunca passa desse ângulo: o modelo foi desenhado pra não precisar de suporte.
+▪️ Canto arredondado não descola. Aresta viva na base concentra tensão e levanta. Um filete de 2 mm resolve o warping antes dele aparecer.
+
+3 coisas que eu repetiria nessa peça 🛠️
+
+1. Base com 5 perímetros. Peça que segura peso o dia inteiro sofre na parede, não no miolo. Parede grossa rende mais que aumentar preenchimento.
+2. Preenchimento giroide a 15%. Dá rigidez nos dois sentidos e gasta pouco material. Pra suporte de celular é de sobra.
+3. Feltro ou borracha embaixo. PLA em madeira escorrega. 20 centavos de feltro e o suporte para de passear pela mesa.
+
+Peça boa não é a que você mais lixou — é a que você orientou direito antes de fatiar. ⚙️
+
+Me conta aqui embaixo 👇
+Qual foi a última peça que saiu perfeita de primeira na sua impressora? E qual você já reimprimiu umas 5 vezes até acertar? 😅
+
+Comenta que eu respondo um por um! Salva pra lembrar na hora de fatiar e marca aquele amigo que ainda imprime tudo em pé. 🙂
+
+#impressao3d #impressora3d #pla #filamento #suportedecelular #pecas3d #3dprinting #printing3d #maker #makerbrasil #impressao3dbrasil #prototipagem #fabricacaodigital #modelagem3d #fatiador #bancadamaker #tecnologia #diy #facavocemesmo
