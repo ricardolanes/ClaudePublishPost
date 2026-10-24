@@ -12,6 +12,9 @@ load_dotenv(Path(__file__).resolve().parent.parent / ".env")
 
 API_KEY = os.getenv("OPENAI_API_KEY")
 API_URL = "https://api.openai.com/v1/images/generations"
+# gpt-image-1 foi descontinuado (a API responde "model does not exist");
+# gpt-image-1.5 e o sucessor direto e aceita os mesmos tamanhos/qualidades.
+MODEL = "gpt-image-1.5"
 SIZES = {"square": "1024x1024", "portrait": "1024x1536", "landscape": "1536x1024"}
 # Guarda a ultima cena sorteada para nao repetir a mesma no post seguinte.
 # Precisa ser commitado junto com a imagem: cada execucao agendada roda num
@@ -24,7 +27,7 @@ def generate(prompt: str, out_path: str, size: str, quality: str):
         API_URL,
         headers={"Authorization": f"Bearer {API_KEY}"},
         json={
-            "model": "gpt-image-1",
+            "model": MODEL,
             "prompt": prompt,
             "size": SIZES.get(size, size),
             "quality": quality,
@@ -44,7 +47,7 @@ def generate(prompt: str, out_path: str, size: str, quality: str):
 
 
 if __name__ == "__main__":
-    parser = argparse.ArgumentParser(description="Gera uma imagem via API da OpenAI (gpt-image-1).")
+    parser = argparse.ArgumentParser(description="Gera uma imagem via API da OpenAI (gpt-image-1.5).")
     src = parser.add_mutually_exclusive_group(required=True)
     src.add_argument("--prompt", help="Descrição da imagem a gerar.")
     src.add_argument("--prompt-file", help="Arquivo de texto com o prompt (alternativa a --prompt).")

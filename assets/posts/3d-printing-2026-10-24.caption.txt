@@ -1,0 +1,25 @@
+Bancada quente, luz baixa e aquele som de motor passo. A A1 subindo um vaso espiralado em laranja. 🟠🖨️
+
+Essa peça é o famoso modo vaso (spiral vase) — e tem muita coisa acontecendo nela 👇
+
+▪️ Uma parede só, do começo ao fim. O bico sobe em espiral contínua, sem parar entre camadas. Zero costura vertical, zero retração, zero cicatriz.
+▪️ Sem preenchimento e sem topo. Por isso sai rápido e gasta pouco filamento — um vaso desse tamanho fecha em menos de 2 horas.
+▪️ A torção não é enfeite. A onda em diagonal trava a parede e deixa a peça bem mais rígida do que um cilindro liso da mesma espessura.
+▪️ Mesa texturizada faz metade do trabalho. Aquele granulado preto segura a primeira camada no quente e solta sozinho quando esfria. Sem cola, sem espátula, sem drama.
+
+3 ajustes que mudam o resultado 🛠️
+
+1. Largura de extrusão maior que o bico. Bico de 0,4 mm com parede em 0,6–0,8 mm deixa o vaso firme e sem transparência.
+2. Camada de 0,2 a 0,28 mm. Camada mais grossa em modo vaso vira textura bonita e ainda corta o tempo de impressão quase pela metade.
+3. Resfriamento no máximo depois da primeira camada. Parede única não tem apoio nenhum — sem ventilador, ela entorta antes de subir 5 cm.
+
+⚠️ Importante: vaso impresso em modo espiral não é à prova d'água de verdade. Use um copo de vidro ou plástico por dentro, ou passe uma resina epóxi na parede interna. PLA e água parada juntos não terminam bem.
+
+Peça simples, impressão limpa, zero suporte. É o tipo de print que ganha visita quando alguém chega perto da bancada. ⚙️
+
+Me conta aqui embaixo 👇
+Você já imprimiu em modo vaso? Deu certo de primeira ou a parede entortou no meio do caminho? 😅
+
+Comenta que eu respondo um por um! Salva pra testar no próximo print e marca aquele amigo que acha que vaso 3D é só enfeite. 🙂
+
+#impressao3d #impressora3d #bambulab #bambulaba1 #modovaso #spiralvase #pla #filamento #pecas3d #3dprinting #printing3d #maker #makerbrasil #impressao3dbrasil #prototipagem #fabricacaodigital #bancadamaker #tecnologia #diy #facavocemesmo
