@@ -1,0 +1,27 @@
+Metade robô, metade promessa. 🔵🤖
+
+Pernas prontas, tronco ainda nem existe e o bico parado ali em cima, esperando a próxima camada. Esse é o momento mais honesto de qualquer impressão 3D — e o melhor pra descobrir se o print vai dar certo.
+
+O que dá pra ler numa peça pela metade 👇
+
+▪️ As linhas de camada. Se estão uniformes e brilhantes como nessas pernas, a extrusão está estável. Linha falhada ou aspecto fosco de repente = filamento úmido ou entupimento começando.
+▪️ O brim no prato. Aquela saia fina em volta dos pés não é desperdício: multiplica a área de contato de uma peça que nasce apoiada em dois pontinhos.
+▪️ Os cantos dos blocos da armadura. Canto levantando é aviso de warp. Canto chapado é sinal de que o resfriamento e a temperatura estão no ponto certo.
+▪️ O topo aberto. É ali que vem a parte difícil: ombros e braços em balanço.
+
+3 coisas que salvam figurinha em pé 🛠️
+
+1. Pause e olhe por dentro antes dos ombros. Luz de celular no topo aberto mostra se o preenchimento gruda nas paredes ou só flutua.
+2. Suporte só onde precisa. Balanço acima de 45° pede apoio — o resto não. Suporte sobrando vira marca feia justo na parte mais visível.
+3. Resfriamento alto em peça fina. Perna de robô tem pouca área por camada. Sem ventilador no talo, a camada nova derrete a de baixo e a peça entorta.
+
+⚠️ Dica de ouro: nunca cancele um print no susto. Defeito leve quase sempre termina — e depois vira lixa e tinta. Cancelar na metade é jogar 2 horas de filamento fora por 10 segundos de ansiedade. 😮‍💨
+
+Impressão 3D é isso: você vê a coisa existir camada por camada, de baixo pra cima. ⚙️
+
+Me conta aqui embaixo 👇
+Você fica olhando a impressão ou sai de perto e só volta no fim? 😅
+
+Comenta que eu respondo um por um! Salva pra lembrar antes do próximo print e marca aquele amigo que cancela tudo na primeira camada torta. 🙂
+
+#impressao3d #impressora3d #figurine #robo3d #miniaturas3d #pla #filamento #pecas3d #suportes3d #3dprinting #printing3d #maker #makerbrasil #impressao3dbrasil #prototipagem #fabricacaodigital #bancadamaker #tecnologia #diy #facavocemesmo
