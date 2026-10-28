@@ -1,0 +1,13 @@
+Esse é o momento exato em que a peça nasce. 🔥
+
+Um close extremo no bico de 0,4 mm, bem no instante em que o filamento derretido encosta na mesa e vira camada. Repare no brilho do cordão de PLA lilás ainda quente: por alguns segundos ele é praticamente líquido, acomoda no lugar e só então endurece, colando na camada de baixo.
+
+E olha o estado do bico — manchado, com resíduo queimado em volta. Isso não é defeito, é currículo. Cada marca ali é hora de impressão rodada. (Mas vale o lembrete: limpeza periódica com uma escovinha de latão e o bico agradece.)
+
+É nessa escala de milímetros que tudo se decide. Temperatura um pouco baixa e as camadas não grudam direito. Alta demais e a peça vira um borrão com fiapos. Velocidade errada e aparecem falhas no preenchimento. Toda peça bonita que você vê pronta começou com esse cordãozinho sendo depositado certinho, centenas de vezes por minuto.
+
+A gente quase nunca para pra olhar essa parte — a impressora trabalha escondida atrás do vidro. Mas é aqui que a mágica acontece de verdade. ✨
+
+E aí, qual a temperatura de bico que você usa no PLA? 🌡️ Time 200°C ou time 210°C? Conta aí nos comentários — e marca aquele amigo que deixa o bico encardido igual esse! 👇
+
+#impressao3d #impressora3d #printed3d #manufaturaaditiva #pla #filamento #maker #makerbrasil #diy #3dprinting #3dprinter #fdm #prototipagem #tecnologia #macrofotografia #nozzle #impressao3dbrasil #projetos3d #hobby #engenharia
