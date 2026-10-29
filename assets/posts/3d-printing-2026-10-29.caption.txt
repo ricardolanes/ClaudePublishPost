@@ -1,0 +1,19 @@
+Antes de virar peça, o filamento passa por aqui. 🔩
+
+Esse é o extrusor — o ponto em que o fio é agarrado pelas engrenagens e empurrado pra dentro do hotend. Repare no detalhe: aquela engrenagem dentada (a famosa polia serrilhada) morde o filamento de um lado, enquanto um rolamento tensionado pressiona do outro. É esse aperto que transforma giro de motor em filamento descendo no ritmo certo.
+
+Parece simples, mas é uma das partes mais sensíveis da impressora. 👇
+
+🔸 Tensão frouxa? A engrenagem patina, o fio escorrega e você vê camadas falhando no meio da impressão.
+🔸 Tensão apertada demais? Ela esmaga o filamento, deixa aquelas marquinhas de dente e às vezes trava a passagem.
+🔸 Engrenagem suja de pó de PLA? Perde aderência e o resultado é o mesmo: subextrusão.
+
+Dica de ouro: quando a impressão começar a sair com paredes finas, falhas ou aquele barulho de "tec... tec..." no extrusor, não corre pro slicer. Olha primeiro aqui. Uma escovinha pra limpar os dentes da engrenagem e um ajuste fino na tensão resolvem a maioria dos casos.
+
+E o brilho do filamento na foto não é por acaso — fio limpo, sem poeira e bem armazenado desliza melhor e entope muito menos. Guardar a bobina com sílica faz mais diferença do que parece. 💧
+
+No fim das contas, toda peça bonita começa com esse detalhe mecânico que quase ninguém olha: um fio de 1,75 mm sendo puxado com a força exata. ⚙️
+
+Me conta: você já limpou a engrenagem do seu extrusor esse mês? 😅 Responde aí nos comentários — e salva esse post pra lembrar na próxima vez que a impressão falhar do nada! 📌
+
+#impressao3d #impressora3d #extrusor #manufaturaaditiva #filamento #pla #maker #makerbrasil #diy #3dprinting #3dprinter #fdm #prototipagem #tecnologia #macrofotografia #impressao3dbrasil #projetos3d #hobby #engenharia #manutencao

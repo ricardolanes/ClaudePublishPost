@@ -1,0 +1,1 @@
+Close extremo do filamento sendo puxado para dentro da extrusora de uma impressora 3D, com as engrenagens tracionando o fio.
