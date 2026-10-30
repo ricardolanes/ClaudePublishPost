@@ -1,0 +1,28 @@
+Ela parece só uma bobina preta. Mas é ela que decide se a sua peça vai sair perfeita ou virar espaguete. 🕸️
+
+Tem gente que gasta semanas escolhendo impressora e cinco minutos escolhendo filamento. Depois culpa a máquina. 😅
+
+O que essa bobina esconde 👇
+
+🔸 Enrolamento. Repare como o fio está deitado, volta ao lado de volta. Bobina mal enrolada cria o famoso nó cruzado: o filamento prende no meio da impressão, o extrusor força e a peça morre na camada 180. Nunca solte a ponta do fio — prenda sempre no furinho da borda.
+🔸 Umidade. PLA, PETG e principalmente TPU e Nylon bebem água do ar. Filamento úmido estala no bico e deixa a superfície áspera e opaca. Aquele "tec, poc" durante a impressão quase sempre é água virando bolha dentro do hotend.
+🔸 Diâmetro. 1,75 mm é nominal, não promessa. Marca boa varia ±0,02 mm; marca ruim, ±0,07 mm — e o fluxo oscila a cada camada.
+
+Como guardar do jeito certo 📦
+
+1. Saco zip grosso + 2 saquinhos de sílica. Custa centavos e salva bobina de R$ 120.
+2. Caixa hermética com borracha na tampa funciona igual a dry box cara.
+3. Higrômetro barato dentro da caixa: abaixo de 20% de umidade está ótimo.
+4. Filamento já molhado? Forno a 50 °C por 4 h (PLA) ou 65 °C por 6 h (PETG) recupera quase tudo.
+
+⚠️ Erro que todo mundo comete: deixar a bobina pendurada na impressora por semanas "porque vou usar de novo amanhã". O amanhã vira um mês e o rolo absorve umidade o tempo todo. Terminou a impressão, voltou pra caixa. 💧
+
+Dica extra: anote marca, cor e temperatura que funcionou na etiqueta da bobina. Daqui a seis meses você não lembra e perde horas recalibrando o que já tinha acertado. ✍️
+
+Filamento bem guardado imprime melhor que impressora cara com filamento ruim. Simples assim. ⚙️
+
+Me conta aqui embaixo 👇 Você guarda suas bobinas em caixa fechada ou deixa tudo na prateleira mesmo? 🤔
+
+Salva esse post pra lembrar na hora de guardar e marca aquele amigo que tem 10 bobinas abertas tomando vento. 🙃
+
+#impressao3d #impressora3d #filamento #pla #petg #manufaturaaditiva #maker #makerbrasil #impressao3dbrasil #3dprinting #3dprinter #fdm #bancadamaker #pecas3d
