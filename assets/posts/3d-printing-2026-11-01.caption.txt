@@ -1,0 +1,21 @@
+Verde, brilhante e a poucos centímetros de virar peça. ✨
+
+Esse é o momento zero de qualquer impressão 3D: o filamento entrando no conjunto de tração. Nessa macro dá pra ver as duas engrenagens dentadas mordendo o fio dos dois lados — o famoso dual drive. É literalmente o único ponto da impressora que empurra material. Todo o resto (motor, hotend, bico) só existe pra dar condição pra esse aperto funcionar.
+
+E a precisão aqui é absurda. ⚙️
+
+🔸 1,75 mm é o diâmetro padrão — uma variação de 0,05 mm já aparece como parede irregular na peça.
+🔸 As engrenagens giram frações de milímetro por vez, repetindo o movimento milhares de vezes numa única impressão.
+🔸 O retract, aquele recuo que evita fiapo, acontece exatamente aqui: o fio sendo puxado de volta alguns milímetros.
+
+Por isso calibrar o fluxo (e os passos do extrusor, os e-steps) muda tanto o resultado. Se a impressora acha que empurrou 100 mm mas empurrou 97, toda peça sai subextrudada — e você vai culpar a temperatura, o filamento, o modelo... menos o verdadeiro responsável. 😅
+
+Teste simples: marque 120 mm de filamento com caneta, mande extrudar 100 mm e meça o que sobrou. Se não sobraram exatos 20 mm, tá na hora de calibrar. 📏
+
+Detalhe que pouca gente nota: filamento com brilho assim é sinal de fio bem armazenado. PLA que tomou umidade fica opaco, quebradiço e estala no bico. Sílica na caixa resolve. 💧
+
+Toda peça que você admira começou assim — um fio colorido sendo agarrado por duas engrenagens, no escuro, com a força exata. 🔩
+
+Você já calibrou os passos do seu extrusor? 👇 Conta nos comentários e salva esse post pra fazer o teste dos 100 mm no fim de semana! 📌
+
+#impressao3d #impressora3d #extrusor #dualdrive #manufaturaaditiva #filamento #pla #maker #makerbrasil #diy #3dprinting #3dprinter #fdm #prototipagem #tecnologia #macrofotografia #impressao3dbrasil #projetos3d #calibracao #engenharia
