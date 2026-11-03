@@ -1,0 +1,24 @@
+Peça saiu da mesa. Ainda não saiu pronta. 🔴🛠️
+
+Esse mancal aqui imprimiu limpo — paredes firmes, furos no lugar, reforço inteiro — mas ficou aquela crosta de suporte na aba lateral. Cinco minutos de lima e a peça deixa de "parecer impressa" pra virar peça de verdade.
+
+O acabamento manual que resolve 90% dos casos 👇
+
+1️⃣ Lima antes de lixa. Marca de suporte é relevo, não aspereza. Lima agulha tira o volume em segundos; lixa só espalha e arredonda a quina.
+2️⃣ Sempre no sentido da camada. Trabalhando na direção das linhas de impressão, o risco some no desenho da peça. Atravessado, você abre uma cicatriz branca que aparece de longe.
+3️⃣ Pressão leve e constante. PLA esquenta e borracha se você forçar. Passada curta, peso só da mão, limpando a lima toda hora.
+4️⃣ Escalada de grana: 220 → 400 → 600. Pulou etapa, o risco grosso fica lá embaixo do brilho — e só aparece depois que você pintou. 😬
+5️⃣ Furo funcional não se lixa: se passa parafuso ou eixo, resolve com broca/alargador na medida. Lixa dentro do furo tira concentricidade e a peça perde o encaixe.
+
+⚠️ O detalhe que quase ninguém comenta: esse pozinho vermelho voando na foto é plástico fino no ar. Lixa a seco só com máscara, ou faz o acabamento com a peça molhada — lixa d'água mata a poeira e ainda deixa a superfície mais lisa.
+
+🔎 Dica de fatiador: antes de lixar o próximo, gira a peça. Metade das marcas de suporte some só mudando a orientação na mesa — a melhor lixada é a que você não precisa dar. 😉
+
+E o teste final não é o olho, é a unha: passa a unha na emenda. Se não engancha, tá pronta pra montagem. 👌
+
+Me conta aqui embaixo 👇
+Você é time lima + lixa d'água ou time alisar tudo no fatiador e nem encostar? 🤔
+
+Comenta que eu respondo um por um! Salva pra consultar na próxima peça e marca o amigo que tem uma caixa de peças esperando acabamento. 😅
+
+#impressao3d #impressora3d #pecas3d #acabamento #lixa #posprocessamento #pla #petg #filamento #3dprinting #printing3d #fdm #maker #makerbrasil #impressao3dbrasil #bancadamaker #oficina #prototipagem #fabricacaodigital #engenharia #diy #facavocemesmo
