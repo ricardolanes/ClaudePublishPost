@@ -1,0 +1,21 @@
+Aquele "tec… tec… tec" no meio da impressão começa exatamente aqui. 🔊
+
+Essa macro mostra o conjunto de tração mordendo um filamento laranja: duas engrenagens dentadas apertando um fio de 1,75 mm com uma força que precisa ser firme — mas não esmagadora. Quando esse equilíbrio desanda, a impressora avisa com som. E quase sempre a gente culpa o lugar errado. 😅
+
+O clique é o extrusor patinando: ele tenta empurrar, não consegue, e pula. O resultado aparece algumas camadas depois — parede fina, falha no topo, peça subextrudada. ⚙️
+
+As causas, em ordem de frequência:
+
+🔸 Bico entupido ou temperatura baixa — o plástico não derrete rápido o bastante e a resistência volta toda pro motor. Suba 5 °C e observe.
+🔸 Tensão do idler errada — apertado demais achata o fio e ele trava na entrada do tubo; frouxo demais escorrega.
+🔸 Dentes cheios de pó de plástico — o fio já foi moído antes e as engrenagens estão entupidas. Escova de dentes seca resolve em 30 segundos. 🪥
+🔸 Filamento úmido — PLA que tomou umidade estala, incha no bico e exige mais força pra passar. 💧
+🔸 Bobina travada na haste — o motor não tem torque pra desenrolar a spool inteira.
+
+Teste de 10 segundos: puxe o filamento e olhe o trecho que estava entre as engrenagens. Marquinhas nítidas dos dentes, fio ainda redondo = aperto correto. Uma marca lisa e achatada = moagem. ✂️ Nesse caso, corte o pedaço danificado antes de recarregar — plástico moído entope o PTFE mais pra frente e vira um problema bem pior.
+
+Repare na foto: o fio entra redondo, sai redondo e brilhante. É assim que tem que ser. ✨
+
+Seu extrusor já te deu esse susto? 👇 Comenta qual era a causa no seu caso — e salva o post pra consultar quando o clique aparecer de madrugada. 📌
+
+#impressao3d #impressora3d #extrusor #filamento #manufaturaaditiva #pla #maker #makerbrasil #diy #3dprinting #3dprinter #fdm #prototipagem #tecnologia #macrofotografia #impressao3dbrasil #projetos3d #manutencao #dicas3d #engenharia
