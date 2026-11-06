@@ -1,0 +1,24 @@
+A peça saiu da mesa. Agora vem o único teste que importa: a luz. 💎🔍
+
+Esse suporte em turquesa saiu agora, ainda morno. E antes de comemorar, ele vai pro contraluz — é ali que a peça conta a verdade que a tela do fatiador escondeu.
+
+O que eu procuro quando levanto uma peça contra a luz 👇
+
+1️⃣ Camada translúcida demais = parede fina. Se a luz atravessa onde devia ser sólido, faltou perímetro. Aumenta pra 3 ou 4 paredes antes de culpar o filamento.
+2️⃣ Linha mais escura no meio da altura. Quase sempre é variação de temperatura ou umidade no rolo. Aparece como uma faixa fosca no meio do brilho.
+3️⃣ Furo ovalizado. Gira devagar: se o círculo "respira", é folga de correia ou velocidade demais na curva. 🎯
+4️⃣ Quina com brilho diferente. Brilho localizado = material acumulado, bico desacelerando e depositando a mais no canto. Mexe no jerk/aceleração, não na temperatura.
+5️⃣ Degrau onde a peça muda de espessura. Passa o dedo: se engancha, a camada deslocou — checa a haste Z e o aperto da polia.
+
+⚠️ O erro clássico: avaliar peça com ela deitada na bancada. De cima você só vê a camada do topo, que é sempre a mais bonita. Os defeitos moram nas laterais, e eles só aparecem com luz rasante atravessando.
+
+🔎 Dica de bancada: faz essa inspeção ANTES de tirar o suporte. Peça inteira é referência — depois que você quebra as estruturas, fica difícil saber se a marca veio da impressão ou da sua chave de fenda. 😅
+
+E tem a parte que ninguém confessa: metade da gente levanta a peça contra a luz só pra admirar mesmo. As linhas pegando o reflexo são hipnóticas. 🙃
+
+Me conta aqui embaixo 👇
+Qual é o SEU ritual quando a peça sai da mesa: inspeção técnica ou foto antes de qualquer coisa? 📸
+
+Comenta que eu respondo um por um! Salva pra lembrar na próxima impressão e marca aquele amigo que aprova tudo sem olhar. 👀
+
+#impressao3d #impressora3d #pecas3d #pla #filamento #3dprinting #fdm #maker #makerbrasil #impressao3dbrasil #bancadamaker #prototipagem #engenharia #fabricacaodigital #qualidade #diy #facavocemesmo #oficina
