@@ -1,0 +1,24 @@
+Uma parede só. Zero preenchimento. E mesmo assim é a peça que mais impressiona na bancada. 🌀🧡
+
+A A1 está rodando um vaso em modo espiral — o bico sobe num movimento contínuo, sem nunca parar pra fechar camada. Por isso a superfície tem esse brilho torcido: não existe costura. A peça inteira é uma linha só de laranja.
+
+O que faz um vaso em espiral sair liso de verdade 👇
+
+1️⃣ Largura de extrusão acima do bico. Bico 0,4? Configura 0,6. Parede única só fica firme se for mais gorda que o padrão — senão o vaso amassa na mão.
+2️⃣ Velocidade constante, sem picos. O Z sobe o tempo todo; aceleração brusca vira ondulação visível na lateral. Trava entre 40 e 60 mm/s e deixa quieto.
+3️⃣ Resfriamento em 100% depois da terceira camada. Não tem camada seguinte pra segurar a anterior — o ventilador é a única estrutura que o vaso tem. 🌬️
+4️⃣ Base com algumas camadas sólidas. Vem ativado por padrão; se você desligar, o vaso vira funil e descobre isso só na hora de usar. 😅
+5️⃣ O modelo precisa ser um contorno fechado e contínuo. Alça ou furo quebra a espiral: o fatiador abandona o modo e volta pro normal sem avisar.
+
+⚠️ O erro mais comum: achar que vaso espiral segura água. Parede única em FDM sempre tem microporo. Quer usar de verdade? Põe um copo de vidro dentro ou passa epóxi por dentro.
+
+🔎 Dica de bancada: imprime na cor mais brilhante que você tiver. A torção pega a luz de um jeito que cor fosca não entrega — foi por isso que escolhi o laranja. ✨
+
+Uma parede, 1 hora de impressão, 30 g de filamento. É o melhor custo-benefício de "uau" que a impressão 3D tem. 🏆
+
+Me conta aqui embaixo 👇
+Você já imprimiu em modo vaso ou ainda acha que peça boa precisa de preenchimento? 🤔
+
+Comenta que eu respondo um por um! Salva pra testar no próximo rolo e marca o amigo que imprime tudo com 40% de infill sem precisar. 😂
+
+#impressao3d #impressora3d #bambulab #modovaso #vasemode #pla #filamento #3dprinting #fdm #maker #makerbrasil #impressao3dbrasil #bancadamaker #decoracao #prototipagem #diy #oficina
