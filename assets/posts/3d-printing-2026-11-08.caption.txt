@@ -1,0 +1,24 @@
+A impressão inteira é decidida aqui. Nos primeiros 0,2 mm. 🔎💙
+
+Essa é a primeira camada de uma peça em turquesa sendo desenhada na mesa texturizada. O bico está fazendo o contorno externo — e dá pra ver que a linha está lisa, encostada no vizinho, sem bolha e sem falha. Se essa volta sai certa, o resto é só repetição. Se sai errada, você vai descobrir daqui a 4 horas. 😬
+
+Como ler a primeira camada enquanto ela ainda está saindo 👇
+
+1️⃣ A linha tem que ficar achatada, não redonda. Fio com cara de espaguete = bico longe da mesa. Abaixa o Z offset em 0,02 mm e olha de novo.
+2️⃣ As linhas vizinhas precisam se tocar. Vão riscos de mesa aparecendo entre elas? Faltou material ou sobrou distância — nunca sobe a temperatura pra tentar resolver isso.
+3️⃣ Translúcido demais e com o granulado da mesa marcando por cima = bico perto demais. O plástico está sendo esmagado e vai acumular no bico. 🧱
+4️⃣ Brilho uniforme do começo ao fim. Mudou de brilho no meio da mesa? Mesa torta ou nivelamento automático ignorado.
+5️⃣ A quina tem que fechar sem arredondar. Canto levantando já na primeira camada é aviso de warp: aumenta a temperatura da mesa em 5 °C.
+
+⚠️ O erro que mais cancela impressão boa: mesa suja. Gordura de dedo não aparece na foto, mas a peça solta. Álcool isopropílico antes de cada impressão, e só pega a chapa pelas bordas. 🧼
+
+🔎 Dica de bancada: fica os 2 primeiros minutos olhando. É o investimento de tempo com melhor retorno na impressão 3D — cancelar e refazer agora custa 2 minutos, descobrir depois custa a noite inteira. ⏱️
+
+Mesa texturizada ainda dá aquele acabamento fosco gostoso embaixo da peça. Primeira camada boa é metade estética, metade engenharia. ✨
+
+Me conta aqui embaixo 👇
+Você assiste a primeira camada ou aperta o play e sai de perto? 😄
+
+Comenta que eu respondo um por um! Salva pra conferir antes da próxima impressão e marca o amigo que nunca calibra o Z offset. 😅
+
+#impressao3d #impressora3d #primeiracamada #zoffset #nivelamento #pla #filamento #3dprinting #fdm #maker #makerbrasil #impressao3dbrasil #bancadamaker #prototipagem #calibracao #diy #oficina
