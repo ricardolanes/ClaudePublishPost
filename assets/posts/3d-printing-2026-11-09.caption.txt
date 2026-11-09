@@ -1,0 +1,24 @@
+Engrenagem, suporte, miniatura e apoio de celular na mesma bancada. Nenhuma foi impressa com a mesma configuração. 🧰⚙️
+
+Essa é a bancada depois de uma semana imprimindo: duas engrenagens, dois suportes em L, um robozinho e um apoio de celular — mais o rolo, a fita azul e a espátula que fazem o trabalho sujo. Parece tudo "peça impressa", mas cada uma pede um ajuste diferente no fatiador. 📦
+
+Como eu configuro cada tipo 👇
+
+1️⃣ Engrenagem: parede resolve, preenchimento não. 4 perímetros com 20% de infill seguram mais torque que 2 perímetros com 60%. O dente quebra de fora pra dentro — é lá que o material precisa estar. ⚙️
+2️⃣ Suporte em L: imprime deitado, nunca em pé. A colagem entre camadas é o elo fraco; se a força atravessar as camadas, a peça parte no primeiro aperto do parafuso. 🔩
+3️⃣ Miniatura: camada de 0,12 mm e velocidade baixa. Tempo não é critério, detalhe é. E resfriamento no máximo, senão o rosto vira bolha derretida. 🤖
+4️⃣ Apoio de celular: precisa de peso e atrito. Infill alto só na base e o acabamento fosco da mesa texturizada embaixo, pra não escorregar no tampo. 📱
+5️⃣ Furo de parafuso: desenha 0,2 mm maior que o nominal. O plástico encolhe ao esfriar — todo furo apertado na bancada nasceu certinho no CAD. 📐
+
+⚠️ O erro que mais enche gaveta: imprimir tudo no perfil padrão "rápido". Serve pro protótipo que você vai jogar fora, não pra peça que vai trabalhar. 2 minutos no perfil economizam 4 horas de reimpressão. ⏱️
+
+🔎 Dica de bancada: deixa a espátula e a fita do lado da impressora, não na gaveta. Ferramenta longe é ferramenta que você não usa. 🧼
+
+O que separa bancada bonita de bancada útil não é a impressora. É saber o que cada peça precisa antes de apertar o play. ✨
+
+Me conta aqui embaixo 👇
+Qual foi a última peça útil de verdade que você imprimiu? 🤔
+
+Comenta que eu respondo um por um! Salva pra consultar antes da próxima fatiada e marca o amigo que imprime tudo no perfil padrão. 😅
+
+#impressao3d #impressora3d #pecas3d #engrenagem #filamento #pla #3dprinting #fdm #maker #makerbrasil #impressao3dbrasil #bancadamaker #prototipagem #funcional #diy #oficina
