@@ -1,0 +1,24 @@
+Metade da peça pronta, metade ainda no ar. Esse é o momento que separa impressão boa de reimpressão. ⏳🖨️
+
+As pernas e as botas da armadura já saíram com as camadas marcadas, mas o corpo parou na cintura — e o bico está ali parado logo acima, esperando a próxima camada. Filamento prateado, brilho de metal e aquela tensão de quem olha e pensa: deixa rodar ou cancela agora? 🤔
+
+O que eu checo quando a peça está pela metade 👇
+
+1️⃣ A linha de corte não mente. Olha o topo da camada atual: se já tem textura áspera, bolha ou fio solto, isso vai piorar nas próximas 300 camadas, não melhorar. 🔍
+2️⃣ Peça alta pede atenção ao balanço. Perna fina e corpo largo em cima = centro de massa subindo. Reduz a aceleração nos 30% finais e evita o "ringing" nas bordas. 📉
+3️⃣ Filamento metálico esconde um defeito e revela outro. O brilho disfarça linha de camada, mas qualquer under-extrusion vira risco fosco no meio do cromado. ✨
+4️⃣ Overhang chega sem avisar. O que vem depois da cintura (braço, ombro, cabeça) quase sempre precisa de suporte — e é melhor descobrir isso no fatiador que às 2h de impressão. 🧱
+5️⃣ Resfriamento alto não é sempre amigo. Em peça de camada pequena ajuda no detalhe, mas exagerou, a colagem entre camadas some e a peça racha no pós-processamento. 🌬️
+
+⚠️ O erro clássico: pausar a impressão pra "dar uma olhadinha" e tocar na peça. O calor da camada ativa é o que cola a próxima. Mexeu, esfriou, descolou. Olha, não encosta. 🙅
+
+🔎 Dica rápida: grava time-lapse. Quando falhar, você vê exatamente em qual camada começou — e isso vale mais que qualquer chute no perfil. 🎥
+
+Impressão 3D é 10% apertar o play e 90% saber a hora de deixar rodar. 🚀
+
+Me conta aqui embaixo 👇
+Você cancela uma impressão na metade ou deixa terminar só pra ver no que dá? 😅
+
+Comenta que eu respondo um por um! Salva pra lembrar antes da próxima peça alta e marca aquele amigo que não resiste e abre a impressora no meio. 🧡
+
+#impressao3d #impressora3d #pecas3d #filamento #pla #3dprinting #fdm #maker #makerbrasil #impressao3dbrasil #miniatura #prototipagem #armadura #timelapse #oficina #diy
