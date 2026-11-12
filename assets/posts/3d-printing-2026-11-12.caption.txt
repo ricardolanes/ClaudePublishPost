@@ -1,0 +1,22 @@
+Olha a quina. É ali que a primeira camada te entrega. 🔎✨
+
+Macro do bico de latão fechando o canto do contorno externo, ainda na camada 1. A luz quente bate rasante na chapa texturizada e mostra o que ninguém vê a olho nu: a linha saiu achatada, grudada, com brilho uniforme — e o cordão vizinho encostou no primeiro sem deixar aquele risco de mesa no meio. Primeira camada assim é impressão ganha. 💪
+
+Por que a quina é o ponto mais difícil da camada inicial 👇
+
+1️⃣ No canto o bico PARA e troca de direção. A extrusora continua empurrando por uma fração de segundo — é daí que nasce aquela bolinha de material no vértice.
+2️⃣ Olha na foto: tem uma gotinha presa na ponta do bico. Normal no começo, vira problema quando acumula e cai em cima da peça. Capricha no purge line antes de começar. 🧹
+3️⃣ Velocidade de primeira camada alta arredonda o canto. Deixa em 20–25 mm/s e deixa a máquina desenhar com calma. 🐢
+4️⃣ Canto que levanta na camada 1 é warp começando. Sobe a mesa 5 °C e fecha a porta/capa se o material pedir.
+5️⃣ Aceleração e jerk altos fazem o canto "estourar" pra fora. Se seus contornos estão com orelha na quina, mexe aí antes de culpar o filamento.
+
+⚠️ E o bico sujo da foto? Latão com resíduo queimado muda o fluxo e arrasta sujeira pra cima da peça. Esquenta a 200 °C, desliga, e limpa com pano de algodão + pinça. Nunca raspa frio. 🔥
+
+🎯 Resumo de bancada: contorno externo liso + quina fechada + brilho igual do começo ao fim = pode sair de perto e deixar rodar. Faltou um desses? Cancela agora, perde 2 minutos. Insiste? Perde a noite. ⏱️
+
+Me conta aqui embaixo 👇
+Qual é o SEU teste pra saber se a primeira camada tá boa: olho na linha, unha na borda, ou fé e esperança? 😂
+
+Comenta que eu respondo um por um! Salva esse post pra olhar antes da próxima impressão e marca aquele amigo que ainda imprime com bico sujo. 😅
+
+#impressao3d #impressora3d #primeiracamada #camadainicial #zoffset #nivelamento #bico #nozzle #pla #filamento #3dprinting #fdm #maker #makerbrasil #impressao3dbrasil #bancadamaker #prototipagem #calibracao #diy #oficina
