@@ -1,0 +1,23 @@
+Tudo nessa foto saiu do MESMO carretel. E nenhuma peça foi fatiada igual. 🤍⚙️
+
+Flat lay da bancada de hoje: um rolo de filamento natural, oito engrenagens, um vaso facetado, um suporte de celular, uma miniatura e o estilete que fecha o serviço. Uma cor só, zero troca de material — a diferença toda aconteceu no fatiador. 🧠
+
+O que cada peça dessa foto exigiu 👇
+
+1️⃣ As engrenagens: o segredo tá na parede, não no preenchimento. 4 perímetros resolvem mais que 50% de infill, porque o dente quebra de fora pra dentro. E repara: as pequenas têm o mesmo módulo das grandes — quem erra a tolerância do furo central perde o jogo aqui. ⚙️
+2️⃣ O vaso facetado: isso é vase mode (espiral). Uma parede contínua, sem costura e sem infill. Sobe a largura de extrusão pra 0,6 mm, senão fica frágil feito casca de ovo. Cada quina dessas é um ponto onde o bico desacelera: aceleração alta vira fantasma na superfície. 🏺
+3️⃣ O suporte de celular: imprime DEITADO, com a face inclinada na mesa. Em pé, a camada vira o elo fraco e ele abre no primeiro celular pesado que encostar. 📱
+4️⃣ A miniatura: 0,12 mm de camada, velocidade baixa e ventoinha no talo. Detalhe pequeno não perdoa resfriamento fraco — capacete e mãos são os primeiros a virar bolha. 🪖
+
+⚠️ Filamento branco/natural é o mais traiçoeiro que existe: ele esconde defeito na tela do slicer e entrega TUDO na luz lateral. Se sua peça branca tá com linha irregular, não é a cor — é fluxo descalibrado. Roda um teste de flow antes de culpar o rolo. 🔍
+
+🔪 E o estilete ali não é enfeite: 90% do acabamento é tirar a aba da primeira camada e limpar a boca dos furos. 2 minutos de faca valem 2 horas de lixa.
+
+💡 Um carretel de 1 kg dá MUITA peça. O que acaba primeiro não é o filamento — é a paciência de configurar direito cada uma. 😅
+
+Me conta aqui embaixo 👇
+Dessas aí, qual você imprimiria primeiro: engrenagem, vaso, suporte ou miniatura? 🤔
+
+Comenta que eu respondo um por um! Salva pra consultar na próxima fatiada. 🙃
+
+#impressao3d #impressora3d #flatlay #engrenagem #vasemode #filamento #pla #miniatura #3dprinting #fdm #maker #makerbrasil #impressao3dbrasil #bancadamaker #calibracao #slicer #diy #oficina #pecas3d
