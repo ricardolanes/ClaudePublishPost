@@ -1,0 +1,26 @@
+Seis peças na bancada e nenhuma delas saiu da impressora pronta pra usar. 🧰⚙️
+
+Engrenagem, cantoneira, suportes, apoio de celular, o robozinho. Parece fim de projeto, mas tirar da mesa é o meio do caminho: o que você faz nos 10 minutos seguintes decide se a peça vira ferramenta ou enfeite de gaveta. 📦
+
+Meu checklist de pós-impressão 👇
+
+1️⃣ Mata a aba de elefante antes de tudo. A primeira camada sempre espalha um pouco. Passa o estilete em 45° na borda de baixo, girando a peça na mão. Sem isso ela nunca assenta reta — nem na mesa, nem contra outra peça. 🔪
+
+2️⃣ Testa o encaixe a seco, sem parafuso. Furo da cantoneira, eixo da engrenagem, trilho do suporte: entra na mão primeiro. Se já precisa de força agora, com o parafuso apertando ela racha em serviço. 🔩
+
+3️⃣ Mede dois números, não a peça inteira. Paquímetro no diâmetro do furo e na espessura da parede que vai receber carga. Esses dois já denunciam se o fatiador está mentindo pra você. 📏
+
+4️⃣ Anota o perfil na própria peça. Caneta fina embaixo: material, altura de camada, nº de perímetros. Daqui a três meses você vai querer exatamente essa engrenagem de novo — e não vai lembrar de nada. ✍️
+
+5️⃣ Guarda por projeto, não por cor. Caixinha do projeto com peça, parafuso e sobra de filamento junto. Bancada organizada por cor é bonita na foto e inútil na hora de montar. 🗂️
+
+🔎 Dica de bancada: espátula e fita azul moram ao lado da impressora, nunca na gaveta. Ferramenta longe é ferramenta que não se usa. 🧼
+
+Imprimir é a parte fácil. O acabamento de 10 minutos é o que separa protótipo de peça. ✨
+
+Me conta aqui embaixo 👇
+Você faz algum ritual depois que a peça sai da mesa, ou já sai usando? 🤔
+
+Comenta que eu respondo um por um! Salva pra consultar na próxima fornada e marca o amigo que tem uma gaveta cheia de peça que nunca encaixou. 😅
+
+#impressao3d #impressora3d #pecas3d #engrenagem #filamento #pla #3dprinting #fdm #maker #makerbrasil #impressao3dbrasil #bancadamaker #prototipagem #pecasfuncionais #diy #oficina
