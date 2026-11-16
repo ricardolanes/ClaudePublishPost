@@ -1,0 +1,24 @@
+Três linhas. Zero fresta. É assim que começa uma peça boa. 🔥
+
+Macro da camada 1 fechando o canto: o bico acabou de virar a quina e deixou os contornos colados um no outro, com brilho espelhado de ponta a ponta. Repara que não tem risco preto entre os cordões — isso é o PRINCIPAL sinal de que o squish está certo. 👀
+
+O que eu leio nessa foto, em 30 segundos 👇
+
+1️⃣ BRILHO UNIFORME = altura certa. Linha fosca e redondinha é bico alto demais. Linha transparente, com a textura da chapa aparecendo através dela, é bico baixo demais raspando o PEI. Aqui tá no ponto. ✅
+
+2️⃣ SEM FRESTA ENTRE OS CORDÕES. Se dá pra ver a mesa entre um contorno e outro, não é z-offset: é largura de linha. Com bico 0,4 mm use 0,42–0,45 mm na primeira camada e os cordões se abraçam sozinhos. 🤝
+
+3️⃣ QUINA FECHADA, SEM BOLINHA. No canto o bico para e inverte o sentido, e a extrusora continua empurrando por um instante. Velocidade de 20–25 mm/s na camada 1 dá tempo da máquina desenhar o canto em vez de atropelar. 🐢
+
+4️⃣ FILAMENTO BRILHOSO ENGANA O OLHO. Silk e metálico refletem a luz e escondem falha de adesão. Olha sempre de lado, com luz rasante — igual essa da foto — e não de cima. 💡
+
+🧽 O detalhe que todo mundo pula: chapa limpa. Gordura de dedo não aparece na camada 1, aparece na hora que a peça solta no meio da impressão. Água quente + detergente neutro, secou, pode imprimir. Álcool só tira poeira, não tira gordura. 😉
+
+⏱️ Regra de ouro: primeira camada ruim NÃO melhora na camada 50. Cancela nos 2 primeiros minutos, ajusta e recomeça. Sai muito mais barato que 9 horas de espaguete.
+
+Me conta aqui embaixo 👇
+Você ajusta o z-offset no olho, no papel sulfite ou confia no nivelamento automático e sai pro abraço? 😄
+
+Comenta que eu respondo todo mundo! Salva pra conferir antes da próxima impressão e marca aquele amigo que insiste em deixar rodar "pra ver no que dá". 😂
+
+#impressao3d #impressora3d #primeiracamada #camadainicial #zoffset #nivelamento #squish #bico #nozzle #pla #filamento #filamentosilk #3dprinting #fdm #maker #makerbrasil #impressao3dbrasil #bancadamaker #calibracao #prototipagem #diy #oficina
