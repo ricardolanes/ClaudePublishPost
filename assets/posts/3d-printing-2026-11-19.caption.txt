@@ -1,0 +1,24 @@
+Essa bancada tem 7 peças. E NENHUMA foi impressa com a mesma configuração. 🧰✨
+
+Engrenagem vermelha, suporte de celular preto, robozinho laranja, braçadeira verde, cantoneira azul... parece tudo "peça impressa". Mas cada uma dessas pede um ajuste diferente — e é aí que a maioria erra. 👀
+
+O que muda de peça pra peça 👇
+
+1️⃣ ENGRENAGEM: medida acima de tudo. Dente estourado não encaixa, e o vilão quase sempre é superextrusão. Calibra o fluxo, usa 3 ou 4 paredes e deita a engrenagem no plano — dente impresso em pé perde resistência e precisão. ⚙️
+
+2️⃣ SUPORTE DE CELULAR: pensa na direção da força. O peso do telefone empurra a aba pra frente, e camada se separa justo nesse sentido. Imprime ele deitado na lateral (não em pé) e as linhas de camada passam a trabalhar a favor. 📱
+
+3️⃣ BRAÇADEIRA E CANTONEIRA: parede ganha de preenchimento. Peça funcional não precisa de 60% de infill — precisa de 4 a 5 perímetros e 20% de preenchimento. Parede é o que segura o parafuso; miolo cheio só gasta filamento e tempo. 🔩
+
+4️⃣ ROBOZINHO E MINIATURA: aqui é camada fina. Caiu pra 0,12 mm, o rosto aparece. Bico de 0,4 dá conta, mas se a peça tem detalhe pequeno demais, nenhuma altura de camada salva — o 0,2 de bico existe pra isso. 🤖
+
+5️⃣ TUDO JUNTO NA MESMA MESA: o erro clássico. Imprimir 7 peças de uma vez parece esperto, até uma soltar e o bico arrastar ela por cima das outras. Peça alta e fininha vai sozinha. Peça baixa pode dividir a mesa numa boa. 🧲
+
+🔧 Repara na espátula e na fita azul no canto: ferramenta na bancada não é enfeite, é parte do processo. A impressão acaba quando a peça tá limpa, não quando a mesa esfria. ✅
+
+Me conta aqui embaixo 👇
+Qual dessas você já imprimiu? Engrenagem, suporte de celular ou braçadeira? 🤔
+
+Comenta que eu respondo um por um! Salva pra consultar antes do próximo fatiamento e marca aquele amigo que imprime tudo com a mesma config. 😅
+
+#impressao3d #impressora3d #pecas3d #engrenagem #pecafuncional #prototipagem #filamento #pla #petg #perimetros #preenchimento #alturadecamada #fatiamento #3dprinting #fdm #maker #makerbrasil #impressao3dbrasil #bancadamaker #diy #oficina
