@@ -1,0 +1,26 @@
+Tem um parafuso e uma porca impressos nessa foto. E eles ROSQUEIAM de verdade. 🔩⚙️
+
+Flat lay da bancada de hoje: carretel de filamento natural, suporte de celular, vaso facetado, um monte de engrenagem, uma miniatura de soldado, parafuso, porcas sextavadas e o estilete de sempre. Tudo saiu do MESMO bico de 0,4 mm. 🤯
+
+O detalhe que quase ninguém repara 👇
+
+1️⃣ ROSCA IMPRESSA: é o teste mais honesto da sua calibração. Se o parafuso não entra na porca, não é o modelo — é superextrusão. Rosca é geometria fina demais pra perdoar fluxo errado. Roda o teste de flow, baixa a velocidade nas paredes externas e imprime o parafuso EM PÉ: deitado, o filete vira escada. 🪛
+
+2️⃣ A PORCA SEXTAVADA: folga de 0,2 a 0,3 mm no diâmetro é o que separa "rosqueia macio" de "travou na terceira volta". Modelou com encaixe exato no CAD? Vai travar. Plástico não é metal: a camada incha. 📐
+
+3️⃣ ENGRENAGEM GRANDE X ENGRENAGEM MINÚSCULA: repara que tem dente de todo tamanho ali. A pequenininha é a mais difícil — camada curta demais não dá tempo de esfriar antes do bico voltar. Solução: imprime várias juntas na mesa. Mais distância entre uma camada e outra = dente definido. ❄️
+
+4️⃣ O VASO FACETADO: vase mode, uma parede só, zero infill. Largura de extrusão em 0,6 mm pra não virar casca de ovo. 🏺
+
+5️⃣ A MINIATURA: 0,12 mm de camada e ventoinha no máximo. Capacete e mãos são os primeiros a virar bolha com resfriamento fraco. 🪖
+
+⚠️ Filamento natural entrega tudo na luz lateral: linha irregular em peça clara não é a cor — é fluxo. 🔍
+
+🔪 E o estilete ali é a ferramenta mais importante da bancada: limpar a boca do furo resolve 90% do acabamento.
+
+Me conta aqui embaixo 👇
+Você já imprimiu rosca que funcionou de primeira? Ou travou na porca igual todo mundo? 😅
+
+Comenta que eu respondo um por um! Salva pra consultar antes da próxima peça com rosca. 🙌
+
+#impressao3d #impressora3d #rosca3d #parafusoimpresso #engrenagem #vasemode #filamento #pla #miniatura #calibracao #fluxo #tolerancia #fatiamento #3dprinting #fdm #maker #makerbrasil #impressao3dbrasil #bancadamaker #pecas3d #diy #oficina
