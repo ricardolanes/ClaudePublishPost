@@ -6,7 +6,7 @@ O que a bancada de hoje ensina 👇
 
 1️⃣ A CANTONEIRA VERMELHA: imprime deitada, com o L apoiado na mesa. Em pé, todo o esforço cai perpendicular às camadas e ela racha na primeira pancada. Peça funcional é assim: a orientação decide mais que o material. 📐
 
-2️⃣ OS FUROS: 4 furos, e provavelmente todos saíram menores que o CAD. Furo impresso encolhe de 0,1 a 0,3 mm por causa do inchaço da camada. Modela com folga ou passa a broca depois — forçar parafuso em furo apertado é rachadura garantida. 🪛
+2️⃣ OS FUROS: todos saíram menores que o CAD. Furo impresso encolhe de 0,1 a 0,3 mm por causa do inchaço da camada. Modela com folga ou passa a broca depois — forçar parafuso em furo apertado é rachadura garantida. 🪛
 
 3️⃣ AS DUAS ENGRENAGENS (amarela e laranja): dente grande perdoa, dente pequeno não. A laranja ali do canto pede camada mais fina e, de preferência, companhia na mesa — mais tempo entre camadas = dente definido. ⚙️
 
@@ -21,6 +21,6 @@ O que a bancada de hoje ensina 👇
 Me conta aqui embaixo 👇
 Você já quebrou uma cantoneira na dobra do L? Ou imprime tudo com aleta desde sempre? 🤔
 
-Comenta que eu respondo um por um! Salva pra consultar antes do próximo suporte e marca aquele amigo que imprime peça funcional em pé. 😅
+Comenta que eu respondo um por um! Salva pra consultar antes do próximo suporte. 😅
 
-#impressao3d #impressora3d #pecafuncional #cantoneira #suporte3d #engrenagem #orientacaodepeca #perimetros #tolerancia #furo #filamento #pla #petg #fatiamento #3dprinting #fdm #maker #makerbrasil #impressao3dbrasil #bancadamaker #pecas3d #diy #oficina
+#impressao3d #impressora3d #pecafuncional #cantoneira #suporte3d #engrenagem #orientacaodepeca #perimetros #tolerancia #furo #filamento #pla #petg #fatiamento #3dprinting #fdm #maker #makerbrasil #impressao3dbrasil #pecas3d
