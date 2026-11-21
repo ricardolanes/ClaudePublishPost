@@ -1,0 +1,26 @@
+Essa cantoneira vermelha tem um detalhe que dobra a resistência dela. E não é infill. 🔺🔩
+
+Repara na peça em foco: é um suporte em L com uma ALETA TRIANGULAR no meio. Aquele triângulo não é enfeite nem sobra de modelagem — é o que impede a aba de abrir quando a peça pega carga. Sem ele, a cantoneira quebra exatamente na dobra do L. Com ele, a força se distribui. 💪
+
+O que a bancada de hoje ensina 👇
+
+1️⃣ A CANTONEIRA VERMELHA: imprime deitada, com o L apoiado na mesa. Em pé, todo o esforço cai perpendicular às camadas e ela racha na primeira pancada. Peça funcional é assim: a orientação decide mais que o material. 📐
+
+2️⃣ OS FUROS: 4 furos, e provavelmente todos saíram menores que o CAD. Furo impresso encolhe de 0,1 a 0,3 mm por causa do inchaço da camada. Modela com folga ou passa a broca depois — forçar parafuso em furo apertado é rachadura garantida. 🪛
+
+3️⃣ AS DUAS ENGRENAGENS (amarela e laranja): dente grande perdoa, dente pequeno não. A laranja ali do canto pede camada mais fina e, de preferência, companhia na mesa — mais tempo entre camadas = dente definido. ⚙️
+
+4️⃣ O SUPORTE DE CELULAR AZUL: deitado na lateral, sempre. O peso do telefone empurra a aba pra frente e é justo nesse sentido que a camada se separa. 📱
+
+5️⃣ O ROBOZINHO CINZA: miniatura é outro jogo. 0,12 mm de camada, ventoinha no talo, e paciência. Braço fininho é o primeiro a virar bolha. 🤖
+
+🔪 E repara nas DUAS espátulas na mesa: não é exagero. Uma pra soltar peça grande, outra fininha pra enfiar embaixo de peça pequena sem marcar a chapa. Mais a fita azul pro que insiste em soltar. 🧲
+
+⚠️ Dica de ouro: parede ganha de preenchimento em peça funcional. 4 ou 5 perímetros e 20% de infill seguram mais que 60% de miolo cheio. 🔧
+
+Me conta aqui embaixo 👇
+Você já quebrou uma cantoneira impressa na dobra do L? Ou imprime tudo com aleta desde sempre? 🤔
+
+Comenta que eu respondo um por um! Salva pra consultar antes de imprimir seu próximo suporte e marca aquele amigo que imprime peça funcional em pé. 😅
+
+#impressao3d #impressora3d #pecafuncional #cantoneira #suporte3d #engrenagem #orientacaodepeca #perimetros #tolerancia #furo #filamento #pla #petg #fatiamento #3dprinting #fdm #maker #makerbrasil #impressao3dbrasil #bancadamaker #pecas3d #diy #oficina
