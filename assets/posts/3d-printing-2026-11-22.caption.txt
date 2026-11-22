@@ -1,0 +1,26 @@
+Quatro carretéis na bancada e só UM deles serve pra sua peça. Sabe escolher? 🧵🔥
+
+Olha a foto: PLA preto, ABS vermelho, PETG roxo e TPU verde — e é justamente o verde que está indo pro bico. Não foi sorteio. Cada um desses materiais resolve um problema diferente, e trocar na hora errada é o que faz a peça falhar. 👇
+
+1️⃣ PLA (o preto) 🖤
+Imprime fácil, quase não empena, dispensa câmara fechada. Rígido, bonito, ótimo pra protótipo, decoração e miniatura. O pecado dele: calor. Deixou dentro do carro num dia de sol? Entortou. Peça que pega temperatura NÃO é pra ele.
+
+2️⃣ ABS (o vermelho) ❤️‍🔥
+Aguenta calor e pancada, aceita lixa e acetona pra ficar liso. Em compensação é o mais chato: encolhe, descola da mesa, racha em camada se pegar vento. Precisa de cabine fechada e ambiente sem corrente de ar. Fora isso, é peça de verdade.
+
+3️⃣ PETG (o roxo) 💜
+O meio-termo que resolve 80% dos casos. Quase a facilidade do PLA, com resistência e flexibilidade bem maiores. Aguenta sol, umidade e esforço. Fica pegajoso e faz fiapo (string) se a temperatura estiver alta demais — baixa 5°C e aumenta o retract que resolve.
+
+4️⃣ TPU (o verde) 💚
+O borrachudo. Dobra, amassa, volta. Caso de capinha, rodinha, vedação, amortecedor. Só que exige imprimir DEVAGAR (20–30 mm/s) e de preferência com extrusora direct drive — em bowden ele enrosca e vira espaguete. 🍝
+
+⚠️ A dica que vale por todas: filamento bebe água do ar. PETG, TPU e nylon são os piores. Se a peça saiu com estalinho, bolha ou superfície áspera, não é a impressora — é umidade. Secadora ou 4h no forno a 50°C e ele volta a imprimir liso. 💧
+
+🔧 Regra de bolso: protótipo = PLA. Peça funcional = PETG. Calor e impacto = ABS. Tem que entortar = TPU.
+
+Me conta aqui embaixo 👇
+Qual desses quatro vive na SUA impressora? E qual deles você já jurou que nunca mais compra? 😂
+
+Comenta que eu respondo um por um! Salva esse post pra não errar na próxima compra. 📌
+
+#impressao3d #impressora3d #filamento #pla #abs #petg #tpu #filamento3d #impressao3dbrasil #maker #makerbrasil #fdm #3dprinting #3dprint #prototipagem #pecasimpressas #dicas3d #bicoquente #impressao3dcaseira #manufaturaaditiva
