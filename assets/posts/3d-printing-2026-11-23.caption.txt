@@ -1,0 +1,31 @@
+Esse brilho azul saindo do bico é 100% do seu post bonito — e 90% dos seus problemas. 🔥🔵
+
+Olha o macro: latão incandescente, filamento derretido virando um cordão vidrado na mesa e a fumacinha subindo. É só 0,4 mm de furo decidindo se a peça sai perfeita ou vira espaguete. 🍝
+
+O bico é a peça mais barata e mais ignorada da impressora. Algumas verdades sobre ele 👇
+
+1️⃣ Bico sujo imprime feio 🧼
+Aquela crosta preta queimada da foto não é "patina de maker": é plástico carbonizado. Ele descola no meio da impressão e cai dentro da peça como pontinho preto. Limpa com escova de latão SEMPRE quente (uns 200 °C) — com o bico frio você só entorta a ponta.
+
+2️⃣ Entupiu? Faz cold pull antes de comprar outro 🎣
+Aquece a 220 °C, empurra o filamento na mão, esfria até ~90 °C e puxa firme. Sai um molde do canal interno com toda a sujeira grudada. Repete 2 ou 3 vezes. Resolve a maioria dos entupimentos sem desmontar nada.
+
+3️⃣ Latão é mole, e filamento com carga come ele 🪨
+Carbono, fibra de vidro, glow, madeira e metálico são abrasivos. Em 2 ou 3 carretéis o furo de 0,4 vira 0,5 sem você perceber — e aí vem subextrusão, parede fina e medida errada. Pra esses: aço endurecido ou ponta de rubi.
+
+4️⃣ O diâmetro muda o jogo ⚖️
+0,2 mm → detalhe de miniatura, lento demais pra peça grande.
+0,4 mm → o padrão, resolve quase tudo.
+0,6 / 0,8 mm → peça funcional em metade do tempo, abrindo mão do detalhe fino.
+
+5️⃣ Troca com a impressora QUENTE 🔧
+Aquece a 240 °C e aperta o bico contra o bloco quente nessa temperatura. Apertou frio? Vaza plástico pelas roscas depois. E refaz o Z-offset. 📏
+
+💡 Regra de bolso: bico é consumível, não peça eterna. Troca a cada ~500 h (ou 2 carretéis de abrasivo) e metade dos "problemas misteriosos" somem.
+
+Me conta aqui 👇
+Qual diâmetro vive na sua impressora: 0,4 raiz ou já migrou pro 0,6? E quantos bicos você já aposentou? 😅
+
+Comenta que eu respondo um por um. Salva pra lembrar na hora do cold pull! 📌
+
+#impressao3d #impressora3d #bico3d #nozzle #filamento #petg #impressao3dbrasil #maker #makerbrasil #fdm #3dprinting #3dprint #manutencao3d #dicas3d #bicoquente #impressao3dcaseira #manufaturaaditiva #hotend
