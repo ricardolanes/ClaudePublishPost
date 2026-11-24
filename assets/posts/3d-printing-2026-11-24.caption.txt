@@ -1,0 +1,30 @@
+Essa peça está sendo construída em UMA única linha contínua. Sem costura, sem emenda. 🌀✨
+
+Olha a foto: o bico passando rente, a fumacinha subindo e aquela espiral branca translúcida ganhando altura camada por camada. Isso aqui é vase mode (modo espiral) — e é o truque mais bonito e mais mal usado da impressão 3D. 👇
+
+1️⃣ O que é, de verdade 🧵
+No modo normal a impressora fecha uma camada, sobe um degrau e começa a próxima. No vase mode o eixo Z sobe DEVAGAR o tempo todo, enquanto o bico dá a volta. Resultado: uma parede única, em espiral, do início ao fim. Zero retração, zero costura vertical, zero cicatriz naquele ponto onde a camada fecharia.
+
+2️⃣ Por que fica tão translúcido 💡
+Parede única de 0,4 mm (ou 0,8 se usar bico maior) deixa a luz atravessar. Com PLA branco ou natural, a peça vira luminária. É o mesmo efeito da foto: a LED da impressora atravessando o objeto.
+
+3️⃣ Onde o pessoal erra ⚠️
+Vaso impresso assim NÃO segura água. É uma parede só — vaza pela microporosidade entre as camadas. Solução: usa um copo plástico dentro, ou passa resina epóxi por dentro.
+
+4️⃣ Os ajustes que salvam 🔧
+• Bico 0,6 ou 0,8 mm → parede mais grossa, peça muito mais firme
+• Ventoinha a 100% → a camada precisa solidificar antes da seguinte
+• Velocidade entre 30 e 50 mm/s → rápido demais fica ondulado
+• 2 ou 3 camadas de base sólida → senão o fundo fica vazado
+
+5️⃣ Quando NÃO usar ❌
+Peça funcional, com furo, rosca ou encaixe. Vase mode só funciona em geometria fechada e contínua. Suporte, ilha solta ou detalhe interno = a impressora simplesmente ignora. Pra isso, modo normal mesmo.
+
+💡 Regra de bolso: vase mode é pra forma, não pra função. Decoração, luminária, porta-treco, casquinha de presente — aí ele brilha (literalmente).
+
+Me conta aqui 👇
+Você já imprimiu em vase mode ou ainda acha que é só enfeite? E qual foi a peça mais bonita que saiu da sua impressora? 😍
+
+Comenta que eu respondo um por um. Salva pra testar no próximo fim de semana! 📌
+
+#impressao3d #impressora3d #vasemode #modoespiral #pla #filamento #impressao3dbrasil #maker #makerbrasil #fdm #3dprinting #3dprint #dicas3d #impressao3dcaseira
