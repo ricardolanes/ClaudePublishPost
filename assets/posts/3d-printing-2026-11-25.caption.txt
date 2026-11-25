@@ -1,0 +1,32 @@
+A engrenagem vermelha da foto só gira de verdade por causa de 0,2 mm de FOLGA. 🔴⚙️
+
+Parece detalhe bobo, mas é o motivo nº 1 de engrenagem impressa travar. No CAD os dentes encostam perfeitinho. Na vida real a camada incha, o dente sai mais "gordo" que o desenho e o par agarra. 👇
+
+1️⃣ FOLGA ENTRE DENTES (backlash) 📐
+Deixa de 0,15 a 0,3 mm no engrenamento. Sem isso as duas se empurram, forçam o motor e comem o dente. Com folga demais, bate e faz barulho. O ponto certo gira com um leve "jogo", sem cambalear.
+
+2️⃣ O FURO CENTRAL É UMA ARMADILHA 🕳️
+Olha o cubo saliente no meio: furo impresso SEMPRE sai menor que o CAD, de 0,1 a 0,3 mm. Modela com folga ou passa a broca depois. Forçar eixo em furo apertado racha a peça bem no meio.
+
+3️⃣ DEITADA, SEMPRE 🛏️
+Engrenagem imprime com a face na mesa. Assim as camadas ficam perpendiculares à força do dente. Em pé, cada dente vira uma pilha de panquecas esperando pra descolar.
+
+4️⃣ PAREDE > PREENCHIMENTO 🧱
+4 a 5 perímetros e 25% de infill. O esforço acontece na superfície do dente, não no miolo. Encher de 60% só gasta filamento e tempo.
+
+5️⃣ MATERIAL CERTO ✅
+PLA é duro mas quebradiço — bom pra protótipo. PETG aguenta mais pancada. Pra girar muito mesmo, nylon ou PLA com fibra de carbono.
+
+6️⃣ OS FUROS DE ALÍVIO 🔵
+Aqueles rasgos redondos no corpo não são decoração: tiram peso e deixam a peça esfriar por igual, reduzindo empenamento.
+
+💡 Dica de ouro: imprime UM par de teste pequeno antes do conjunto inteiro. 15 minutos de teste economizam 6 horas de peça travada.
+
+E repara na bancada: o bonequinho amarelo, a cantoneira laranja, o suporte de celular preto, a espátula e a fita azul. A mesa de todo maker. 😅
+
+Me conta aqui 👇
+Você já imprimiu engrenagem que não girou? Qual folga você usa no seu fatiador? 🤔
+
+Comenta que eu respondo um por um! Salva pra consultar no próximo projeto com movimento. 📌
+
+#impressao3d #impressora3d #engrenagem #pecafuncional #tolerancia #backlash #pla #petg #nylon #filamento #fatiamento #orientacaodepeca #maker #makerbrasil #impressao3dbrasil #3dprinting #fdm #pecas3d #dicas3d
