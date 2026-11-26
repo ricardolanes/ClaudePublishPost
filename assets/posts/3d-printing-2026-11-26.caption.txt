@@ -1,0 +1,32 @@
+Aquela poeirinha azul na bancada é o preço de uma peça bem acabada. 🔵🪵
+
+A impressora termina em 4 horas. O acabamento leva 15 minutos — e é ele que separa "peça impressa" de "peça pronta". A marca que a lima está atacando aqui é exatamente onde o suporte estava grudado. 👇
+
+1️⃣ COMECE PELA LIMA, NÃO PELA LIXA 🪚
+Marca de suporte é relevo, não arranhão. Lixa só alisa o que já está no nível. Use uma lima agulha (diamantada, como a da foto) pra tirar o volume primeiro, depois passe pra lixa.
+
+2️⃣ A SEQUÊNCIA DAS GRANAS 📊
+320 → 600 → 1000. Pular etapa é o erro clássico: a lixa grossa deixa riscos que a fina não apaga nunca mais. Cada grana existe pra apagar os riscos da anterior.
+
+3️⃣ LIXE MOLHADO 💧
+PLA derrete com atrito. Lixa seca esquenta, empasta e vira bola de plástico na peça. Um potinho de água resolve, tira o pó e deixa a superfície muito mais lisa.
+
+4️⃣ SEM PRESSA NA FORÇA 🤏
+Pressão leve e muitas passadas. Apertando forte você cava um vale no lugar da marca — e aí fica pior do que estava.
+
+5️⃣ PROTEJA O PULMÃO 😷
+Esse pó todo voando não é inofensivo. Máscara simples e bancada ventilada. Lixar molhado já derruba 90% da poeira.
+
+6️⃣ ONDE NÃO LIXAR ⚠️
+Furo de parafuso e face de encaixe: ali você muda a medida. Nesses pontos, broca ou alargador — nunca lixa no olho.
+
+💡 Dica de ouro: antes de lixar, passe o dedo. O que a mão não sente, o olho não vê depois da tinta. Acabamento é tato, não vista.
+
+Repara na peça: um suporte de mancal em PLA azul, com as camadas ainda visíveis nas laterais e os dois furos de fixação intactos. Em 10 minutos ela sai lisa de verdade. ✨
+
+Me conta aqui 👇
+Você lixa suas peças ou imprime e já usa? Qual sua grana favorita? 🤔
+
+Comenta que eu respondo um por um! Salva pra lembrar da sequência 320-600-1000. 📌
+
+#impressao3d #impressora3d #acabamento #posprocessamento #lixar #pla #filamento #suportes #maker #makerbrasil #impressao3dbrasil #diy #3dprinting #fdm #pecas3d #dicas3d #oficina #handmade
