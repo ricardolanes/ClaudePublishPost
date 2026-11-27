@@ -1,0 +1,30 @@
+Essa peça vermelha não tem nenhum suporte. E é por isso que ela ficou lisa assim. 🔴✨
+
+Suporte de celular em PLA vermelho: um corpo só, as camadas brilhando na luz da bancada e a impressora ao fundo. Peça pronta de verdade é a que sai da mesa e já vai usar. 👇
+
+1️⃣ ORIENTAÇÃO É 80% DO ACABAMENTO 📐
+Essa peça foi fatiada deitada, apoiada na face traseira. Zero ponte, zero balanço, zero suporte pra arrancar. Antes de clicar em fatiar, gire o modelo: a posição certa economiza mais tempo que qualquer perfil "rápido".
+
+2️⃣ CAMADA VISÍVEL NÃO É DEFEITO 🌊
+Repara no risco horizontal uniforme da foto — isso é assinatura de FDM, não falha. O problema é camada IRREGULAR. Se o espaçamento varia, o caso é extrusão ou correia, não lixa.
+
+3️⃣ FILAMENTO BRILHANTE ENTREGA TUDO ✨
+Vermelho brilhante reflete e denuncia qualquer ondulação. Quer esconder imperfeição? Fosco. Quer peça de foto? Brilhante — mas aí a impressão precisa estar impecável.
+
+4️⃣ O CHANFRO SALVA A BASE 🔻
+Aquele pé da frente com a curvinha: chanfro de 45° na primeira camada mata o elephant foot e dispensa borda. Dois minutos no CAD, uma vida sem rebarba.
+
+5️⃣ PAREDE ANTES DE PREENCHIMENTO 🧱
+Peça que recebe carga (celular pesa!) ganha mais com 4 paredes e 15% de preenchimento do que com 3 paredes e 40%. Mais firme e mais rápido.
+
+6️⃣ TESTE O ÂNGULO ANTES 🤳
+Imprime só os 10 mm da base e encosta o celular. Ângulo ruim você descobre em 8 minutos, não em 3 horas.
+
+💡 Dica de ouro: se precisou de suporte numa peça simples assim, o problema não foi a impressora — foi a orientação. Gira antes de fatiar. 🔄
+
+Me conta aqui 👇
+Qual foi a última peça que você imprimiu e JÁ está usando todo dia? 🤔
+
+Comenta que eu respondo um por um! Salva pra lembrar de girar o modelo antes de fatiar. 📌
+
+#impressao3d #impressora3d #pla #filamento #pecas3d #suportedecelular #maker #makerbrasil #impressao3dbrasil #fdm #3dprinting #3dprint #fatiamento #dicas3d #semsuporte #acabamento #diy #manufaturaaditiva
