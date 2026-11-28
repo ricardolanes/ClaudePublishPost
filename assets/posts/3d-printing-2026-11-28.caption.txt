@@ -1,9 +1,9 @@
-Essa impressora custa menos que um celular intermediário — e é ela que imprime 90% do que você vê por aí. 🖤🧡
+Essa impressora custa menos que um celular e imprime 90% do que você vê por aí. 🖤🧡
 
 Bambu Lab A1 na bancada: estrutura aberta, mesa texturizada de PEI e uma peça cinza torcida subindo camada por camada. Tem detalhe que ninguém conta antes de você comprar. 👇
 
 1️⃣ ESTRUTURA ABERTA TEM LADO BOM E LADO RUIM 🌬️
-Aberta assim, ela dissipa calor rápido — ótimo pra PLA e PETG, que PEDEM resfriamento. O problema aparece no ABS e no ASA: sem câmara fechada, a peça esfria desigual e racha no meio da impressão (warping). Se o seu plano é imprimir peça pra ficar no sol ou dentro do carro, já pensa num gabinete.
+Aberta assim, ela dissipa calor rápido — ótimo pra PLA e PETG, que PEDEM resfriamento. O problema aparece no ABS e no ASA: sem câmara fechada, a peça esfria desigual e racha no meio da impressão (warping). Peça pra ficar no sol ou dentro do carro? Já pensa num gabinete.
 
 2️⃣ MESA QUE VAI E VEM = ALTURA TEM LIMITE 📦
 Esse formato é bed slinger: a mesa corre no eixo Y. Peça alta e estreita balança junto com a mesa e aparece aquele fantasma nas paredes (ringing). Solução que funciona: baixa a aceleração pros 30% finais da peça, ou imprime deitada e cola depois.
