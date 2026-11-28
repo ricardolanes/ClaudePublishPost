@@ -1,0 +1,27 @@
+Essa impressora custa menos que um celular intermediário — e é ela que imprime 90% do que você vê por aí. 🖤🧡
+
+Bambu Lab A1 na bancada: estrutura aberta, mesa texturizada de PEI e uma peça cinza torcida subindo camada por camada. Tem detalhe que ninguém conta antes de você comprar. 👇
+
+1️⃣ ESTRUTURA ABERTA TEM LADO BOM E LADO RUIM 🌬️
+Aberta assim, ela dissipa calor rápido — ótimo pra PLA e PETG, que PEDEM resfriamento. O problema aparece no ABS e no ASA: sem câmara fechada, a peça esfria desigual e racha no meio da impressão (warping). Se o seu plano é imprimir peça pra ficar no sol ou dentro do carro, já pensa num gabinete.
+
+2️⃣ MESA QUE VAI E VEM = ALTURA TEM LIMITE 📦
+Esse formato é bed slinger: a mesa corre no eixo Y. Peça alta e estreita balança junto com a mesa e aparece aquele fantasma nas paredes (ringing). Solução que funciona: baixa a aceleração pros 30% finais da peça, ou imprime deitada e cola depois.
+
+3️⃣ A MESA TEXTURIZADA NÃO PRECISA DE COLA 🧊
+Esse granulado da foto é PEI texturizado. Com PLA e PETG ele agarra sozinho — cola em bastão ali só suja. O que realmente solta peça é GORDURA DO DEDO. Passa álcool isopropílico antes de cada impressão e esquece o resto.
+
+4️⃣ NIVELAMENTO AUTOMÁTICO NÃO É MÁGICA 📏
+Ela mede a mesa sozinha, sim. Mas se tiver resíduo de plástico grudado de uma falha anterior, o sensor lê aquilo como mesa — e a primeira camada sai torta.
+
+5️⃣ VELOCIDADE ALTA COBRA FILAMENTO SECO 💧
+Ela imprime rápido de verdade, e aí o filamento úmido entrega na hora: estala, borbulha e deixa a parede opaca e frágil. PLA guardado aberto por 3 semanas no Brasil já é PLA úmido. Saco com sílica ou secadora — não é frescura.
+
+💡 Dica de ouro: antes de culpar a impressora, confere nessa ordem — mesa limpa, filamento seco, modelo bem orientado. Em 9 de 10 casos o problema está nessa lista. ✅
+
+Me conta aqui 👇
+Qual é a SUA impressora hoje? E se você ainda não tem, qual tá na lista de desejo? 🤔
+
+Comenta que eu respondo um por um! 📌
+
+#impressao3d #impressora3d #bambulab #bambulaba1 #pla #petg #filamento #maker #makerbrasil #impressao3dbrasil #fdm #3dprinting #3dprint #dicas3d #impressao3dcaseira #manufaturaaditiva #pecas3d #tecnologia
